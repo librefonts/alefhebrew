@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2012 by Hagilda. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Alef
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      1.001;UKWN;Alef-Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Alef Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.001;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Alef-Bold
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Hagilda Tel Aviv
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Alef
+    </namerecord>
+    <namerecord nameID="200" platformID="3" platEncID="1" langID="0x409">
+      Webfont 1.0
+    </namerecord>
+    <namerecord nameID="201" platformID="3" platEncID="1" langID="0x409">
+      Wed Mar 20 10:49:13 2013
+    </namerecord>
+  </name>
+
+</ttFont>

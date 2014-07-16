@@ -1,0 +1,11133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <TSI3>
+
+    <glyphProgram name=".notdef">
+/* VTTTalk glyph 0, char 0xffff */
+/* GUI generated Thu Oct 11 20:44:03 2012 */
+
+/* Y direction */
+YAnchor(0,6)
+YDist(0,4,>=)
+YAnchor(1)
+YDist(1,7,>=)
+
+/* X direction */
+XDist(8,1,&lt;)
+XDist(1,7,>=)
+XDist(9,2,&lt;)
+XDist(2,6,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="A">
+/* VTTTalk glyph 36, char 0x41 (A) */
+/* GUI generated Sat Sep 22 22:51:07 2012 */
+
+/* Y direction */
+YAnchor(4,8)
+YAnchor(5,2)
+YAnchor(6,2)
+YUpToGrid(10)
+YIPAnchor(4,8,10,6)
+YMove(3/8,10)
+YDelta(10,1/2@20)
+YShift(8,9)
+YLink(8,1,72)
+YShift(1,2)
+YAnchor(7,8)
+
+/* X direction */
+XDist(11,4,&lt;)
+XDist(12,7,&lt;)
+XInterpolate(7,10,4)
+Diagonal>&lt;(7,0,6,10,178)
+DAlign(0,1,9,10)
+Diagonal>&lt;(4,3,5,10,178)
+DAlign(3,2,8,10)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="AE">
+/* VTTTalk glyph 123, char 0xc6 */
+/* GUI generated Fri Oct 12 04:44:55 2012 */
+
+/* Y direction */
+YAnchor(3,8)
+YLink(3,0,72)
+YAnchor(7,8)
+YAnchor(8,2)
+YLink(8,11,72)
+YInterpolate(3,4,15,8)
+YLink(4,17,72)
+YLink(15,12,72)
+
+/* X direction */
+XAnchor(7)
+XDist(7,19,>=)
+XShift(19,8)
+Diagonal>>(19,6,8,18,249)
+XShift(18,4)
+XLink(18,12,68)
+XLink(18,15,68)
+XDist(20,1,>=)
+XDist(1,10,&lt;)
+XDist(1,14,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Aacute">
+/* VTTTalk glyph 118, char 0xc1 */
+/* GUI generated Tue Nov 13 00:25:36 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(15,8)
+YAnchor(16,2)
+YAnchor(17,2)
+YUpToGrid(21)
+YIPAnchor(15,19,21,17)
+YMove(3/8,21)
+YDelta(21,1/2@20)
+YShift(19,20)
+YLink(19,12,72)
+YShift(12,13)
+YAnchor(18,8)
+
+/* X direction */
+XDist(22,15,&lt;)
+XDist(23,18,&lt;)
+XInterpolate(18,21,15)
+XDist(21,10,>=)
+Diagonal>&lt;(18,11,17,21,178)
+DAlign(11,12,20,21)
+Diagonal>&lt;(15,14,16,21,178)
+DAlign(14,13,19,21)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Abreve">
+/* VTTTalk glyph 183, char 0x102 */
+/* GUI generated Tue Nov 13 00:37:38 2012 */
+
+/* Y direction */
+YAnchor(7,319)
+YLink(7,14,320)
+YShift(14,0)
+YShift(14,11)
+YAnchor(21,8)
+YAnchor(22,2)
+YAnchor(23,2)
+YUpToGrid(27)
+YIPAnchor(21,25,27,23)
+YMove(3/8,27)
+YDelta(27,1/2@20)
+YShift(25,26)
+YLink(25,18,72)
+YShift(18,19)
+YAnchor(24,8)
+
+/* X direction */
+XDist(28,21,&lt;)
+XDist(29,24,&lt;)
+XInterpolate(24,27,21)
+XDist(27,1,>=)
+Diagonal>&lt;(24,17,23,27,178)
+DAlign(17,18,26,27)
+Diagonal>&lt;(21,20,22,27,178)
+DAlign(20,19,25,27)
+XDist(27,10,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflex">
+/* VTTTalk glyph 119, char 0xc2 */
+/* GUI generated Mon Nov 12 22:22:49 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(10,8)
+YAnchor(11,2)
+YAnchor(12,2)
+YUpToGrid(16)
+YIPAnchor(10,14,16,12)
+YMove(3/8,16)
+YDelta(16,1/2@20)
+YShift(14,15)
+YLink(14,7,72)
+YShift(7,8)
+YAnchor(13,8)
+
+/* X direction */
+XDist(17,10,&lt;)
+XDist(18,13,&lt;)
+XInterpolate(13,16,10)
+XDist(16,0,>=)
+Diagonal>&lt;(13,6,12,16,178)
+DAlign(6,7,15,16)
+Diagonal>&lt;(10,9,11,16,178)
+DAlign(9,8,14,16)
+XDist(16,2,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Adieresis">
+/* VTTTalk glyph 121, char 0xc4 */
+/* GUI generated Tue Nov 13 00:26:00 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(49,8)
+YAnchor(50,2)
+YAnchor(51,2)
+YUpToGrid(55)
+YIPAnchor(49,56,55,51)
+YMove(3/8,55)
+YDelta(55,1/2@20)
+YShift(56,54)
+YLink(56,46,72)
+YShift(46,47)
+YAnchor(52,8)
+
+/* X direction */
+XDist(57,49,&lt;)
+XDist(58,52,&lt;)
+XInterpolate(52,55,49)
+XDist(55,17,>=)
+Diagonal>&lt;(49,48,50,55,178)
+DAlign(48,47,56,55)
+Diagonal>&lt;(52,53,51,55,178)
+DAlign(53,46,54,55)
+XDist(55,29,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Agrave">
+/* VTTTalk glyph 117, char 0xc0 */
+/* GUI generated Mon Nov 12 02:50:19 2012 */
+
+YAnchor(0,310)
+YLink(0,7,313)
+
+
+/* Y direction */
+YAnchor(15,8)
+YAnchor(16,2)
+YAnchor(17,2)
+YUpToGrid(21)
+YIPAnchor(15,19,21,17)
+YMove(3/8,21)
+YDelta(21,1/2@20)
+YShift(19,20)
+YLink(19,12,72)
+YShift(12,13)
+YAnchor(18,8)
+
+/* X direction */
+XDist(22,15,&lt;)
+XDist(23,18,&lt;)
+XInterpolate(18,21,15)
+XDist(21,0,>=)
+Diagonal>&lt;(18,11,17,21,178)
+DAlign(11,12,20,21)
+Diagonal>&lt;(15,14,16,21,178)
+DAlign(14,13,19,21)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Amacron">
+/* VTTTalk glyph 181, char 0x100 */
+/* GUI generated Tue Nov 13 00:37:25 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,1,317)
+YAnchor(8,8)
+YAnchor(9,2)
+YAnchor(10,2)
+YUpToGrid(14)
+YIPAnchor(8,12,14,10)
+YMove(3/8,14)
+YDelta(14,1/2@20)
+YShift(12,13)
+YLink(12,5,72)
+YShift(5,6)
+YAnchor(11,8)
+
+/* X direction */
+XDist(15,8,&lt;)
+XDist(16,11,&lt;)
+XInterpolate(11,14,8)
+XDist(14,2,>=)
+Diagonal>&lt;(11,4,10,14,178)
+DAlign(4,5,13,14)
+Diagonal>&lt;(8,7,9,14,178)
+DAlign(7,6,12,14)
+XDist(14,3,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Aogonek">
+/* VTTTalk glyph 185, char 0x104 */
+/* GUI generated Tue Nov 13 00:14:01 2012 */
+
+/* Y direction */
+YAnchor(0,8)
+YShift(0,1)
+YShift(1,19)
+YShift(1,4)
+YShift(4,6)
+YAnchor(6)
+YDist(6,11,>=)
+YAnchor(23,8)
+YAnchor(24,2)
+YAnchor(25,2)
+YUpToGrid(28)
+YIPAnchor(23,26,28,25)
+YMove(3/8,28)
+YDelta(28,1/2@20)
+YShift(26,27)
+YLink(26,20,72)
+YShift(20,21)
+
+/* X direction */
+XDist(29,23,&lt;)
+XDist(30,0,&lt;)
+XInterpolate(0,28,23)
+Diagonal>&lt;(0,19,25,28,178)
+DAlign(19,20,27,28)
+Diagonal>&lt;(23,22,24,28,178)
+DAlign(22,21,26,28)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Aring">
+/* VTTTalk glyph 122, char 0xc5 */
+/* GUI generated Tue Nov 13 00:26:21 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YDist(10,26,>=)
+YDist(26,20,>=)
+YDist(20,0,>=)
+YAnchor(35,8)
+YAnchor(36,2)
+YAnchor(37,2)
+YUpToGrid(41)
+YIPAnchor(35,42,41,37)
+YMove(3/8,41)
+YDelta(41,1/2@20)
+YShift(42,40)
+YLink(42,32,72)
+YShift(32,33)
+YAnchor(38,8)
+
+/* X direction */
+XDist(43,35,&lt;)
+XDist(44,38,&lt;)
+XInterpolate(38,41,35)
+XDist(41,5,>=)
+Diagonal>&lt;(35,34,36,41,178)
+DAlign(34,33,42,41)
+Diagonal>&lt;(38,39,37,41,178)
+DAlign(39,32,40,41)
+XDist(41,15,>=)
+XInterpolate(5,29,23,15)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Atilde">
+/* VTTTalk glyph 120, char 0xc3 */
+/* GUI generated Tue Nov 13 00:25:46 2012 */
+
+/* Y direction */
+YAnchor(5,310)
+YLink(5,19,315)
+YShift(19,0)
+YAnchor(0)
+YDelta(0,1@10..12)
+YAnchor(11,310)
+YShift(11,8)
+YAnchor(8)
+YDelta(8,1@10..13)
+YLink(8,16,315)
+YAnchor(25,8)
+YAnchor(26,2)
+YAnchor(27,2)
+YUpToGrid(31)
+YIPAnchor(25,29,31,27)
+YMove(3/8,31)
+YDelta(31,1/2@20)
+YShift(29,30)
+YLink(29,22,72)
+YShift(22,23)
+YAnchor(28,8)
+
+/* X direction */
+XDist(32,25,&lt;)
+XDist(33,28,&lt;)
+XInterpolate(28,31,25)
+XDist(31,1,>=)
+Diagonal>&lt;(28,21,27,31,178)
+DAlign(21,22,30,31)
+Diagonal>&lt;(25,24,26,31,178)
+DAlign(24,23,29,31)
+XDist(31,12,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* VTTTalk glyph 37, char 0x42 (B) */
+/* GUI generated Sat Sep 22 12:07:39 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,35,73)
+YAnchor(21,8)
+YLink(21,38,73)
+YIPAnchor(21,49,0)
+YLink(49,37,73)
+YInterpolate(49,10,37)
+
+/* X direction */
+XDist(51,22,&lt;)
+XLink(22,49,68)
+XShift(49,37)
+XDist(52,16,&lt;)
+XLink(16,43,70)
+XDist(16,5,&lt;)
+XShift(5,10)
+XLink(5,29,70)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* Y direction */	
+YAnchor(3,9)	
+YShift(3,0)	
+YLink(3,28,74)	
+YShift(28,31)	
+YAnchor(9,3)	
+YShift(9,12)	
+YLink(9,18,74)	
+YShift(18,13)	
+	
+/* X direction */	
+XDist(32,6,&lt;)	
+XLink(6,23,70)	
+XDist(33,0,&lt;)	
+XDist(0,12,&lt;)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Cacute">
+/* VTTTalk glyph 187, char 0x106 */
+/* GUI generated Tue Nov 13 00:38:42 2012 */
+
+/* Y direction */
+YAnchor(14,310)
+YLink(14,3,313)
+YAnchor(19,9)
+YShift(19,16)
+YLink(19,44,74)
+YShift(44,47)
+YAnchor(25,3)
+YShift(25,28)
+YLink(25,34,74)
+YShift(34,29)
+
+/* X direction */
+XDist(48,22,&lt;)
+XLink(22,39,70)
+XDist(39,14,>=)
+XDist(49,16,&lt;)
+XDist(16,28,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccaron">
+/* Y direction */	
+YAnchor(2,310)	
+YShift(2,1)	
+YAnchor(1)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(2,5,314)	
+YAnchor(9,9)	
+YShift(9,6)	
+YLink(9,34,74)	
+YShift(34,37)	
+YAnchor(15,3)	
+YShift(15,18)	
+YLink(15,24,74)	
+YShift(24,19)	
+	
+/* X direction */	
+XDist(38,12,&lt;)	
+XLink(12,29,70)	
+XDist(29,2,>=)	
+XDist(39,6,&lt;)	
+XDist(6,18,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccedilla">
+/* Y direction */	
+YAnchor(22,9)	
+YShift(22,51)	
+YShift(22,21)	
+YShift(21,15)	
+YAnchor(15)	
+YDist(15,8,>=)	
+YLink(22,47,74)	
+YShift(47,50)	
+YAnchor(28,3)	
+YShift(28,31)	
+YLink(28,37,74)	
+YShift(37,32)	
+	
+/* X direction */	
+XDist(55,25,&lt;)	
+XLink(25,42,70)	
+XDist(56,51,&lt;)	
+XDist(51,31,&lt;)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Cdotaccent">
+/* Y direction */	
+YAnchor(10,310)	
+YDist(10,0,>=)	
+YAnchor(23,9)	
+YShift(23,20)	
+YLink(23,48,74)	
+YShift(48,51)	
+YAnchor(29,3)	
+YShift(29,32)	
+YLink(29,38,74)	
+YShift(38,33)	
+	
+/* X direction */	
+XDist(52,26,&lt;)	
+XLink(26,43,70)	
+XDist(43,10,>=)	
+XDist(53,20,&lt;)	
+XDist(20,32,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* VTTTalk glyph 39, char 0x44 (D) */
+/* GUI generated Wed Oct 10 08:07:42 2012 */
+
+/* Y direction */
+YAnchor(2,2)
+YLink(2,33,74)
+YAnchor(20,8)
+YLink(20,21,74)
+YInterpolate(21,27,33)
+
+/* X direction */
+XDist(36,0,&lt;)
+XLink(0,35,68)
+XDist(37,11,&lt;)
+XLink(11,27,70)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Dcaron">
+/* VTTTalk glyph 193, char 0x10e */
+/* GUI generated Tue Nov 13 00:38:52 2012 */
+
+/* Y direction */
+YAnchor(2,310)
+YShift(2,1)
+YAnchor(1)
+YShift(2,3)
+YAnchor(3)
+YLink(2,5,314)
+YAnchor(8,2)
+YLink(8,39,74)
+YAnchor(26,8)
+YLink(26,27,74)
+YInterpolate(27,33,39)
+
+/* X direction */
+XDist(42,6,&lt;)
+XLink(6,41,68)
+XDist(41,2,>=)
+XDist(43,17,&lt;)
+XLink(17,33,74)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Dcroat">
+/* VTTTalk glyph 195, char 0x110 */
+/* GUI generated Tue Nov 13 00:39:08 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,0,317)
+YAnchor(6,2)
+YLink(6,37,74)
+YAnchor(24,8)
+YLink(24,25,74)
+YInterpolate(25,31,37)
+
+/* X direction */
+XDist(40,4,&lt;)
+XLink(4,39,68)
+XDist(39,1,>=)
+XDist(39,2,>=)
+XDist(41,15,&lt;)
+XLink(15,31,70)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="E">
+/* VTTTalk glyph 40, char 0x45 (E) */
+/* GUI generated Wed Sep 19 23:52:20 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,3,72)
+YAnchor(11,8)
+YLink(11,8,72)
+YIPAnchor(0,4,11)
+YLink(4,7,72)
+
+/* X direction */
+XDist(12,11,>=)
+XLink(11,7,68)
+XShift(7,3)
+XDist(13,9,>=)
+XDist(9,2,&lt;)
+XDist(9,6,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Eacute">
+/* VTTTalk glyph 126, char 0xc9 */
+/* GUI generated Tue Nov 13 00:26:36 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,2)
+YLink(11,14,72)
+YAnchor(22,8)
+YLink(22,19,72)
+YIPAnchor(11,15,22)
+YLink(15,18,72)
+
+/* X direction */
+XDist(23,22,>=)
+XLink(22,18,68)
+XDist(18,10,>=)
+XShift(18,14)
+XDist(24,20,>=)
+XDist(20,13,&lt;)
+XDist(20,17,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ecaron">
+/* VTTTalk glyph 203, char 0x11a */
+/* GUI generated Tue Nov 13 00:39:32 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YLink(3,0,314)
+YShift(3,2)
+YAnchor(2)
+YShift(3,4)
+YAnchor(4)
+YAnchor(6,2)
+YLink(6,9,72)
+YAnchor(17,8)
+YLink(17,14,72)
+YIPAnchor(6,10,17)
+YLink(10,13,72)
+
+/* X direction */
+XDist(18,17,>=)
+XLink(17,13,68)
+XShift(13,9)
+XDist(9,3,>=)
+XDist(19,15,>=)
+XDist(15,8,&lt;)
+XDist(15,12,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflex">
+/* VTTTalk glyph 127, char 0xca */
+/* GUI generated Tue Nov 13 00:26:44 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(6,2)
+YLink(6,9,72)
+YAnchor(17,8)
+YLink(17,14,72)
+YIPAnchor(6,10,17)
+YLink(10,13,72)
+
+/* X direction */
+XDist(18,17,>=)
+XLink(17,13,68)
+XDist(13,0,>=)
+XShift(13,9)
+XDist(19,15,>=)
+XDist(15,12,>=)
+XDist(15,8,&lt;)
+XDist(8,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Edieresis">
+/* VTTTalk glyph 128, char 0xcb */
+/* GUI generated Tue Nov 13 00:27:43 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(56,8)
+YLink(56,53,72)
+YAnchor(57,2)
+YLink(57,48,72)
+YIPAnchor(57,49,56)
+YLink(49,52,72)
+
+/* X direction */
+XDist(58,56,>=)
+XLink(56,52,68)
+XDist(52,17,>=)
+XShift(52,48)
+XDist(59,54,>=)
+XDist(54,51,>=)
+XDist(54,47,&lt;)
+XDist(47,29,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Edotaccent">
+/* VTTTalk glyph 199, char 0x116 */
+/* GUI generated Tue Nov 13 00:39:26 2012 */
+
+/* Y direction */
+YAnchor(8,310)
+YDist(8,0,>=)
+YAnchor(14,2)
+YLink(14,17,72)
+YAnchor(25,6)
+YLink(25,22,72)
+YIPAnchor(14,18,25)
+YLink(18,21,72)
+
+/* X direction */
+XDist(26,25,>=)
+XLink(25,21,68)
+XDist(21,11,>=)
+XShift(21,17)
+XDist(27,23,>=)
+XDist(23,16,&lt;)
+XDist(23,20,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Egrave">
+/* VTTTalk glyph 125, char 0xc8 */
+/* GUI generated Tue Nov 13 00:26:29 2012 */
+
+/* Y direction */
+YAnchor(0,310)
+YLink(0,7,313)
+YAnchor(11,2)
+YLink(11,14,72)
+YAnchor(22,8)
+YLink(22,19,72)
+YIPAnchor(11,15,22)
+YLink(15,18,72)
+
+/* X direction */
+XDist(23,22,>=)
+XLink(22,18,68)
+XShift(18,14)
+XDist(24,20,>=)
+XDist(20,17,>=)
+XDist(20,13,&lt;)
+XDist(13,0,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Emacron">
+/* VTTTalk glyph 197, char 0x112 */
+/* GUI generated Tue Nov 13 00:39:15 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,1,317)
+YAnchor(4,2)
+YLink(4,7,72)
+YAnchor(15,6)
+YLink(15,12,72)
+YIPAnchor(4,8,15)
+YLink(8,11,72)
+
+/* X direction */
+XDist(16,15,>=)
+XLink(15,11,68)
+XShift(11,7)
+XDist(7,3,>=)
+XDist(17,13,>=)
+XDist(13,10,>=)
+XDist(13,6,&lt;)
+XDist(6,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Eng">
+/* VTTTalk glyph 235, char 0x14a */
+/* GUI generated Tue Nov 13 00:14:23 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(2,8)
+YAnchor(6)
+YAnchor(17,8)
+YAnchor(19,8)
+YInterpolate(19,23,18,0)
+YMove(-3/8,23)
+YMove(3/8,18)
+YAnchor(22,2)
+
+/* X direction */
+XDist(24,20,>=)
+XLink(20,18,68)
+XDist(25,2,>=)
+XLink(2,23,68)
+Diagonal&lt;>(17,23,18,22,158)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Eogonek">
+/* VTTTalk glyph 201, char 0x118 */
+/* GUI generated Tue Nov 13 00:13:35 2012 */
+
+/* Y direction */
+YAnchor(20,8)
+YLink(20,29,72)
+YShift(20,19)
+YShift(19,1)
+YShift(1,4)
+YShift(4,6)
+YAnchor(6)
+YDist(6,11,>=)
+YAnchor(21,2)
+YLink(21,24,72)
+YIPAnchor(21,25,20)
+YLink(25,28,72)
+
+/* X direction */
+XDist(31,20,>=)
+XLink(20,28,68)
+XShift(28,24)
+XDist(32,30,>=)
+XDist(30,23,&lt;)
+XDist(30,27,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Eth">
+/* VTTTalk glyph 133, char 0xd0 */
+/* GUI generated Tue Nov 13 01:15:20 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,37,74)
+YAnchor(18,8)
+YLink(18,25,74)
+YInterpolate(25,31,37)
+YShift(31,40)
+YLink(40,42,74)
+YShift(40,23)
+YLink(23,20,74)
+
+/* X direction */
+XDist(44,19,&lt;)
+XLink(19,43,68)
+XShift(43,39)
+XDist(45,9,&lt;)
+XLink(9,31,68)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Euro">
+/* VTTTalk glyph 374, char 0x20ac */
+/* GUI generated Mon Nov 12 00:39:14 2012 */
+
+/* Y direction */
+YAnchor(3,7)
+YShift(3,1)
+YDelta(1,-1/2@12)
+YLink(3,44,87)
+YShift(44,0)
+YDelta(0,-1/2@12)
+YAnchor(20,10)
+YShift(20,22)
+YLink(20,25,87)
+YShift(25,23)
+YIPAnchor(3,38,31,20)
+YDelta(38,-1@11..12,1@20;32..33)
+YDelta(31,-1@20;32..33)
+YShift(38,8)
+YLink(38,35,85)
+YShift(35,11)
+YShift(31,15)
+YLink(31,34,85)
+YShift(34,12)
+
+/* X direction */
+XDist(46,9,>=)
+XShift(9,14)
+XShift(9,8)
+XLink(8,38,82)
+XShift(8,11)
+XLink(11,35,82)
+XShift(11,15)
+XLink(15,31,82)
+XDist(47,1,>=)
+XShift(1,22)
+XShift(22,32)
+XShift(32,36)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="F">
+/* VTTTalk glyph 41, char 0x46 (F) */
+/* GUI generated Wed Sep 19 23:52:57 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,3,72)
+YAnchor(9,8)
+YIPAnchor(9,4,0)
+YLink(4,7,72)
+
+/* X direction */
+XDist(10,9,>=)
+XLink(9,7,68)
+XShift(7,3)
+XDist(11,2,&lt;)
+XDist(2,6,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+	
+/* Y direction */	
+YAnchor(3,9)	
+YShift(3,0)	
+YLink(3,30,74)	
+YShift(30,33)	
+YAnchor(13,3)	
+YShift(13,16)	
+YLink(13,20,74)	
+YShift(20,17)	
+YIPAnchor(3,35,13)	
+YLink(35,37,72)	
+	
+/* X direction */	
+XDist(38,8,>=)	
+XLink(8,25,70)	
+XDist(39,37,>=)	
+XLink(37,33,68)	
+XShift(37,16)	
+XAnchor(16)	
+XShift(16,17)	
+XInterpolate(37,35,8)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Gbreve">
+/* Y direction */	
+YAnchor(5,319)	
+YLink(5,14,320)	
+YShift(14,11)	
+YShift(14,17)	
+YAnchor(21,9)	
+YLink(21,48,74)	
+YShift(48,51)	
+YAnchor(31,3)	
+YShift(31,34)	
+YLink(31,38,74)	
+YShift(38,35)	
+YIPAnchor(21,53,31)	
+YLink(53,55,72)	
+	
+/* X direction */	
+XDist(56,26,>=)	
+XLink(26,43,70)	
+XDist(43,5,>=)	
+XDist(57,55,>=)	
+XLink(55,51,68)	
+XShift(55,34)	
+XAnchor(34)	
+XShift(34,35)	
+XInterpolate(55,53,26)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Gcommaaccent">
+/* Y direction */	
+YAnchor(3,9)	
+YShift(3,0)	
+YLink(3,30,74)	
+YShift(30,33)	
+YAnchor(13,3)	
+YShift(13,16)	
+YLink(13,20,74)	
+YShift(20,17)	
+YIPAnchor(3,35,13)	
+YLink(35,37,72)	
+YAnchor(41,184)	
+YLink(41,52,313)	
+	
+/* X direction */	
+XDist(54,8,>=)	
+XLink(8,25,70)	
+XDist(25,53,>=)	
+XDist(55,37,>=)	
+XLink(37,33,68)	
+XShift(37,16)	
+XAnchor(16)	
+XShift(16,17)	
+XInterpolate(37,35,8)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Gdotaccent">
+/* VTTTalk glyph 207, char 0x120 */
+/* GUI generated Mon Nov 12 02:06:29 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YDist(10,0,>=)
+YAnchor(23,9)
+YShift(23,20)
+YLink(23,50,74)
+YShift(50,53)
+YAnchor(33,3)
+YShift(33,36)
+YLink(33,40,74)
+YShift(40,37)
+YIPAnchor(23,55,33)
+YLink(55,57,72)
+
+/* X direction */
+XDist(58,28,>=)
+XLink(28,45,70)
+XDist(59,57,>=)
+XLink(57,53,68)
+XShift(57,36)
+XAnchor(36)
+XShift(36,37)
+XInterpolate(57,55,28)
+XDist(55,10,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="H">
+/* VTTTalk glyph 43, char 0x48 (H) */
+/* GUI generated Sat Sep 22 11:57:46 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(3,8)
+YAnchor(7,8)
+YAnchor(8,2)
+YIPAnchor(3,4,8)
+YLink(4,10,72)
+
+/* X direction */
+XAnchor(0)
+XShift(0,4)
+XLink(0,1,68)
+XDist(1,13,&lt;)
+XDist(12,8,&lt;)
+XLink(8,9,68)
+XShift(9,5)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Hbar">
+/* VTTTalk glyph 211, char 0x126 */
+/* GUI generated Fri Oct 12 05:16:39 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(7,8)
+YAnchor(11,8)
+YAnchor(16,2)
+YIPAnchor(7,8,16)
+YInterpolate(8,22,16)
+YLink(8,23,72)
+YShift(22,5)
+YShift(22,12)
+YLink(22,18,202)
+YShift(18,2)
+YShift(18,15)
+
+/* X direction */
+XAnchor(0)
+XLink(0,1,68)
+XDist(1,25,&lt;)
+XShift(0,8)
+XShift(8,20)
+XDist(24,16,&lt;)
+XLink(16,17,68)
+XShift(17,9)
+XShift(9,23)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="I">
+/* VTTTalk glyph 44, char 0x49 (I) */
+/* GUI generated Tue Nov 13 02:26:20 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(3,8)
+
+/* X direction */
+XDelta(4,1/2@15)
+XDist(4,0,&lt;)
+XLink(0,2,68)
+XDist(2,5,&lt;)
+XDelta(5,-3/8@15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="IJ">
+/* VTTTalk glyph 222, char 0x132 */
+/* GUI generated Wed Dec 26 15:36:05 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YAnchor(2,8)
+YAnchor(9,151)
+YAnchor(18,2)
+
+/* X direction */
+XDist(20,0,&lt;)
+XLink(0,2,68)
+XDist(2,12,&lt;)
+XShift(12,9)
+XDist(21,19,>=)
+XNoRound(17)
+XLink(19,17,68)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Iacute">
+/* VTTTalk glyph 130, char 0xcd */
+/* GUI generated Tue Nov 13 00:28:12 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,2)
+YAnchor(14,8)
+
+/* X direction */
+XDist(15,11,&lt;)
+XLink(11,13,68)
+XDist(13,9,>=)
+XDist(13,16,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Icircumflex">
+/* VTTTalk glyph 131, char 0xce */
+/* GUI generated Tue Nov 13 00:28:20 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(6,2)
+YAnchor(9,8)
+
+/* X direction */
+XAnchor(7)
+XDist(7,2,>=)
+XDist(10,6,&lt;)
+XDist(6,0,>=)
+XLink(6,8,68)
+XDist(8,11,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Idieresis">
+/* VTTTalk glyph 132, char 0xcf */
+/* GUI generated Tue Nov 13 00:28:30 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(48,8)
+YAnchor(49,2)
+
+/* X direction */
+XAnchor(46)
+XDist(46,29,>=)
+XDist(50,49,&lt;)
+XDist(49,17,>=)
+XLink(49,47,68)
+XDist(47,51,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Idotaccent">
+/* VTTTalk glyph 217, char 0x130 */
+/* GUI generated Tue Nov 13 00:39:57 2012 */
+
+/* Y direction */
+YAnchor(8,310)
+YDist(8,0,>=)
+YAnchor(14,2)
+YAnchor(17,8)
+
+/* X direction */
+XDist(18,14,&lt;)
+XDist(14,4,>=)
+XDist(14,11,>=)
+XLink(14,16,68)
+XDist(16,19,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Igrave">
+/* VTTTalk glyph 129, char 0xcc */
+/* GUI generated Tue Nov 13 00:28:04 2012 */
+
+/* Y direction */
+YAnchor(0,310)
+YLink(0,7,313)
+YAnchor(11,2)
+YAnchor(14,8)
+
+/* X direction */
+XDist(15,11,&lt;)
+XDist(11,1,>=)
+XLink(11,13,68)
+XDist(13,16,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Imacron">
+/* VTTTalk glyph 213, char 0x12a */
+/* GUI generated Tue Nov 13 00:39:46 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,1,317)
+YAnchor(4,2)
+YAnchor(7,8)
+
+/* X direction */
+XDist(8,4,&lt;)
+XDist(4,2,>=)
+XDist(4,3,>=)
+XLink(4,6,68)
+XDist(6,9,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Iogonek">
+/* VTTTalk glyph 215, char 0x12e */
+/* GUI generated Tue Nov 13 00:13:28 2012 */
+
+/* Y direction */
+YAnchor(0,8)
+YShift(0,1)
+YShift(1,4)
+YShift(4,6)
+YAnchor(6)
+YDist(6,11,>=)
+YAnchor(20,8)
+YAnchor(21,2)
+
+/* X direction */
+XDist(23,21,&lt;)
+XLink(21,0,68)
+XDist(0,24,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="J">
+/* VTTTalk glyph 45, char 0x4a (J) */
+/* GUI generated Wed Sep 19 23:54:34 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(7,151)
+
+/* X direction */
+XDist(15,8,&lt;)
+XShift(8,7)
+XDist(16,1,>=)
+XLink(1,14,68)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+
+/* Y direction */
+YAnchor(0,3)
+YAnchor(3,8)
+YInterpolate(3,5,10,0)
+YNoRound(4)
+YAnchor(4)
+YAnchor(6,8)
+YAnchor(9,2)
+
+/* X direction */
+XAnchor(0)
+XDist(11,7,>=)
+XLink(7,5,68)
+XLink(7,10,68)
+Diagonal>>(0,1,10,2,155)
+XDist(12,3,&lt;)
+Diagonal>&lt;(3,4,2,5,155)
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Kcommaaccent">
+/* Y direction */
+YAnchor(0,3)
+YAnchor(3,8)
+YInterpolate(3,5,10,0)
+YAnchor(6,8)
+YAnchor(9,2)
+YAnchor(14,184)
+YLink(14,25,313)
+
+/* X direction */
+XAnchor(0)
+XDist(27,7,>=)
+XLink(7,5,68)
+XDist(5,26,>=)
+XLink(7,10,68)
+Diagonal>>(0,1,10,2,155)
+XDist(28,3,&lt;)
+Diagonal>&lt;(3,4,2,5,155)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="L">
+/* VTTTalk glyph 47, char 0x4c (L) */
+/* GUI generated Wed Sep 19 23:56:32 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YAnchor(5,8)
+YLink(5,2,72)
+
+/* X direction */
+XDist(6,5,&lt;)
+XLink(5,2,68)
+XDownToGrid(3)
+XDist(7,3,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Lacute">
+/* VTTTalk glyph 221, char 0x139 */
+/* GUI generated Tue Nov 13 00:40:05 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(12,2)
+YAnchor(16,8)
+YLink(16,13,72)
+
+/* X direction */
+XDist(17,16,&lt;)
+XLink(16,13,68)
+XDist(13,9,>=)
+XDownToGrid(14)
+XDist(18,14,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Lcaron">
+/* VTTTalk glyph 230, char 0x13d */
+/* GUI generated Wed Dec 26 15:32:17 2012 */
+
+/* Y direction */
+YAnchor(12,2)
+YAnchor(16,8)
+YLink(16,13,72)
+YIPAnchor(16,10,12)
+YLink(10,3,313)
+
+/* X direction */
+XDist(17,16,&lt;)
+XLink(16,13,68)
+XDist(13,0,>=)
+XDownToGrid(14)
+XDist(18,14,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Lcommaaccent">
+/* VTTTalk glyph 223, char 0x13b */
+/* GUI generated Tue Nov 13 00:40:57 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YAnchor(5,8)
+YLink(5,2,72)
+YAnchor(9,184)
+YLink(9,16,313)
+
+/* X direction */
+XDist(17,5,&lt;)
+XLink(5,2,68)
+XDist(2,6,>=)
+XDist(18,3,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ldot">
+/* VTTTalk glyph 232, char 0x13f */
+/* GUI generated Wed Dec 26 15:31:16 2012 */
+
+/* Y direction */
+YAnchor(1,8)
+YLink(1,4,72)
+YAnchor(3,2)
+YIPAnchor(1,16,3)
+YDist(16,6,>=)
+
+/* X direction */
+XDist(26,1,&lt;)
+XLink(1,4,68)
+XDownToGrid(5)
+XDist(27,5,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Lslash">
+/* Y direction */
+YAnchor(9,2)
+YAnchor(3,8)
+YLink(3,0,72)
+
+/* X direction */
+XDist(14,3,&lt;)
+XLink(3,0,68)
+XDownToGrid(1)
+XDist(15,1,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* VTTTalk glyph 48, char 0x4d (M) */
+/* GUI generated Tue Nov 13 01:46:18 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(1,2)
+YAnchor(2,8)
+YAnchor(3,8)
+YAnchor(6,8)
+YAnchor(7,8)
+YAnchor(10,8)
+YAnchor(11,8)
+YAnchor(12,2)
+YAnchor(13,2)
+
+/* X direction */
+XDist(15,11,&lt;)
+XShift(11,12)
+Diagonal>>(12,9,11,10,155)
+XGDelta(9,-1@48)
+XDist(16,2,&lt;)
+XShift(2,1)
+XInterpolate(1,0,13,12)
+Diagonal>>(1,4,2,3,155)
+XGDelta(4,1@48)
+XInterpolate(2,6,7,11)
+Diagonal>&lt;(0,5,14,6,155)
+XGDelta(5,-1@48)
+Diagonal>&lt;(13,8,14,7,155)
+XGDelta(8,1@48)
+YGDelta(14,-2@48)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* VTTTalk glyph 49, char 0x4e (N) */
+/* GUI generated Sat Sep 22 23:16:55 2012 */
+
+/* Y direction */
+YAnchor(0,8)
+YAnchor(1,8)
+YAnchor(3,8)
+YAnchor(6,2)
+YAnchor(8,2)
+YInterpolate(3,7,2,8)
+
+/* X direction */
+XDist(10,4,>=)
+XLink(4,2,68)
+XDist(11,0,>=)
+XLink(0,7,68)
+Diagonal>&lt;(2,6,1,7,158)
+
+YMove(3/8,2)
+YMove(-3/8,7)
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Nacute">
+/* VTTTalk glyph 229, char 0x143 */
+/* GUI generated Tue Nov 13 00:41:46 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,8)
+YAnchor(12,8)
+YAnchor(14,8)
+YAnchor(17,2)
+YAnchor(19,2)
+YInterpolate(14,18,13,19)
+YMove(-3/8,18)
+YMove(3/8,13)
+
+/* X direction */
+XDist(21,15,>=)
+XLink(15,13,68)
+XDist(13,0,>=)
+XDist(22,11,>=)
+XLink(11,18,68)
+Diagonal>&lt;(13,17,12,18,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ncaron">
+/* VTTTalk glyph 233, char 0x147 */
+/* GUI generated Tue Nov 13 00:43:06 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YLink(3,0,314)
+YShift(3,2)
+YAnchor(2)
+YShift(3,4)
+YAnchor(4)
+YAnchor(6,8)
+YAnchor(7,8)
+YAnchor(9,8)
+YAnchor(12,2)
+YAnchor(14,2)
+YInterpolate(9,13,8,14)
+YMove(-3/8,13)
+YMove(3/8,8)
+
+/* X direction */
+XDist(16,10,>=)
+XLink(10,8,68)
+XDist(8,3,>=)
+XDist(17,6,>=)
+XLink(6,13,68)
+Diagonal>&lt;(8,12,7,13,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ncommaaccent">
+/* VTTTalk glyph 231, char 0x145 */
+/* GUI generated Tue Nov 13 00:42:47 2012 */
+
+/* Y direction */
+YAnchor(0,8)
+YAnchor(1,8)
+YAnchor(3,8)
+YAnchor(6,2)
+YAnchor(8,2)
+YInterpolate(3,7,2,8)
+YMove(-3/8,7)
+YMove(3/8,2)
+YAnchor(13,184)
+YLink(13,20,313)
+
+/* X direction */
+XDist(21,4,>=)
+XLink(4,2,68)
+XDist(2,10,>=)
+XDist(22,0,>=)
+XLink(0,7,68)
+Diagonal>&lt;(2,6,1,7,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ntilde">
+/* VTTTalk glyph 134, char 0xd1 */
+/* GUI generated Tue Nov 13 00:28:42 2012 */
+
+/* Y direction */
+YAnchor(5,310)
+YLink(5,19,315)
+YShift(19,0)
+YAnchor(0)
+YDelta(0,1@10..12)
+YAnchor(11,310)
+YShift(11,8)
+YAnchor(8)
+YDelta(8,1@10..13)
+YLink(8,16,315)
+YAnchor(21,8)
+YAnchor(22,8)
+YAnchor(24,8)
+YAnchor(27,2)
+YAnchor(29,2)
+YInterpolate(24,28,23,29)
+YMove(-3/8,28)
+YMove(3/8,23)
+
+/* X direction */
+XDist(31,25,>=)
+XLink(25,23,68)
+XDist(23,12,>=)
+XDist(32,21,>=)
+XLink(21,28,68)
+XDist(28,1,>=)
+Diagonal>&lt;(23,27,22,28,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* VTTTalk glyph 50, char 0x4f (O) */
+/* GUI generated Wed Sep 19 23:27:33 2012 */
+
+/* Y direction */
+YAnchor(3,9)
+YLink(3,23,74)
+YAnchor(9,3)
+YLink(9,15,74)
+YInterpolate(23,12,15)
+
+/* X direction */
+XAnchor(0)
+XLink(0,12,70)
+XDist(0,27,&lt;)
+XDist(26,6,&lt;)
+XLink(6,18,70)
+XInterpolate(0,23,6)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="OE">
+/* VTTTalk glyph 241, char 0x152 */
+/* GUI generated Fri Oct 12 05:21:02 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YLink(1,4,72)
+YAnchor(12,8)
+YLink(12,9,72)
+YIPAnchor(12,8,1)
+YLink(8,5,72)
+YAnchor(15,9)
+YShift(15,13)
+YLink(15,40,74)
+YShift(40,29)
+YAnchor(27,3)
+YShift(27,0)
+YLink(27,32,74)
+YShift(32,30)
+YInterpolate(40,36,32)
+
+/* X direction */
+XDist(42,21,&lt;)
+XLink(21,36,70)
+XDist(43,10,>=)
+XDist(10,7,>=)
+XDist(10,3,&lt;)
+XIPAnchor(21,29,3)
+XLink(29,8,68)
+XShift(8,5)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Oacute">
+/* VTTTalk glyph 136, char 0xd3 */
+/* GUI generated Tue Nov 13 00:28:53 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(14,9)
+YLink(14,34,74)
+YAnchor(20,3)
+YLink(20,26,74)
+YInterpolate(34,23,26)
+
+/* X direction */
+XAnchor(11)
+XLink(11,23,70)
+XDist(11,38,&lt;)
+XDist(37,17,&lt;)
+XLink(17,29,70)
+XInterpolate(11,34,17)
+XDist(34,10,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflex">
+/* VTTTalk glyph 137, char 0xd4 */
+/* GUI generated Tue Nov 13 00:29:00 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(9,9)
+YLink(9,29,74)
+YAnchor(15,3)
+YLink(15,21,74)
+YInterpolate(29,18,21)
+
+/* X direction */
+XAnchor(6)
+XLink(6,18,70)
+XDist(6,33,&lt;)
+XDist(32,12,&lt;)
+XLink(12,24,70)
+XInterpolate(6,29,12)
+XDist(29,0,>=)
+XDist(29,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Odieresis">
+/* VTTTalk glyph 139, char 0xd6 */
+/* GUI generated Tue Nov 13 00:29:17 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(51,9)
+YLink(51,81,74)
+YAnchor(61,3)
+YLink(61,71,74)
+YInterpolate(81,66,71)
+
+/* X direction */
+XAnchor(46)
+XLink(46,66,70)
+XDist(46,87,&lt;)
+XDist(86,56,&lt;)
+XLink(56,76,70)
+XInterpolate(46,81,56)
+XDist(81,17,>=)
+XDist(81,29,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ograve">
+/* VTTTalk glyph 135, char 0xd2 */
+/* GUI generated Tue Nov 13 00:28:48 2012 */
+
+/* Y direction */
+YAnchor(0,310)
+YLink(0,7,313)
+YAnchor(14,9)
+YLink(14,34,74)
+YAnchor(20,3)
+YLink(20,26,74)
+YInterpolate(34,23,26)
+
+/* X direction */
+XAnchor(11)
+XLink(11,23,70)
+XDist(11,38,&lt;)
+XDist(37,17,&lt;)
+XLink(17,29,70)
+XInterpolate(11,34,17)
+XDist(34,1,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ohungarumlaut">
+/* VTTTalk glyph 239, char 0x150 */
+/* GUI generated Tue Nov 13 00:43:37 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(21,310)
+YLink(21,14,313)
+YAnchor(25,9)
+YLink(25,45,74)
+YAnchor(31,3)
+YLink(31,37,74)
+YInterpolate(45,34,37)
+
+/* X direction */
+XAnchor(22)
+XLink(22,34,70)
+XDist(22,49,&lt;)
+XDist(48,28,&lt;)
+XLink(28,40,70)
+XInterpolate(22,45,28)
+XDist(45,0,>=)
+XDist(45,11,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Omacron">
+/* VTTTalk glyph 237, char 0x14c */
+/* GUI generated Tue Nov 13 00:43:22 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,1,317)
+YAnchor(7,9)
+YLink(7,27,74)
+YAnchor(13,3)
+YLink(13,19,74)
+YInterpolate(27,16,19)
+
+/* X direction */
+XAnchor(4)
+XLink(4,16,70)
+XDist(4,31,&lt;)
+XDist(30,10,&lt;)
+XLink(10,22,70)
+XInterpolate(4,27,10)
+XDist(27,2,>=)
+XDist(27,3,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslash">
+/* VTTTalk glyph 141, char 0xd8 */
+/* GUI generated Fri Oct 12 04:52:18 2012 */
+
+/* Y direction */
+YAnchor(0)
+YAnchor(6,9)
+YLink(6,31,74)
+YAnchor(9)
+YAnchor(10)
+YAnchor(16,3)
+YLink(16,23,74)
+YInterpolate(31,34,23)
+YShift(34,26)
+YAnchor(19)
+
+/* X direction */
+XAnchor(9)
+XAnchor(19)
+XDist(36,13,&lt;)
+XLink(13,26,70)
+XShift(13,10)
+DAlign(10,11,20,21,18,19)
+XDist(37,3,&lt;)
+XLink(3,34,70)
+XShift(3,0)
+DAlign(9,8,29,28,1,0)
+XInterpolate(3,31,13)
+XShift(31,23)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Otilde">
+/* VTTTalk glyph 138, char 0xd5 */
+/* GUI generated Tue Nov 13 00:29:09 2012 */
+
+/* Y direction */
+YAnchor(5,310)
+YLink(5,19,315)
+YShift(19,0)
+YAnchor(0)
+YDelta(0,1@10..12)
+YAnchor(11,310)
+YShift(11,8)
+YAnchor(8)
+YDelta(8,1@10..13)
+YLink(8,16,315)
+YAnchor(24,9)
+YLink(24,44,74)
+YAnchor(30,3)
+YLink(30,36,74)
+YInterpolate(44,33,36)
+
+/* X direction */
+XAnchor(21)
+XLink(21,33,70)
+XDist(21,48,&lt;)
+XDist(47,27,&lt;)
+XLink(27,39,70)
+XInterpolate(21,44,27)
+XDist(44,1,>=)
+XDist(44,12,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="P">
+/* VTTTalk glyph 51, char 0x50 (P) */
+/* GUI generated Tue Oct 23 10:48:20 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,30,72)
+YAnchor(14,8)
+YIPAnchor(14,10,0)
+YLink(10,20,74)
+
+/* X direction */
+XDist(32,15,>=)
+XLink(15,13,68)
+XLink(15,31,68)
+XDist(33,5,&lt;)
+XLink(5,25,70)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* VTTTalk glyph 52, char 0x51 (Q) */
+/* GUI generated Tue Nov 13 02:31:52 2012 */
+
+/* Y direction */
+YAnchor(0,3)
+YLink(0,33,74)
+YAnchor(23,9)
+YShift(23,8)
+YLink(23,43,74)
+YShift(23,16)
+YAnchor(16)
+YDelta(16,1/4@10)
+YLink(16,13,74)
+YInterpolate(23,38,0)
+
+/* X direction */
+XDist(53,28,&lt;)
+XLink(28,38,70)
+XDist(54,5,&lt;)
+XLink(5,48,70)
+XInterpolate(5,43,28)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* VTTTalk glyph 53, char 0x52 (R) */
+/* GUI generated Wed Dec 26 22:30:10 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,43,73)
+YAnchor(21,8)
+YAnchor(30,8)
+YIPAnchor(30,29,0)
+YLink(29,45,73)
+
+/* X direction */
+XDist(46,31,&lt;)
+XLink(31,45,68)
+XShift(45,29)
+XDist(47,20,&lt;)
+XLink(20,21,68)
+XGDelta(21,-3/2@75)
+XDist(20,6,&lt;)
+XShift(6,12)
+XLink(6,38,70)
+XShift(38,25)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Racute">
+/* VTTTalk glyph 243, char 0x154 */
+/* GUI generated Tue Nov 13 00:43:51 2012 */
+
+/* Y direction */
+YAnchor(14,310)
+YLink(14,3,313)
+YAnchor(16,2)
+YLink(16,59,73)
+YAnchor(37,8)
+YAnchor(46,8)
+YIPAnchor(46,45,16)
+YLink(45,61,73)
+
+/* X direction */
+XDist(62,47,&lt;)
+XLink(47,61,68)
+XDist(61,15,>=)
+XShift(61,45)
+XDist(63,36,&lt;)
+XLink(36,37,68)
+XDist(36,22,&lt;)
+XShift(22,28)
+XLink(22,54,70)
+XShift(54,41)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Rcaron">
+/* VTTTalk glyph 247, char 0x158 */
+/* GUI generated Tue Nov 13 00:44:21 2012 */
+
+/* Y direction */
+YAnchor(2,310)
+YShift(2,1)
+YAnchor(1)
+YShift(2,3)
+YAnchor(3)
+YLink(2,5,314)
+YAnchor(6,2)
+YLink(6,49,73)
+YAnchor(27,8)
+YAnchor(36,8)
+YIPAnchor(36,35,6)
+YLink(35,51,73)
+
+/* X direction */
+XDist(52,37,&lt;)
+XLink(37,51,68)
+XDist(51,2,>=)
+XShift(51,35)
+XDist(53,26,&lt;)
+XLink(26,27,68)
+XDist(26,12,&lt;)
+XShift(12,18)
+XLink(12,44,70)
+XShift(44,31)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Rcommaaccent">
+/* VTTTalk glyph 245, char 0x156 */
+/* GUI generated Tue Nov 13 00:44:11 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,43,73)
+YAnchor(21,8)
+YAnchor(30,8)
+YIPAnchor(30,29,0)
+YLink(29,45,73)
+YAnchor(49,184)
+YLink(49,60,313)
+
+/* X direction */
+XDist(62,31,&lt;)
+XLink(31,45,68)
+XShift(45,29)
+XDist(45,61,>=)
+XDist(63,20,&lt;)
+XLink(20,21,68)
+XDist(20,6,&lt;)
+XShift(6,12)
+XLink(6,38,70)
+XShift(38,25)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* VTTTalk glyph 54, char 0x53 (S) */
+/* GUI generated Wed Dec 26 22:32:54 2012 */
+
+/* Y direction */
+YAnchor(25,3)
+YShift(25,30)
+YLink(25,36,74)
+YShift(36,31)
+YAnchor(56,9)
+YShift(56,58)
+YLink(56,5,74)
+YShift(5,0)
+YInterpolate(56,12,44,25)
+
+/* X direction */
+XDist(59,58,&lt;)
+XShift(58,20)
+XLink(20,41,70)
+XDist(60,51,&lt;)
+XLink(51,10,70)
+XShift(51,30)
+XIPAnchor(20,44,12,51)
+Diagonal>&lt;(12,47,16,44,159)
+YDelta(47,-1/2@20)
+YDelta(16,1/2@20)
+
+Smooth()
+YGDelta(13,-3/4@75)
+YGDelta(14,-3/2@75)
+YGDelta(15,-3/2@75)
+YGDelta(16,-7/4@75)
+YGDelta(17,-13/8@75)
+YGDelta(18,-1@75)
+YGDelta(43,3/8@75)
+YGDelta(44,3/8@75)
+YGDelta(45,5/8@75)
+YGDelta(46,1@75)
+YGDelta(47,9/8@75)
+YGDelta(48,5/8@75)
+YGDelta(49,1/2@75)
+
+    </glyphProgram>
+
+    <glyphProgram name="Sacute">
+/* Y direction */	
+YAnchor(14,310)	
+YLink(14,3,313)	
+YAnchor(41,3)	
+YShift(41,46)	
+YLink(41,52,74)	
+YShift(52,47)	
+YAnchor(72,9)	
+YShift(72,74)	
+YLink(72,21,74)	
+YShift(21,16)	
+YInterpolate(72,29,60,41)	
+	
+/* X direction */	
+XDist(75,74,&lt;)	
+XShift(74,36)	
+XLink(36,57,70)	
+XDist(57,15,>=)	
+XDist(76,67,&lt;)	
+XLink(67,26,70)	
+XShift(67,46)	
+XIPAnchor(36,60,29,67)	
+Diagonal>&lt;(29,63,32,60,159)	
+YDelta(63,-1/2@20)	
+YDelta(32,1/2@20)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Scaron">
+/* Y direction */	
+YAnchor(2,310)	
+YShift(2,1)	
+YAnchor(1)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(2,5,314)	
+YAnchor(31,3)	
+YShift(31,36)	
+YLink(31,42,74)	
+YShift(42,37)	
+YAnchor(62,9)	
+YShift(62,64)	
+YLink(62,11,74)	
+YShift(11,6)	
+YInterpolate(62,19,50,31)	
+	
+/* X direction */	
+XDist(65,64,&lt;)	
+XShift(64,26)	
+XLink(26,47,70)	
+XDist(47,2,>=)	
+XDist(66,57,&lt;)	
+XLink(57,16,70)	
+XShift(57,36)	
+XIPAnchor(26,50,19,57)	
+Diagonal>&lt;(19,53,22,50,159)	
+YDelta(53,-1/2@20)	
+YDelta(22,1/2@20)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Scedilla">
+/* Y direction */	
+YAnchor(48,9)	
+YShift(48,25)	
+YShift(48,50)	
+YShift(48,47)	
+YShift(47,41)	
+YAnchor(41)	
+YDist(41,34,>=)	
+YLink(48,56,74)	
+YShift(56,51)	
+YAnchor(76,3)	
+YShift(76,81)	
+YBDelta(81,-1/4@13)	
+YLink(76,5,74)	
+YShift(5,0)	
+YInterpolate(48,64,13,76)	
+YBDelta(13,-1/2@13)	
+	
+/* X direction */	
+XDist(82,50,&lt;)	
+XShift(50,71)	
+XLink(71,10,70)	
+XDist(83,20,&lt;)	
+XDelta(20,1/2@13)	
+XLink(20,61,70)	
+XShift(20,81)	
+XBDelta(81,5/8@13)	
+XIPAnchor(71,13,64,20)	
+Diagonal>&lt;(64,16,67,13,159)	
+YDelta(16,-1/2@20)	
+YDelta(67,1/2@20)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Scommaaccent">
+/* Y direction */	
+YAnchor(25,3)	
+YShift(25,30)	
+YLink(25,36,74)	
+YShift(36,31)	
+YAnchor(56,9)	
+YShift(56,58)	
+YLink(56,5,74)	
+YShift(5,0)	
+YInterpolate(56,13,44,25)	
+YAnchor(62,184)	
+YLink(62,73,313)	
+	
+/* X direction */	
+XDist(75,58,&lt;)	
+XDist(58,74,>=)	
+XShift(58,20)	
+XLink(20,41,70)	
+XDist(76,51,&lt;)	
+XLink(51,10,70)	
+XShift(51,30)	
+XIPAnchor(20,44,13,51)	
+Diagonal>&lt;(13,47,16,44,159)	
+YDelta(47,-1/2@20)	
+YDelta(16,1/2@20)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="T">
+/* VTTTalk glyph 55, char 0x54 (T) */
+/* GUI generated Tue Nov 13 02:06:39 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,3,72)
+YLink(0,6,72)
+YAnchor(4,8)
+
+/* X direction */
+XAnchor(2)
+XDist(2,9,>=)
+XDelta(9,-1@10)
+XDist(8,7,>=)
+XInterpolate(2,6,7)
+XLink(6,4,68)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Tbar">
+/* VTTTalk glyph 259, char 0x166 */
+/* GUI generated Tue Nov 13 02:07:06 2012 */
+
+/* Y direction */
+YAnchor(6,8)
+YAnchor(14,2)
+YLink(14,1,72)
+YLink(14,12,72)
+YShift(12,10)
+YAnchor(10)
+YShift(10,2)
+YLink(10,5,202)
+YLink(10,8,202)
+
+/* X direction */
+XAnchor(0)
+XDist(0,17,>=)
+XDelta(17,-1@10)
+XDist(16,13,>=)
+XInterpolate(0,12,13)
+XLink(12,6,68)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Tcaron">
+/* VTTTalk glyph 257, char 0x164 */
+/* GUI generated Tue Nov 13 02:07:04 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YLink(3,0,314)
+YShift(3,2)
+YAnchor(2)
+YShift(3,4)
+YAnchor(4)
+YAnchor(6,2)
+YLink(6,9,72)
+YLink(6,12,72)
+YAnchor(10,8)
+
+/* X direction */
+XAnchor(8)
+XDist(8,15,>=)
+XDelta(15,-1@10)
+XDist(14,13,>=)
+XInterpolate(8,12,13)
+XDist(12,3,>=)
+XLink(12,10,68)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Tcommaaccent">
+/* VTTTalk glyph 255, char 0x162 */
+/* GUI generated Tue Nov 13 02:06:59 2012 */
+
+/* Y direction */
+YAnchor(2,8)
+YAnchor(23,8)
+YShift(23,22)
+YShift(22,21)
+YShift(21,15)
+YAnchor(15)
+YDist(15,10,>=)
+YAnchor(26,2)
+YLink(26,1,72)
+YLink(26,24,72)
+
+/* X direction */
+XAnchor(0)
+XDist(0,29,>=)
+XDelta(29,-1@10)
+XDist(28,25,>=)
+XInterpolate(0,24,25)
+XLink(24,23,68)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Thorn">
+/* VTTTalk glyph 147, char 0xde */
+/* GUI generated Fri Oct 12 04:54:47 2012 */
+
+/* Y direction */
+YAnchor(11,8)
+YAnchor(12,2)
+YIPAnchor(12,0,7,11)
+YLink(0,14,72)
+YLink(7,17,74)
+
+/* X direction */
+XDist(26,11,>=)
+XLink(11,0,68)
+XLink(11,9,68)
+XLink(11,14,68)
+XDist(27,4,&lt;)
+XLink(4,22,218)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="U">
+/* VTTTalk glyph 56, char 0x55 (U) */
+/* GUI generated Wed Sep 19 23:31:09 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(5,9)
+YLink(5,15,74)
+YAnchor(9,2)
+
+/* X direction */
+XAnchor(2)
+XLink(2,21,68)
+XDist(2,23,&lt;)
+XDist(22,7,&lt;)
+XLink(7,10,68)
+XInterpolate(2,5,7)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Uacute">
+/* VTTTalk glyph 143, char 0xda */
+/* GUI generated Tue Nov 13 00:29:50 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,2)
+YAnchor(16,9)
+YLink(16,26,74)
+YAnchor(20,2)
+
+/* X direction */
+XAnchor(13)
+XLink(13,32,68)
+XDist(13,34,&lt;)
+XDist(33,18,&lt;)
+XLink(18,21,68)
+XInterpolate(13,16,18)
+XDist(16,10,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ucircumflex">
+/* VTTTalk glyph 144, char 0xdb */
+/* GUI generated Tue Nov 13 00:29:54 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(6,2)
+YAnchor(11,9)
+YLink(11,21,74)
+YAnchor(15,2)
+
+/* X direction */
+XAnchor(8)
+XLink(8,27,68)
+XDist(8,29,&lt;)
+XDist(28,13,&lt;)
+XLink(13,16,68)
+XInterpolate(8,11,13)
+XDist(11,0,>=)
+XDist(11,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Udieresis">
+/* VTTTalk glyph 145, char 0xdc */
+/* GUI generated Tue Nov 13 00:30:02 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(50,9)
+YLink(50,63,74)
+YAnchor(57,2)
+YAnchor(69,2)
+
+/* X direction */
+XAnchor(47)
+XLink(47,68,68)
+XDist(47,71,&lt;)
+XDist(70,55,&lt;)
+XLink(55,58,68)
+XInterpolate(47,50,55)
+XDist(50,17,>=)
+XDist(50,29,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ugrave">
+/* VTTTalk glyph 142, char 0xd9 */
+/* GUI generated Tue Nov 13 00:29:47 2012 */
+
+/* Y direction */
+YAnchor(0,310)
+YLink(0,7,313)
+YAnchor(11,2)
+YAnchor(16,9)
+YLink(16,26,74)
+YAnchor(20,2)
+
+/* X direction */
+XAnchor(13)
+XLink(13,32,68)
+XDist(13,34,&lt;)
+XDist(33,18,&lt;)
+XLink(18,21,68)
+XInterpolate(13,16,18)
+XDist(16,1,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Uhungarumlaut">
+/* VTTTalk glyph 265, char 0x170 */
+/* GUI generated Tue Nov 13 00:46:10 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(21,310)
+YLink(21,14,313)
+YAnchor(22,2)
+YAnchor(27,9)
+YLink(27,37,74)
+YAnchor(31,2)
+
+/* X direction */
+XAnchor(24)
+XLink(24,43,68)
+XDist(24,45,&lt;)
+XDist(44,29,&lt;)
+XLink(29,32,68)
+XInterpolate(24,27,29)
+XDist(27,0,>=)
+XDist(27,11,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Umacron">
+/* VTTTalk glyph 261, char 0x16a */
+/* GUI generated Tue Nov 13 00:45:07 2012 */
+
+/* Y direction */
+YAnchor(2,316)
+YLink(2,1,317)
+YAnchor(4,2)
+YAnchor(9,9)
+YLink(9,19,74)
+YAnchor(13,2)
+
+/* X direction */
+XAnchor(6)
+XLink(6,25,68)
+XDist(6,27,&lt;)
+XDist(26,11,&lt;)
+XLink(11,14,68)
+XInterpolate(6,9,11)
+XDist(9,2,>=)
+XDist(9,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Uogonek">
+/* VTTTalk glyph 267, char 0x172 */
+/* GUI generated Tue Nov 13 00:15:43 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(5,9)
+YShift(5,21)
+YLink(5,31,74)
+YShift(5,8)
+YShift(8,10)
+YAnchor(10)
+YDist(10,15,>=)
+YAnchor(25,2)
+
+/* X direction */
+XAnchor(2)
+XLink(2,37,68)
+XDist(2,39,&lt;)
+XDist(38,23,&lt;)
+XLink(23,26,68)
+XInterpolate(2,5,23)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Uring">
+/* VTTTalk glyph 263, char 0x16e */
+/* GUI generated Tue Nov 13 00:45:49 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YDist(10,26,>=)
+YDist(26,20,>=)
+YDist(20,0,>=)
+YAnchor(36,9)
+YLink(36,49,74)
+YAnchor(43,2)
+YAnchor(55,2)
+
+/* X direction */
+XAnchor(33)
+XLink(33,54,68)
+XDist(33,57,&lt;)
+XDist(56,41,&lt;)
+XLink(41,44,68)
+XInterpolate(33,36,41)
+XDist(36,5,>=)
+XDist(36,15,>=)
+XInterpolate(15,23,29,5)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* VTTTalk glyph 57, char 0x56 (V) */
+/* GUI generated Tue Nov 13 02:20:47 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YAnchor(2,8)
+YAnchor(3,8)
+YAnchor(4,2)
+
+/* X direction */
+XDist(7,4,&lt;)
+XDist(8,1,&lt;)
+XInterpolate(1,2,3,4)
+Diagonal>>(1,0,2,6,155)
+Diagonal>>(4,5,3,6,155)
+
+Smooth()
+XDelta(8,-1@17)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* VTTTalk glyph 58, char 0x57 (W) */
+/* GUI generated Tue Nov 13 02:27:03 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(1,8)
+YAnchor(2,8)
+YAnchor(4,8)
+YAnchor(5,8)
+YAnchor(6,2)
+YAnchor(7,2)
+YAnchor(10,2)
+YAnchor(11,2)
+YAnchor(14,2)
+
+/* X direction */
+XDist(15,6,&lt;)
+XShift(6,5)
+Diagonal>>(5,8,6,7,155)
+XGDelta(8,-1@48)
+XDelta(16,-5/8@15,1/4@16)
+XDist(16,0,&lt;)
+XShift(0,1)
+XInterpolate(1,2,4,5)
+Diagonal>>(1,13,0,14,155)
+XGDelta(13,1@48)
+XInterpolate(0,11,10,6)
+Diagonal>&lt;(4,9,3,10,155)
+XGDelta(9,3/2@48)
+Diagonal>&lt;(2,12,3,11,155)
+XGDelta(12,-1@48)
+YDelta(3,1/2@11)
+YGDelta(3,2@48)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Wacute">
+/* VTTTalk glyph 337, char 0x1e82 */
+/* GUI generated Mon Nov 12 22:31:34 2012 */
+YAnchor(10,310)
+YLink(10,3,313)
+/* Y direction */	
+YAnchor(11,2)	
+YAnchor(12,8)	
+YAnchor(13,8)	
+YAnchor(15,8)	
+YAnchor(16,8)	
+YAnchor(17,2)	
+YAnchor(18,2)	
+YAnchor(21,2)	
+YAnchor(22,2)	
+YAnchor(25,2)	
+	
+/* X direction */	
+XDist(26,17,&lt;)	
+XShift(17,16)	
+Diagonal>>(17,18,16,19,155)	
+	
+XDist(27,11,&lt;)	
+XShift(11,12)	
+XInterpolate(12,13,15,16)	
+Diagonal>>(11,25,12,24,155)	
+XInterpolate(11,22,21,17)	
+Diagonal>&lt;(13,23,14,22,155)	
+	
+Diagonal>&lt;(21,14,20,15,155)	
+YDelta(14,-1@10)	
+	
+XGDelta(19,-1@48)	
+XGDelta(20,3/2@48)	
+XGDelta(23,-1@48)	
+XGDelta(24,1@48)	
+YGDelta(14,2@48)	
+	
+	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="Wcircumflex">
+/* VTTTalk glyph 269, char 0x174 */
+/* GUI generated Tue Nov 13 00:46:25 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(6,2)
+YAnchor(7,8)
+YAnchor(8,8)
+YAnchor(10,8)
+YAnchor(11,8)
+YAnchor(12,2)
+YAnchor(13,2)
+YDelta(13,-1@10)
+YAnchor(20,2)
+YShift(20,17)
+YAnchor(17)
+YShift(17,16)
+YAnchor(16)
+YInterpolate(11,15,14,9,16)
+YMove(-3/4,15)
+YMove(1/2,9)
+YShift(14,18)
+YShift(18,19)
+YMove(-3/4,19)
+YDelta(19,-5/8@15)
+
+/* X direction */
+XDist(21,12,>=)
+XDist(12,14,&lt;)
+Diagonal>&lt;(14,11,13,12,158)
+XDist(14,15,&lt;)
+XHalfGrid(9)
+XDist(15,9,&lt;)
+XDist(9,0,>=)
+Diagonal>&lt;(15,10,16,9,158)
+XDist(9,2,>=)
+XDist(9,18,&lt;)
+Diagonal>&lt;(18,8,17,9,158)
+XDist(18,19,&lt;)
+XDist(19,6,&lt;)
+XDist(6,22,>=)
+XDelta(22,-25/8@10,-3/4@11,-5/8@13;17,5/8@20,-5/8@22,5/8@24;27)
+XBDelta(22,11/8@10)
+XGDelta(22,3/2@10)
+Diagonal>&lt;(19,7,20,6,158)
+
+YMove(-3/4,14)
+YDelta(14,-1/2@15)
+YMove(-3/4,18)
+YDelta(20,-3/4@10)
+XGDelta(21,1/2@10;13)
+Smooth()
+YDelta(14,-31/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Wdieresis">
+/* VTTTalk glyph 339, char 0x1e84 */
+/* GUI generated Mon Nov 12 22:31:42 2012 */
+
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+
+/* Y direction */
+YAnchor(46,8)
+YAnchor(47,8)
+YAnchor(49,8)
+YAnchor(50,8)
+YAnchor(51,2)
+YAnchor(52,2)
+YDelta(52,-1@10)
+YAnchor(59,2)
+YShift(59,56)
+YAnchor(56)
+YShift(56,55)
+YAnchor(55)
+YInterpolate(50,54,53,48,55)
+YMove(-3/4,54)
+YMove(1/2,48)
+YShift(53,57)
+YShift(57,58)
+YMove(-3/4,58)
+YDelta(58,-5/8@15)
+YAnchor(60,2)
+
+/* X direction */
+XDist(61,51,>=)
+XDist(51,53,&lt;)
+Diagonal>&lt;(53,50,52,51,158)
+XDist(53,54,&lt;)
+XHalfGrid(48)
+XDist(54,48,&lt;)
+Diagonal>&lt;(54,49,55,48,158)
+XDist(48,57,&lt;)
+Diagonal>&lt;(57,47,56,48,158)
+XDist(57,58,&lt;)
+XDist(58,60,&lt;)
+XDist(60,62,>=)
+XDelta(62,-25/8@10,-3/4@11,-5/8@13;17,5/8@20,-5/8@22,5/8@24;27)
+XBDelta(62,11/8@10)
+XGDelta(62,3/2@10)
+Diagonal>&lt;(58,46,59,60,158)
+
+YMove(-3/4,53)
+YDelta(53,-1/2@15)
+YMove(-3/4,57)
+YDelta(59,-3/4@10)
+XGDelta(61,1/2@10;13)
+Smooth()
+YDelta(53,-31/8@20)
+
+    </glyphProgram>
+
+    <glyphProgram name="Wgrave">
+/* VTTTalk glyph 335, char 0x1e80 */
+/* GUI generated Tue Nov 13 01:46:29 2012 */
+
+/* Y direction */
+YAnchor(0,310)
+YLink(0,7,313)
+YAnchor(11,2)
+YAnchor(12,8)
+YAnchor(13,8)
+YAnchor(15,8)
+YAnchor(16,8)
+YAnchor(17,2)
+YAnchor(18,2)
+YAnchor(21,2)
+YAnchor(22,2)
+YAnchor(25,2)
+
+/* X direction */
+XDist(26,17,&lt;)
+XShift(17,16)
+Diagonal>>(16,19,17,18,155)
+XGDelta(19,-1@48)
+XDist(27,11,&lt;)
+XShift(11,12)
+XInterpolate(12,13,15,16)
+Diagonal>>(12,24,11,25,155)
+XGDelta(24,1@48)
+XInterpolate(11,22,21,17)
+Diagonal&lt;>(20,15,21,14,155)
+XGDelta(20,3/2@48)
+Diagonal>&lt;(13,23,14,22,155)
+XGDelta(23,-1@48)
+YGDelta(14,2@48)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* VTTTalk glyph 59, char 0x58 (X) */
+/* GUI generated Sat Sep 22 23:38:19 2012 */
+
+/* Y direction */
+YAnchor(3,2)
+YShift(3,1)
+YAnchor(4,2)
+YAnchor(6)
+YAnchor(9,8)
+YShift(9,7)
+YAnchor(10,8)
+
+/* X direction */
+XNoRound(10)
+XDist(12,10,>=)
+XDist(13,4,>=)
+XInterpolate(10,1,7,4)
+Diagonal>&lt;(7,6,0,1,155)
+Diagonal>&lt;(4,3,9,10,155)
+Intersect(2,6,1,10,3)
+YDelta(2,-1/4@12,-3/8@17..18,-1/4@19,-3/8@20)
+Intersect(5,6,1,9,4)
+Intersect(8,0,7,9,4)
+YDelta(8,3/8@12,1/2@17,3/8@18,1/4@19,3/8@20)
+Intersect(11,0,7,10,3)
+YDelta(11,1/8@12)
+
+Smooth()
+YDelta(6,-5/8@12)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* VTTTalk glyph 60, char 0x59 (Y) */
+/* GUI generated Tue Oct 09 23:07:16 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(1,2)
+YAnchor(3,8)
+YIPAnchor(1,8,3)
+YShift(8,5)
+YAnchor(4,8)
+YAnchor(6,2)
+YAnchor(7,2)
+
+/* X direction */
+XDist(9,6,&lt;)
+XDist(6,4,&lt;)
+XNoRound(3)
+XLink(4,3,68)
+XDist(3,1,&lt;)
+XDist(1,10,&lt;)
+XInterpolate(1,8,6)
+Diagonal>&lt;(1,0,2,8,158)
+Diagonal>&lt;(6,7,5,8,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Yacute">
+/* VTTTalk glyph 146, char 0xdd */
+/* GUI generated Tue Nov 13 00:30:05 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,2)
+YAnchor(12,2)
+YAnchor(14,8)
+YIPAnchor(12,19,14)
+YShift(19,16)
+YAnchor(15,8)
+YAnchor(17,2)
+YAnchor(18,2)
+
+/* X direction */
+XDist(20,17,&lt;)
+XDist(17,15,&lt;)
+XNoRound(14)
+XLink(15,14,68)
+XDist(14,12,&lt;)
+XDist(12,21,&lt;)
+XInterpolate(12,19,17)
+XDist(19,10,>=)
+Diagonal>&lt;(12,11,13,19,158)
+Diagonal>&lt;(17,18,16,19,158)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ycircumflex">
+/* VTTTalk glyph 271, char 0x176 */
+/* GUI generated Tue Nov 13 00:46:38 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,310)
+YAnchor(6,2)
+YAnchor(7,2)
+YAnchor(9,8)
+YIPAnchor(7,14,9)
+YShift(14,11)
+YAnchor(10,8)
+YAnchor(12,2)
+YAnchor(13,2)
+
+/* X direction */
+XDist(15,12,&lt;)
+XDist(12,10,&lt;)
+XNoRound(9)
+XLink(10,9,68)
+XDist(9,7,&lt;)
+XDist(7,16,&lt;)
+XInterpolate(7,14,12)
+XDist(14,0,>=)
+Diagonal>&lt;(7,6,8,14,158)
+Diagonal>&lt;(12,13,11,14,158)
+XDist(14,2,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ydieresis">
+/* VTTTalk glyph 273, char 0x178 */
+/* GUI generated Tue Nov 13 00:46:48 2012 */
+
+/* Y direction */
+YAnchor(12,310)
+YDist(12,0,>=)
+YAnchor(34,310)
+YDist(34,23,>=)
+YAnchor(46,2)
+YAnchor(48,8)
+YIPAnchor(46,53,48)
+YShift(53,50)
+YAnchor(49,8)
+YAnchor(51,2)
+YAnchor(52,2)
+YAnchor(54,2)
+
+/* X direction */
+XDist(55,51,&lt;)
+XDist(51,49,&lt;)
+XNoRound(48)
+XLink(49,48,68)
+XDist(48,46,&lt;)
+XDist(46,56,&lt;)
+XInterpolate(46,53,51)
+XDist(53,17,>=)
+Diagonal>&lt;(46,54,47,53,158)
+Diagonal>&lt;(51,52,50,53,158)
+XDist(53,29,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Ygrave">
+/* VTTTalk glyph 341, char 0x1ef2 */
+/* GUI generated Mon Nov 12 22:31:52 2012 */
+YAnchor(0,310)
+YLink(0,7,313)
+/* Y direction */
+YAnchor(11,2)
+YAnchor(12,2)
+YAnchor(14,8)
+YIPAnchor(12,19,14)
+YShift(19,16)
+YAnchor(15,8)
+YAnchor(17,2)
+YAnchor(18,2)
+
+/* X direction */
+XDist(20,17,&lt;)
+XDist(17,15,&lt;)
+XNoRound(14)
+XLink(15,14,68)
+XDist(14,12,&lt;)
+XDist(12,21,&lt;)
+XInterpolate(12,19,17)
+Diagonal>&lt;(12,11,13,19,158)
+Diagonal>&lt;(17,18,16,19,158)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* VTTTalk glyph 61, char 0x5a (Z) */
+/* GUI generated Mon Sep 24 00:06:01 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,8,72)
+YShift(8,2)
+YMove(3/8,2)
+YDelta(2,3/8@12..13,1/4@14)
+YAnchor(5,8)
+YLink(5,3,72)
+YDelta(3,-1/4@12)
+YShift(3,7)
+YMove(-3/8,7)
+YDelta(7,-3/8@12..13,-1/4@14)
+
+/* X direction */
+XDist(10,7,>=)
+XShift(7,9)
+XDist(11,4,>=)
+XShift(4,2)
+XAnchor(2)
+Diagonal>&lt;(7,3,8,2,155)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Zacute">
+/* VTTTalk glyph 274, char 0x179 */
+/* GUI generated Tue Nov 13 00:46:51 2012 */
+
+/* Y direction */
+YAnchor(10,310)
+YLink(10,3,313)
+YAnchor(11,2)
+YLink(11,19,72)
+YShift(19,13)
+YMove(3/8,13)
+YDelta(13,3/8@12..13,1/4@14)
+YAnchor(16,8)
+YLink(16,14,72)
+YDelta(14,-1/4@12)
+YShift(14,18)
+YMove(-3/8,18)
+YDelta(18,-3/8@12..13,-1/4@14)
+
+/* X direction */
+XDist(21,18,>=)
+XShift(18,20)
+XDist(20,0,>=)
+XDist(22,15,>=)
+XShift(15,13)
+XAnchor(13)
+Diagonal>&lt;(18,14,19,13,155)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Zcaron">
+/* VTTTalk glyph 278, char 0x17d */
+/* GUI generated Tue Nov 13 00:47:02 2012 */
+
+/* Y direction */
+YAnchor(3,310)
+YLink(3,0,314)
+YShift(3,2)
+YAnchor(2)
+YShift(3,4)
+YAnchor(4)
+YAnchor(6,2)
+YLink(6,14,72)
+YShift(14,8)
+YMove(3/8,8)
+YDelta(8,3/8@12..13,1/4@14)
+YAnchor(11,8)
+YLink(11,9,72)
+YDelta(9,-1/4@12)
+YShift(9,13)
+YMove(-3/8,13)
+YDelta(13,-3/8@12..13,-1/4@14)
+
+/* X direction */
+XDist(16,13,>=)
+XShift(13,15)
+XDist(15,3,>=)
+XDist(17,10,>=)
+XShift(10,8)
+XAnchor(8)
+Diagonal>&lt;(13,9,14,8,155)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="Zdotaccent">
+/* VTTTalk glyph 276, char 0x17b */
+/* GUI generated Tue Nov 13 00:46:58 2012 */
+
+/* Y direction */
+YAnchor(8,310)
+YDist(8,0,>=)
+YAnchor(14,2)
+YLink(14,22,72)
+YShift(22,16)
+YMove(3/8,16)
+YDelta(16,3/8@12..13,1/4@14)
+YAnchor(19,8)
+YLink(19,17,72)
+YDelta(17,-1/4@12)
+YShift(17,21)
+YMove(-3/8,21)
+YDelta(21,-3/8@12..13,-1/4@14)
+
+/* X direction */
+XDist(24,21,>=)
+XShift(21,23)
+XDist(23,8,>=)
+XDist(25,18,>=)
+XShift(18,16)
+XAnchor(16)
+Diagonal>&lt;(21,17,22,16,155)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* VTTTalk glyph 68, char 0x61 (a) */
+/* GUI generated Mon Oct 08 21:14:55 2012 */
+
+/* Y direction */
+YAnchor(3,1)
+YShift(3,1)
+YLink(3,34,87)
+YShift(34,0)
+YAnchor(20,7)
+YShift(20,15)
+YAnchor(15)
+YShift(20,18)
+YInterpolate(20,39,3)
+YShift(39,37)
+YLink(39,28,87)
+YShift(28,30)
+YLink(20,46,87)
+YShift(46,36)
+
+/* X direction */
+XDist(50,23,&lt;)
+XLink(23,44,84)
+XShift(23,1)
+XAnchor(1)
+XShift(1,0)
+XDist(51,14,&lt;)
+XShift(14,15)
+XShift(14,10)
+XLink(10,30,81)
+XLink(10,36,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="aacute">
+/* VTTTalk glyph 150, char 0xe1 */
+/* GUI generated Tue Nov 13 00:30:13 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(14,1)
+YShift(14,12)
+YLink(14,45,87)
+YShift(45,11)
+YAnchor(31,7)
+YShift(31,26)
+YAnchor(26)
+YShift(31,29)
+YInterpolate(31,50,14)
+YShift(50,48)
+YLink(50,39,87)
+YShift(39,41)
+YLink(31,57,87)
+YShift(57,47)
+
+/* X direction */
+XDist(61,34,&lt;)
+XLink(34,55,84)
+XShift(34,12)
+XAnchor(12)
+XDist(12,10,>=)
+XShift(12,11)
+XDist(62,25,&lt;)
+XShift(25,26)
+XShift(25,21)
+XLink(21,41,81)
+XLink(21,47,81)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="abreve">
+/* VTTTalk glyph 184, char 0x103 */
+/* GUI generated Tue Nov 13 00:38:37 2012 */
+
+/* Y direction */
+YAnchor(7,321)
+YLink(7,14,320)
+YShift(14,0)
+YShift(14,11)
+YAnchor(20,1)
+YShift(20,18)
+YLink(20,51,87)
+YShift(51,17)
+YAnchor(37,18)
+YShift(37,32)
+YAnchor(32)
+YShift(37,35)
+YInterpolate(37,56,20)
+YShift(56,54)
+YLink(54,45,87)
+YShift(45,47)
+YLink(37,63,87)
+YShift(63,53)
+
+/* X direction */
+XDist(67,40,&lt;)
+XLink(40,61,84)
+XShift(40,18)
+XAnchor(18)
+XDist(18,10,>=)
+XShift(18,17)
+XDist(68,31,&lt;)
+XShift(31,32)
+XShift(31,27)
+XDist(27,1,>=)
+XLink(27,47,81)
+XLink(27,53,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acircumflex">
+/* VTTTalk glyph 151, char 0xe2 */
+/* GUI generated Tue Nov 13 00:30:20 2012 */
+
+/* Y direction */
+YAnchor(3,311)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,311)
+YAnchor(9,1)
+YShift(9,7)
+YLink(9,40,87)
+YShift(40,6)
+YAnchor(26,7)
+YShift(26,21)
+YAnchor(21)
+YShift(26,24)
+YInterpolate(26,45,9)
+YShift(45,43)
+YLink(45,34,87)
+YShift(34,36)
+YLink(26,52,87)
+YShift(52,42)
+
+/* X direction */
+XDist(56,29,&lt;)
+XLink(29,50,84)
+XShift(29,7)
+XAnchor(7)
+XDist(7,0,>=)
+XShift(7,6)
+XDist(57,20,&lt;)
+XShift(20,21)
+XShift(20,16)
+XDist(16,2,>=)
+XLink(16,36,81)
+XLink(16,42,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="acute">
+/* VTTTalk glyph 113, char 0xb4 */
+/* GUI generated Fri Oct 12 04:17:26 2012 */
+
+/* Y direction */
+YAnchor(0,10)
+YLink(0,3,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="adieresis">
+/* VTTTalk glyph 153, char 0xe4 */
+/* GUI generated Tue Nov 13 00:31:11 2012 */
+
+/* Y direction */
+YAnchor(12,311)
+YDist(12,0,>=)
+YAnchor(34,311)
+YDist(34,23,>=)
+YAnchor(49,1)
+YShift(49,46)
+YLink(49,95,87)
+YShift(95,98)
+YAnchor(75,7)
+YShift(75,66)
+YAnchor(66)
+YShift(75,70)
+YInterpolate(75,102,49)
+YShift(102,99)
+YLink(102,88,87)
+YShift(88,91)
+YLink(75,113,87)
+YShift(113,119)
+
+/* X direction */
+XDist(120,80,&lt;)
+XLink(80,110,84)
+XShift(80,46)
+XAnchor(46)
+XDist(46,17,>=)
+XShift(46,98)
+XDist(121,65,&lt;)
+XShift(65,66)
+XShift(65,59)
+XDist(59,29,>=)
+XLink(59,91,81)
+XLink(59,119,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ae">
+/* VTTTalk glyph 155, char 0xe6 */
+/* GUI generated Fri Oct 12 05:24:27 2012 */
+
+/* Y direction */
+YAnchor(13,7)
+YShift(13,9)
+YLink(13,4,87)
+YShift(4,8)
+YAnchor(22,7)
+YShift(22,17)
+YLink(22,71,87)
+YShift(71,59)
+YAnchor(40,1)
+YShift(40,38)
+YLink(40,35,87)
+YShift(35,37)
+YIPAnchor(22,64,40)
+YShift(64,62)
+YLink(64,30,87)
+YShift(30,31)
+YAnchor(46,1)
+YLink(46,54,87)
+YIPAnchor(13,2,46)
+YLink(2,51,86)
+
+/* X direction */
+XDist(73,25,&lt;)
+XLink(25,69,84)
+XShift(25,38)
+XAnchor(38)
+XShift(38,37)
+XDist(74,1,&lt;)
+XDist(1,9,&lt;)
+XLink(1,51,83)
+XInterpolate(25,31,1)
+XLink(31,50,83)
+XLink(31,2,160)
+XInterpolate(2,43,17,31)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57636">
+/* VTTTalk glyph 389, char 0x20aa */
+/* GUI generated Sun Jan 06 22:17:46 2013 */
+
+/* Y direction */
+YAnchor(16,121)
+YShift(16,11)
+YLink(16,42,140)
+YShift(42,5)
+YShift(42,8)
+YAnchor(48,123)
+YAnchor(64,122)
+YShift(64,61)
+YAnchor(72,129)
+YLink(72,50,142)
+YInterpolate(16,77,28,72)
+YAnchor(75,123)
+
+/* X direction */
+XAnchor(75)
+XLink(75,77,136)
+XDist(78,0,>=)
+XLink(0,47,136)
+XDist(79,67,>=)
+XLink(67,58,139)
+XInterpolate(75,36,67)
+XLink(36,23,139)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57645">
+/* VTTTalk glyph 312, char 0x5be */
+/* GUI generated Wed Dec 26 16:41:01 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,2,140)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57658">
+/* VTTTalk glyph 29, char 0x3a (:) */
+/* GUI generated Thu Oct 11 22:48:58 2012 */
+
+/* Y direction */
+YAnchor(12,228)
+YLink(12,0,227)
+
+YAnchor(36,225)
+YLink(36,24,227)
+
+/* X direction */
+XDist(49,30,>=)
+XShift(30,6)
+XLink(30,42,226)
+XShift(42,18)
+XDist(42,48,>=)
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57664">
+/* VTTTalk glyph 311, char 0x5d0 */
+/* GUI generated Thu Nov 29 15:49:37 2012 */
+
+/* Y direction */
+YAnchor(19,146)
+YAnchor(43,122)
+YLink(43,42,140)
+YAnchor(55,128)
+YMove(-1/2,55)
+YInterpolate(19,10,55)
+YAnchor(64,129)
+
+/* X direction */
+XDist(65,0,&lt;)
+XLink(0,64,137)
+XGDelta(66,1@15)
+XDist(66,48,&lt;)
+XGDelta(48,1/4@13,-7/8@15,-3/8@16,-1@17,-1/8@20)
+XDist(48,38,>=)
+XBDelta(38,1@13)
+XGDelta(38,-1/4@15,-3/4@18,-1/2@19,-3/4@20,-1/2@33)
+XIPAnchor(0,10,55,48)
+Diagonal>>(55,54,10,27,148)
+XGDelta(54,5/8@13,1/2@17)
+XGDelta(27,5/8@15)
+DAlign(54,53,33,27)
+XGDelta(53,3/8@15)
+DAlign(55,56,10)
+XGDelta(56,-1/8@21)
+
+XGDelta(10,-3/4@21)
+XGDelta(48,1/4@11)
+XGDelta(54,1/4@21)
+XGDelta(55,-1/2@21)
+Smooth()
+XGDelta(54,3/8@16)
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57665">
+/* VTTTalk glyph 312, char 0x5d1 */
+/* GUI generated Thu Nov 29 15:46:21 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(23,123)
+YLink(23,21,140)
+YLink(23,26,140)
+
+/* X direction */
+XDist(33,25,&lt;)
+XShift(25,5)
+XShift(5,8)
+XGDelta(34,5/4@17)
+XDist(34,23,&lt;)
+XGDelta(23,-1/8@17)
+XDist(23,21,>=)
+XLink(21,26,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57666">
+/* VTTTalk glyph 320, char 0x5d2 */
+/* GUI generated Wed Dec 26 22:27:38 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,30,140)
+YAnchor(7,123)
+YIPAnchor(7,12,0)
+YDelta(12,1/2@10..11,3/4@12)
+YInterpolate(12,29,0)
+YAnchor(20,127)
+YLink(20,23,143)
+
+/* X direction */
+XGDelta(33,-3/2@10,-1@15)
+XDist(33,20,>=)
+XGDelta(20,-5/8@11,-1/2@13)
+XDelta(34,1/4@11)
+XGDelta(34,3/8@13,1@18)
+XDist(34,7,>=)
+XGDelta(7,5/4@11,-5/8@90)
+XIPAnchor(20,12,1,7)
+XGDelta(12,-1/4@20)
+XInterpolate(20,31,12)
+XGDelta(31,-3/8@10)
+Diagonal>&lt;(12,4,8,7,148)
+XGDelta(4,-1/2@18,-3/8@19,-9/8@36)
+XLink(1,30,147)
+
+XGDelta(34,3/8@11)
+Smooth()
+XGDelta(1,3/8@90)
+XGDelta(2,5/8@90)
+XGDelta(3,-1/4@20)
+XGDelta(4,-3/4@20,-5/8@90)
+XDelta(34,3/8@10,1/4@14)
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57667">
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,16,140)
+YLink(13,19,140)
+YShift(19,5)
+YAnchor(18,123)
+
+/* X direction */
+XIPAnchor(21,16,20)
+XInterpolate(21,15,16)
+XInterpolate(16,5,20)
+XLink(16,19,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57668">
+/* VTTTalk glyph 310, char 0x5d4 */
+/* GUI generated Tue Nov 13 02:14:01 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(22,123)
+YAnchor(43,123)
+YInterpolate(0,37,43)
+YShift(37,34)
+
+/* X direction */
+XDist(45,44,&lt;)
+XShift(44,34)
+XShift(34,5)
+XShift(5,8)
+XLink(44,43,136)
+XShift(43,37)
+XDist(46,21,>=)
+XLink(21,22,136)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57669">
+/* Y direction */
+YAnchor(0,121)
+YLink(0,3,140)
+YAnchor(1,123)
+
+/* X direction */
+XDist(7,1,&lt;)
+XLink(1,2,136)
+XInterpolate(2,4,6)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57670">
+/* VTTTalk glyph 317, char 0x5d6 */
+/* GUI generated Thu Nov 29 15:46:57 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,16,140)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(17,123)
+
+/* X direction */
+XGDelta(19,-5/8@11,-3/4@15;20)
+XDist(19,5,&lt;)
+XGDelta(5,-5/8@15,-7/8@20)
+XDelta(20,-3/8@17)
+XGDelta(20,-1/2@11,1/4@13;17,1@18)
+XDist(20,15,&lt;)
+XGDelta(15,-1/2@20)
+XIPAnchor(15,17,16,5)
+Diagonal>>(17,18,16,0,144)
+XGDelta(18,-1/8@15)
+XGDelta(0,-1/4@15)
+
+XGDelta(5,-3/4@11)
+XDelta(19,1/2@12)
+XDelta(20,1/2@12)
+XGDelta(20,-3/8@20)
+Smooth()
+XDelta(19,-1/2@11,1/4@14)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57671">
+/*Y direction */	
+YAnchor(25,123)	
+YAnchor(38,123)	
+YAnchor(16,121)	
+YShift(16,11)	
+YLink(16,32,140)	
+YShift(32,5)	
+YShift(32,8)	
+	
+/* X direction */	
+XDist(40,0,>=)	
+XLink(0,37,136)	
+XDelta(41,1/8@12)	
+XDist(41,23,>=)	
+XLink(23,26,136)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57672">
+	
+/* Y direction */	
+YAnchor(37,122)	
+YLink(37,28,142)	
+YAnchor(51,124)	
+YLink(51,14,142)	
+YShift(51,54)	
+YAnchor(54)	
+YInterpolate(51,33,37)	
+YAnchor(8,122)	
+YShift(8,5)	
+YInterpolate(8,0,54)	
+	
+/* X direction */	
+XDist(55,54,&lt;)	
+XShift(54,5)	
+XShift(54,0)	
+XAnchor(0)	
+Diagonal>>(54,14,0,13,147)	
+XDist(56,43,>=)	
+XIPAnchor(54,37,33,43)	
+Diagonal>&lt;(37,28,34,33,147)	
+XLink(43,22,138)	
+XShift(22,25)	
+XAnchor(25)	
+	
+Smooth()	
+XDelta(55,-1/2@10)	
+XDelta(56,1/8@10)	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57673">
+/* Y direction */
+YAnchor(0,121)
+YLink(0,15,140)
+YAnchor(7)
+YDelta(7,1@13)
+
+/* X direction */
+XDist(19,1,>=)
+XShift(1,7)
+XLink(1,15,136)
+XShift(15,8)
+XDist(15,16,>=)
+XDist(16,18,>=)
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57674">
+/* VTTTalk glyph 321, char 0x5da */
+/* GUI generated Thu Nov 29 15:34:04 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YShift(13,20)
+YLink(13,23,140)
+YShift(23,5)
+YAnchor(22,126)
+
+/* X direction */
+XDist(24,5,>=)
+XGDelta(5,-5/8@10)
+XShift(5,8)
+XDist(25,20,>=)
+XLink(20,23,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57675">
+/* VTTTalk glyph 322, char 0x5db */
+/* GUI generated Thu Nov 29 15:34:18 2012 */
+
+/* Y direction */
+YAnchor(14,121)
+YShift(14,8)
+YLink(14,0,140)
+YShift(0,5)
+YAnchor(31,123)
+YLink(31,33,140)
+
+/* X direction */
+XDist(43,33,>=)
+XGDelta(33,-3/4@10)
+XShift(33,5)
+XShift(5,8)
+XDist(44,20,>=)
+XShift(20,25)
+XAnchor(25)
+XLink(20,37,136)
+XShift(37,34)
+XAnchor(34)
+
+Smooth()
+XDelta(43,-3/8@10)
+XDelta(44,1/4@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57676">
+/* VTTTalk glyph 323, char 0x5dc */
+/* GUI generated Thu Nov 29 15:45:20 2012 */
+
+/* Y direction */
+YAnchor(0,125)
+YAnchor(1,121)
+YLink(1,22,140)
+YShift(1,8)
+YAnchor(13,128)
+YMove(-1/4,13)
+YShift(13,14)
+YInterpolate(13,17,8)
+
+/* X direction */
+XAnchor(1)
+XLink(1,23,136)
+XDist(23,24,>=)
+XDelta(25,-1/2@10)
+XGDelta(25,-1/2@10,5/4@14)
+XDist(25,8,>=)
+XLink(8,21,136)
+XInterpolate(21,17,13,1)
+XGDelta(17,-1/8@13,-1/4@15..16)
+XGDelta(13,1/8@13)
+Diagonal>&lt;(17,11,14,13,148)
+XGDelta(11,1/4@16)
+XBDelta(14,-5/8@14)
+XGDelta(14,-3/8@13;15,-5/8@16)
+
+XBDelta(13,1/8@14)
+Smooth()
+XGDelta(14,-1/4@14)
+XGDelta(15,-1/4@14)
+XGDelta(16,-1/4@14)
+XGDelta(17,-3/8@14)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57677">
+/* VTTTalk glyph 324, char 0x5dd */
+/* GUI generated Thu Nov 29 15:33:09 2012 */
+
+/* Y direction */
+YAnchor(17,121)
+YShift(17,11)
+YLink(17,32,140)
+YShift(32,5)
+YShift(32,8)
+YAnchor(24,123)
+YLink(24,39,140)
+
+/* X direction */
+XDist(40,25,>=)
+XLink(25,38,136)
+XDelta(41,-3/8@10)
+XGDelta(41,1/2@10)
+XDist(41,23,>=)
+XLink(23,26,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57678">
+/* VTTTalk glyph 325, char 0x5de */
+/* GUI generated Thu Nov 29 15:36:37 2012 */
+
+/* Y direction */
+YAnchor(0,129)
+YAnchor(17,149)
+YMove(1/2,17)
+YAnchor(27,122)
+YLink(27,59,142)
+YShift(59,64)
+YAnchor(42,123)
+YLink(42,44,140)
+
+/* X direction */
+XGDelta(72,9/8@20)
+XDist(72,0,>=)
+XShift(0,64)
+XAnchor(64)
+Diagonal>&lt;(0,71,7,64,145)
+XGDelta(73,1@11)
+XDist(73,35,>=)
+XLink(35,49,136)
+XInterpolate(64,43,49)
+
+XGDelta(0,-3/4@10)
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57679">
+/* VTTTalk glyph 326, char 0x5df */
+/* GUI generated Thu Nov 29 15:32:36 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,3,140)
+YAnchor(2,126)
+
+/* X direction */
+XDist(7,0,>=)
+XLink(0,3,136)
+XDist(3,4,>=)
+XDist(4,6,>=)
+
+XGDelta(7,-1@10)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57680">
+/* VTTTalk glyph 327, char 0x5e0 */
+/* GUI generated Thu Nov 29 15:36:50 2012 */
+
+/* Y direction */
+YAnchor(13,123)
+YLink(13,15,140)
+YAnchor(18,121)
+YLink(18,16,140)
+
+/* X direction */
+XGDelta(19,-1/2@10)
+XDist(19,14,>=)
+XGDelta(14,-1/2@11)
+XGDelta(20,-1@10)
+XDist(20,7,>=)
+XLink(7,15,137)
+XInterpolate(14,17,7)
+XGDelta(17,-3/4@10,-1/4@11)
+
+XGDelta(14,-1@10)
+Smooth()
+XDelta(19,-1/2@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57681">
+/* VTTTalk glyph 328, char 0x5e1 */
+/* GUI generated Thu Nov 29 15:46:50 2012 */
+
+/* Y direction */
+YAnchor(15,130)
+YLink(15,50,143)
+YAnchor(37,121)
+YShift(37,32)
+YLink(37,38,140)
+YShift(38,26)
+YShift(38,29)
+
+/* X direction */
+XDist(67,20,>=)
+XShift(20,26)
+XLink(20,44,137)
+XShift(44,38)
+XGDelta(68,1@18)
+XDist(68,8,>=)
+XLink(8,58,137)
+XInterpolate(58,50,44)
+
+Smooth()
+YBDelta(12,5/8@13)
+YBDelta(13,3/8@13)
+YBDelta(47,-3/8@13)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57682">
+/* VTTTalk glyph 329, char 0x5e2 */
+/* GUI generated Thu Nov 29 15:44:56 2012 */
+
+/* Y direction */
+YAnchor(3,134)
+YAnchor(18)
+YLink(18,19,142)
+YDelta(19,1/4@15..18,1/8@19,3/8@20)
+YIPAnchor(3,0,18)
+YDelta(0,1/4@19,1/8@20)
+YAnchor(34,122)
+YInterpolate(18,21,22,25,28,34)
+YDelta(21,-1/8@19,-1/4@20)
+YDelta(25,-1/2@14)
+YDelta(28,1/4@15..16,3/8@17,1/4@18,5/8@19,1/2@20)
+
+/* X direction */
+XGDelta(54,1@15)
+XDist(54,18,>=)
+XShift(18,21)
+XShift(18,34)
+XShift(18,22)
+XShift(18,25)
+XGDelta(25,-1/8@15)
+XShift(25,28)
+Diagonal>>(25,40,22,47,192)
+XGDelta(40,1/4@16)
+XDelta(55,-3/4@12)
+XGDelta(55,1/2@10,-5/4@14,-7/4@16)
+XDist(55,10,>=)
+XLink(10,49,139)
+XGDelta(49,-1/4@11;15)
+
+YDelta(18,3/8@14,1/4@15..16,1/8@17,1/4@18..20)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57683">
+/* VTTTalk glyph 330, char 0x5e3 */
+/* GUI generated Thu Nov 29 15:45:37 2012 */
+
+/* Y direction */
+YAnchor(0,149)
+YMove(1/2,0)
+YShift(0,2)
+YLink(2,18,143)
+YDelta(18,-1/8@22)
+YBDelta(18,1/2@13)
+YGDelta(18,-3/8@11,-5/8@20)
+YAnchor(11,126)
+YIPAnchor(11,24,25,0)
+
+/* X direction */
+XDist(26,25,>=)
+XGDelta(27,1@10)
+XDist(27,9,&lt;)
+XLink(9,12,137)
+XIPAnchor(9,24,0,25)
+XGDelta(24,-1/4@16)
+Diagonal>>(25,22,0,21,147)
+XGDelta(21,1/4@15,1/8@16)
+Diagonal>>(25,22,24,23,147)
+XGDelta(22,3/8@11;15,1/4@16)
+YGDelta(23,1/2@15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57684">
+/* VTTTalk glyph 338, char 0x5e4 */
+/* GUI generated Wed Dec 26 22:25:30 2012 */
+
+/* Y direction */
+YAnchor(0,149)
+YMove(1/2,0)
+YShift(0,3)
+YLink(3,29,142)
+YAnchor(20,123)
+YLink(20,22,140)
+YIPAnchor(20,34,35,0)
+YDelta(34,1/2@11..12,-3/4@14,-1/2@18,-1/4@19)
+
+/* X direction */
+XDist(36,35,>=)
+XShift(35,21)
+XGDelta(37,7/8@10)
+XDist(37,12,&lt;)
+XLink(12,23,137)
+XIPAnchor(12,34,0,35)
+Diagonal>>(35,32,0,31,147)
+XGDelta(31,1/4@15..16)
+Diagonal>>(34,33,35,32,147)
+YGDelta(33,1/2@15)
+XGDelta(32,3/8@15..16)
+
+YDelta(34,-1/2@13)
+XGDelta(35,-1/8@10)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57685">
+/* VTTTalk glyph 332, char 0x5e5 */
+/* GUI generated Thu Nov 29 15:49:21 2012 */
+
+/* Y direction */
+YAnchor(0,122)
+YGDelta(0,1/2@14)
+YLink(0,38,140)
+YGDelta(38,-3/8@20)
+YAnchor(22,126)
+YAnchor(28,146)
+YGDelta(28,1/2@14)
+YShift(28,27)
+YInterpolate(22,26,28)
+
+/* X direction */
+XAnchor(26)
+XGDelta(26,-1/8@15,-1/2@21)
+XAnchor(28)
+XGDelta(28,-1/4@19)
+Diagonal>&lt;(28,27,12,26,144)
+XGDelta(27,-3/8@15,-5/8@19)
+DAlign(12,11,29,28)
+XGDelta(29,-3/8@19,-1/4@20)
+XGDelta(40,-3/8@11;18)
+XDist(40,6,&lt;)
+XDist(6,34,>=)
+XBDelta(34,5/8@13,1/2@14)
+XGDelta(34,-3/8@18,-1/2@19..20,-3/8@21)
+
+XGDelta(26,-3/8@19,-1/2@20)
+Smooth()
+XGDelta(26,-1/4@14)
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57686">
+/* VTTTalk glyph 333, char 0x5e6 */
+/* GUI generated Thu Nov 29 15:51:49 2012 */
+
+/* Y direction */
+YAnchor(9,146)
+YDelta(9,1/2@14)
+YShift(9,6)
+YDelta(6,-5/8@12)
+YAnchor(32,122)
+YDelta(32,1/2@14)
+YLink(32,31,140)
+YGDelta(31,-3/8@20)
+YAnchor(47,123)
+YInterpolate(9,17,47)
+YLink(47,49,140)
+YDelta(49,1/4@14)
+YShift(49,43)
+
+/* X direction */
+XDist(50,48,&lt;)
+XDist(51,37,&lt;)
+XGDelta(37,-1/2@13..14)
+XDist(37,27,>=)
+XBDelta(27,3/4@13,1/2@14)
+XGDelta(27,1/8@10,1/4@13,-1/8@14,-3/8@18,-1/2@19,-3/8@20,-1/2@21,-1/4@33,-3/8@34)
+XInterpolate(37,17,48)
+XGDelta(17,1/4@20,1/2@34)
+XShift(17,9)
+XGDelta(9,3/8@20..21)
+XShift(37,43)
+Diagonal>>(17,0,43,49,144)
+XGDelta(0,-3/8@12,-1/2@14,-3/8@15,-5/8@19;34)
+DAlign(43,42,22,17)
+XShift(0,6)
+XGDelta(6,-1/8@12,-1/4@14,-3/8@15;34)
+
+XGDelta(17,5/8@21)
+XDelta(51,1/4@11)
+XGDelta(51,3/8@10)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57687">
+/* VTTTalk glyph 334, char 0x5e7 */
+/* GUI generated Thu Nov 29 15:44:44 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YShift(13,17)
+YLink(13,0,140)
+YShift(0,5)
+YShift(0,48)
+YShift(48,51)
+YAnchor(29,128)
+YInterpolate(29,26,13)
+YAnchor(57,126)
+
+/* X direction */
+XBDelta(59,7/8@14)
+XGDelta(59,7/8@14)
+XDist(59,58,>=)
+XBDelta(58,3/4@14)
+XGDelta(58,3/4@14,1@16)
+XShift(58,48)
+XLink(58,57,136)
+XShift(57,51)
+XDist(60,20,>=)
+XLink(20,39,136)
+XInterpolate(58,29,26,20)
+Diagonal>>(29,30,26,34,148)
+XGDelta(30,-1/2@15,-3/8@16)
+XGDelta(34,-1/4@15)
+
+XGDelta(26,1/4@10,1/8@15)
+XGDelta(29,3/8@10)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57688">
+/* VTTTalk glyph 335, char 0x5e8 */
+/* GUI generated Thu Nov 29 15:38:09 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(22,123)
+
+/* X direction */
+XDist(29,5,>=)
+XGDelta(30,3/8@11)
+XDist(30,21,>=)
+XGDelta(21,1/2@11)
+XLink(21,22,136)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57689">
+/* VTTTalk glyph 336, char 0x5e9 */
+/* GUI generated Thu Nov 29 15:43:39 2012 */
+
+/* Y direction */
+YAnchor(8,122)
+YShift(8,5)
+YAnchor(27,122)
+YShift(27,24)
+YAnchor(35,124)
+YLink(35,14,142)
+YShift(35,38)
+YAnchor(38)
+YIPAnchor(8,0,38)
+YAnchor(39,122)
+YShift(39,57)
+YInterpolate(39,48,35)
+
+/* X direction */
+XGDelta(58,-3/8@10)
+XDist(58,38,&lt;)
+XGDelta(38,-1/2@15)
+XShift(38,5)
+XBDelta(5,3/8@14)
+XShift(38,0)
+XAnchor(0)
+XBDelta(0,5/8@14)
+Diagonal>>(0,13,38,14,147)
+XGDelta(13,3/8@20)
+XGDelta(14,3/8@20)
+XShift(13,8)
+XGDelta(59,-1@10)
+XDist(59,30,>=)
+XLink(30,21,139)
+XInterpolate(38,41,30)
+XGDelta(41,1/2@20)
+XShift(41,48)
+XBDelta(48,-3/8@14)
+XLink(41,53,139)
+XGDelta(53,-1/8@15)
+XShift(53,49)
+XBDelta(49,-5/8@14)
+
+Smooth()
+YGDelta(0,-5/2@14)
+XBDelta(14,1/2@14)
+XGDelta(37,-3/8@14)
+XBDelta(38,1/2@14)
+XGDelta(41,1/4@14)
+XDelta(58,-1/2@10)
+XDelta(59,1/8@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57690">
+/* VTTTalk glyph 337, char 0x5ea */
+/* GUI generated Thu Nov 29 15:47:19 2012 */
+
+/* Y direction */
+YAnchor(20,121)
+YShift(20,14)
+YLink(20,35,140)
+YShift(35,6)
+YShift(35,11)
+YAnchor(28,123)
+YAnchor(45,123)
+YLink(45,0,140)
+
+/* X direction */
+XGDelta(48,-7/8@10)
+XDist(48,46,>=)
+XShift(46,3)
+XGDelta(3,-1/4@15)
+XLink(3,38,139)
+XGDelta(38,1/8@11;15,3/8@18,1/4@20)
+XGDelta(49,-1/2@10,1/2@11,1@13;18)
+XDist(49,27,>=)
+XGDelta(27,1/2@11)
+XLink(27,28,136)
+XGDelta(28,3/8@10)
+XInterpolate(27,35,3)
+XBDelta(35,-1/4@13)
+
+XGDelta(27,3/8@10)
+Smooth()
+XDelta(48,-3/8@10)
+XDelta(49,3/8@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57793">
+
+/* Y direction */
+YAnchor(0,184)
+
+/* X direction */
+XAnchor(9)
+XDist(9,3,>=)
+
+Smooth()
+    </glyphProgram>
+
+    <glyphProgram name="afii57794">
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,184)	
+	
+/* X direction */	
+XAnchor(9)	
+XDist(9,3,>=)	
+XShift(3,21)	
+XAnchor(21)	
+XDist(21,15,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57795">
+	
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,184)	
+YAnchor(24,185)	
+	
+/* X direction */	
+XAnchor(9)	
+XDist(9,3,>=)	
+XShift(3,21)	
+XAnchor(21)	
+XDist(21,15,>=)	
+XShift(3,33)	
+XAnchor(33)	
+XDist(33,27,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57796">
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,193)	
+YAnchor(24,194)	
+YDelta(24,1@26)	
+	
+/* X direction */	
+XAnchor(9)	
+XDist(9,3,>=)	
+XShift(3,21)	
+XAnchor(21)	
+XDist(21,15,>=)	
+XShift(15,33)	
+XAnchor(33)	
+XDist(33,27,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57797">
+/* VTTTalk glyph 295, char 0x5b8 */
+/* GUI generated Sat Oct 06 12:31:55 2012 */
+
+/* Y direction */
+YAnchor(0,182)
+YLink(0,1,190)
+
+/* X direction */
+XAnchor(1)
+XAnchor(6)
+XInterpolate(1,3,4,6)
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57798">
+/* VTTTalk glyph 294, char 0x5b7 */
+/* GUI generated Sat Oct 06 12:30:09 2012 */
+
+/* Y direction */
+YAnchor(0,182)
+YLink(0,1,190)
+
+/* X direction */
+XAnchor(2)
+XDist(2,1,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57799">
+	
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(14,186)	
+	
+/* X direction */	
+XAnchor(25)	
+XDist(25,17,>=)	
+XShift(25,11)	
+XAnchor(11)	
+XDist(11,3,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57800">
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,182)	
+YLink(12,13,190)	
+YAnchor(16,186)	
+	
+/* X direction */	
+XAnchor(14)	
+XDist(14,13,>=)	
+XDist(13,9,>=)	
+XDist(9,3,>=)	
+XShift(9,25)	
+XAnchor(25)	
+XDist(25,19,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57801">
+	
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,184)	
+YAnchor(24,184)	
+YAnchor(36,185)	
+YAnchor(48,186)	
+	
+/* X direction */	
+XAnchor(9)	
+XDist(9,3,>=)	
+XShift(3,21)	
+XAnchor(21)	
+XDist(21,15,>=)	
+XShift(3,45)	
+XAnchor(45)	
+XDist(45,39,>=)	
+XAnchor(57)	
+XDist(57,51,>=)	
+XShift(57,33)	
+XAnchor(33)	
+XDist(33,27,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57802">
+/* Y direction */	
+YAnchor(0,184)	
+YAnchor(12,182)	
+YLink(12,13,190)	
+YAnchor(20,186)	
+	
+/* X direction */	
+XAnchor(13)	
+XDist(13,9,>=)	
+XDist(9,3,>=)	
+XShift(9,29)	
+XDist(29,23,>=)	
+XAnchor(18)	
+XInterpolate(13,15,16,18)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57803">
+/* VTTTalk glyph 315, char 0x5c2 */
+/* GUI generated Wed Dec 26 16:41:43 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+
+/* X direction */
+XAnchor(9)
+XDist(9,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57804">
+/* VTTTalk glyph 314, char 0x5c1 */
+/* GUI generated Wed Dec 26 16:41:30 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+
+/* X direction */
+XAnchor(9)
+XDist(9,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57806">
+/* VTTTalk glyph 308, char 0x5b9 */
+/* GUI generated Wed Dec 26 16:39:26 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+
+/* X direction */
+XAnchor(9)
+XDist(9,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57807">
+
+/* Y direction */
+
+/* X direction */
+XAnchor(13)
+XDist(13,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="afii57842">
+/* Y direction */
+YAnchor(0,236)
+YAnchor(3,237)
+
+/* X direction */
+XDist(4,0,>=)
+XLink(0,1,82)
+XDist(1,5,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="agrave">
+/* VTTTalk glyph 149, char 0xe0 */
+/* GUI generated Tue Nov 13 00:30:11 2012 */
+
+/* Y direction */
+YAnchor(0,311)
+YLink(0,7,313)
+YAnchor(14,1)
+YShift(14,12)
+YLink(14,45,87)
+YShift(45,11)
+YAnchor(31,7)
+YShift(31,26)
+YAnchor(26)
+YShift(31,29)
+YInterpolate(31,50,14)
+YShift(50,48)
+YLink(50,39,87)
+YShift(39,41)
+YLink(31,57,87)
+YShift(57,47)
+
+/* X direction */
+XDist(61,34,&lt;)
+XLink(34,55,84)
+XShift(34,12)
+XAnchor(12)
+XDist(12,1,>=)
+XShift(12,11)
+XDist(62,25,&lt;)
+XShift(25,26)
+XShift(25,21)
+XLink(21,41,81)
+XLink(21,47,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="amacron">
+/* VTTTalk glyph 182, char 0x101 */
+/* GUI generated Tue Nov 13 00:37:30 2012 */
+
+/* Y direction */
+YAnchor(2,318)
+YLink(2,1,317)
+YAnchor(7,1)
+YShift(7,5)
+YLink(7,38,87)
+YShift(38,4)
+YAnchor(24,5)
+YShift(24,19)
+YAnchor(19)
+YShift(24,22)
+YInterpolate(24,43,7)
+YShift(43,41)
+YLink(43,32,87)
+YShift(32,34)
+YLink(24,50,87)
+YShift(50,40)
+
+/* X direction */
+XDist(54,27,&lt;)
+XLink(27,48,84)
+XShift(27,5)
+XAnchor(5)
+XDist(5,3,>=)
+XShift(5,4)
+XDist(55,18,&lt;)
+XShift(18,19)
+XShift(18,14)
+XDist(14,2,>=)
+XLink(14,34,81)
+XLink(14,40,81)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ampersand">
+/* VTTTalk glyph 9, char 0x26 (&amp;) */
+/* GUI generated Thu Oct 11 08:46:56 2012 */
+
+/* Y direction */
+YAnchor(7,9)
+YShift(7,10)
+YShift(7,53)
+YAnchor(53)
+YDelta(53,3/8@10,-3/8@34)
+YLink(7,56,74)
+YShift(7,51)
+YDelta(51,1@15)
+YShift(51,46)
+YLink(51,49,154)
+YAnchor(12,9)
+YLink(12,66,74)
+YAnchor(28,3)
+YDownToGrid(30)
+YShift(28,30)
+YAnchor(30)
+YLink(28,37,74)
+YDownToGrid(31)
+YShift(37,31)
+YAnchor(31)
+YShift(37,43)
+YAnchor(43)
+YShift(37,22)
+YAnchor(22)
+YDelta(22,-1@18,3/8@22,1/2@23;27;31..32,3/4@35,7/8@36)
+YShift(22,60)
+YAnchor(60)
+
+/* X direction */
+XDist(69,17,&lt;)
+XShift(17,25)
+XLink(25,40,70)
+XLink(17,63,70)
+XShift(63,43)
+XDist(70,1,&lt;)
+XShift(1,51)
+XLink(51,46,208)
+XShift(46,10)
+Diagonal>&lt;(10,53,22,43,155)
+DAlign(53,44,43)
+DAlign(22,60,59,10)
+
+Smooth()
+YDelta(10,1/4@15)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="aogonek">
+/* VTTTalk glyph 186, char 0x105 */
+/* GUI generated Tue Nov 13 00:12:24 2012 */
+
+/* Y direction */
+YAnchor(25,7)
+YShift(25,23)
+YShift(25,20)
+YAnchor(20)
+YShift(20,1)
+YShift(1,4)
+YShift(4,6)
+YAnchor(6)
+YDist(6,11,>=)
+YLink(25,65,87)
+YShift(65,55)
+YAnchor(44,1)
+YShift(44,42)
+YLink(44,39,87)
+YShift(39,41)
+YInterpolate(25,58,44)
+YShift(58,56)
+YLink(58,33,87)
+YShift(33,35)
+
+/* X direction */
+XDist(69,28,&lt;)
+XLink(28,63,84)
+XShift(28,42)
+XAnchor(42)
+XShift(42,41)
+XDist(70,0,&lt;)
+XShift(0,20)
+XShift(0,51)
+XLink(51,35,81)
+XLink(51,55,81)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="aring">
+/* VTTTalk glyph 154, char 0xe5 */
+/* GUI generated Tue Nov 13 00:31:29 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,26,>=)
+YDist(26,20,>=)
+YDist(20,0,>=)
+YAnchor(35,1)
+YShift(35,32)
+YLink(35,81,87)
+YShift(81,84)
+YAnchor(61,7)
+YShift(61,52)
+YAnchor(52)
+YShift(61,56)
+YInterpolate(61,88,35)
+YShift(88,85)
+YLink(88,74,86)
+YShift(74,77)
+YLink(61,99,87)
+YShift(99,105)
+
+/* X direction */
+XDist(106,66,&lt;)
+XLink(66,96,84)
+XShift(66,32)
+XAnchor(32)
+XShift(32,84)
+XDist(32,15,>=)
+XDist(107,51,&lt;)
+XShift(51,52)
+XShift(51,45)
+XLink(45,77,81)
+XLink(45,105,81)
+XDist(45,5,>=)
+XInterpolate(5,29,23,15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="asciicircum">
+/* VTTTalk glyph 65, char 0x5e (^) */
+/* GUI generated Thu Oct 11 23:50:47 2012 */
+
+/* Y direction */
+YAnchor(2)
+YAnchor(4)
+YAnchor(6)
+
+/* X direction */
+XDist(7,6,&lt;)
+XDist(8,2,&lt;)
+XIPAnchor(2,4,6)
+Diagonal>&lt;(6,5,0,4,119)
+Diagonal>&lt;(2,3,1,4,119)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="asciitilde">
+/* VTTTalk glyph 97, char 0x7e (~) */
+/* GUI generated Fri Oct 12 03:30:01 2012 */
+
+/* Y direction */
+YAnchor(12)
+YUpToGrid(10)
+YShift(12,10)
+YAnchor(10)
+YLink(12,7,240)
+YUpToGrid(9)
+YShift(7,9)
+YAnchor(9)
+YDelta(9,1/2@41)
+YShift(12,16)
+YAnchor(16)
+YDelta(16,1@27)
+YDownToGrid(0)
+YShift(16,0)
+YAnchor(0)
+YDelta(0,-1/2@41)
+YLink(16,3,240)
+YDownToGrid(1)
+YShift(3,1)
+YAnchor(1)
+
+/* X direction */
+XAnchor(12)
+XShift(12,16)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="asterisk">
+/* VTTTalk glyph 13, char 0x2a (*) */
+/* GUI generated Thu Oct 11 00:11:20 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="at">
+/* VTTTalk glyph 35, char 0x40 (@) */
+/* GUI generated Thu Oct 11 23:36:34 2012 */
+
+/* Y direction */
+YAnchor(0)
+YDelta(0,-1/2@22)
+YLink(0,100,233)
+YAnchor(14)
+YLink(14,86,233)
+YIPAnchor(0,57,14)
+YInterpolate(0,44,124,57)
+YShift(44,49)
+YLink(44,116,233)
+YShift(44,24)
+YAnchor(24)
+YLink(24,74,233)
+YLink(57,106,233)
+
+/* X direction */
+XDist(125,7,>=)
+XLink(7,93,232)
+XDist(126,21,>=)
+XLink(21,79,232)
+XInterpolate(21,60,52,7)
+XLink(60,124,232)
+XLink(52,111,232)
+
+YDelta(0,-1/2@21)
+YDelta(44,1/4@21)
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="atilde">
+/* VTTTalk glyph 152, char 0xe3 */
+/* GUI generated Tue Nov 13 00:30:27 2012 */
+
+/* Y direction */
+YAnchor(5,311)
+YLink(5,19,315)
+YShift(19,0)
+YAnchor(0)
+YDelta(0,1@10..12)
+YAnchor(11,311)
+YShift(11,8)
+YAnchor(8)
+YDelta(8,1@10..13)
+YLink(8,16,315)
+YAnchor(24,1)
+YShift(24,22)
+YLink(24,55,87)
+YShift(55,21)
+YAnchor(41,7)
+YShift(41,36)
+YAnchor(36)
+YShift(41,39)
+YInterpolate(41,60,24)
+YShift(60,58)
+YLink(60,49,87)
+YShift(49,51)
+YLink(41,67,87)
+YShift(67,57)
+
+/* X direction */
+XDist(71,44,&lt;)
+XLink(44,65,84)
+XShift(44,22)
+XAnchor(22)
+XDist(22,12,>=)
+XShift(22,21)
+XDist(72,35,&lt;)
+XShift(35,36)
+XShift(35,31)
+XDist(31,1,>=)
+XLink(31,51,81)
+XLink(31,57,81)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="b">
+/* VTTTalk glyph 69, char 0x62 (b) */
+/* GUI generated Sat Sep 22 19:02:02 2012 */
+
+/* Y direction */
+YAnchor(0,10)
+YAnchor(7,1)
+YLink(7,29,88)
+YAnchor(15,7)
+YLink(15,21,87)
+
+/* X direction */
+XDist(33,17,&lt;)
+XLink(17,2,82)
+XLink(17,18,162)
+XDist(34,11,&lt;)
+XLink(11,25,83)
+
+Smooth()
+YBDelta(23,-1/8@13,-3/8@14)
+YBDelta(27,1/4@15)
+
+    </glyphProgram>
+
+    <glyphProgram name="backslash">
+/* Y direction */
+YAnchor(1,2)
+YAnchor(3,18)
+
+/* X direction */
+XDist(5,3,>=)
+XDist(4,1,&lt;)
+Diagonal>&lt;(1,2,0,3,224)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="bar">
+/* VTTTalk glyph 95, char 0x7c (|) */
+/* GUI generated Fri Oct 12 03:17:50 2012 */
+
+/* Y direction */
+YAnchor(0,236)
+YAnchor(3,237)
+
+/* X direction */
+XDist(4,0,>=)
+XLink(0,1,82)
+XDist(1,5,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="braceleft">
+
+/* Y direction */
+YAnchor(5,236)
+YLink(5,6,239)
+YAnchor(25,237)
+YLink(25,24,239)
+YInterpolate(5,34,25)
+YShift(34,15)
+
+/* X direction */
+XDist(38,34,>=)
+XShift(34,1)
+XLink(1,10,238)
+XLink(34,15,238)
+XShift(15,24)
+XShift(24,6)
+XDist(6,39,>=)
+XShift(34,29)
+XLink(29,20,238)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="braceright">
+
+/* Y direction */
+YAnchor(1,236)
+YLink(1,0,239)
+YAnchor(19,237)
+YLink(19,20,239)
+YInterpolate(1,10,19)
+YShift(10,29)
+
+/* X direction */
+XDist(39,10,>=)
+XShift(10,5)
+XLink(5,34,238)
+XLink(10,29,238)
+XShift(29,20)
+XShift(20,0)
+XDist(0,38,>=)
+XShift(10,15)
+XLink(15,24,238)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketleft">
+/* VTTTalk glyph 62, char 0x5b ([) */
+/* GUI generated Thu Oct 11 23:47:19 2012 */
+
+/* Y direction */
+YAnchor(0,236)
+YLink(0,3,235)
+YAnchor(7,237)
+YLink(7,4,235)
+
+/* X direction */
+XDist(8,0,&lt;)
+XLink(0,4,234)
+XDist(4,5,>=)
+XShift(5,2)
+XDist(5,9,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketright">
+/* Y direction */
+YAnchor(1,236)
+YLink(1,6,235)
+YAnchor(2,237)
+YLink(2,5,235)
+
+/* X direction */
+XDist(9,1,&lt;)
+XLink(1,5,234)
+XDist(5,4,>=)
+XShift(4,7)
+XDist(4,8,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="breve">
+/* VTTTalk glyph 286, char 0x2d8 */
+/* GUI generated Thu Nov 22 09:41:23 2012 */
+
+YAnchor(4,321)
+YLink(4,10,320)
+YShift(10,0)
+YShift(10,8)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="brokenbar">
+/* VTTTalk glyph 102, char 0xa6 */
+/* GUI generated Fri Oct 12 03:43:34 2012 */
+
+/* Y direction */
+YAnchor(0,236)
+YAnchor(7,237)
+
+/* X direction */
+XDist(8,7,&lt;)
+XShift(7,0)
+XLink(7,5,82)
+XShift(5,1)
+XAnchor(1)
+XDist(1,9,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="bullet">
+/* VTTTalk glyph 417, char 0xffff */
+/* GUI generated Mon Dec 24 18:14:14 2012 */
+
+/* Y direction */
+YAnchor(10)
+YDist(10,0,>=)
+
+/* X direction */
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* Y direction */	
+YAnchor(3,7)	
+YShift(3,0)	
+YLink(3,28,87)	
+YShift(28,31)	
+YAnchor(13,1)	
+YShift(13,16)	
+YLink(13,20,87)	
+YShift(20,17)	
+	
+/* X direction */	
+XDist(32,8,&lt;)	
+XLink(8,23,83)	
+XDist(33,0,&lt;)	
+XDist(0,16,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cacute">
+/* VTTTalk glyph 188, char 0x107 */
+/* GUI generated Tue Nov 13 00:38:45 2012 */
+
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(19,7)
+YShift(19,16)
+YLink(19,44,87)
+YShift(44,47)
+YAnchor(29,1)
+YShift(29,32)
+YLink(29,36,87)
+YShift(36,33)
+
+/* X direction */
+XDist(48,24,&lt;)
+XLink(24,39,83)
+XDist(39,14,>=)
+XDist(49,16,&lt;)
+XDist(16,32,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="caron">
+YAnchor(1,310)
+YLink(1,4,314)
+YShift(1,0)
+YAnchor(0)
+YShift(1,2)
+YAnchor(2)
+
+    </glyphProgram>
+
+    <glyphProgram name="ccaron">
+/* Y direction */	
+YAnchor(2,311)	
+YShift(2,1)	
+YAnchor(1)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(2,5,314)	
+YAnchor(9,7)	
+YShift(9,6)	
+YLink(9,34,87)	
+YShift(34,37)	
+YAnchor(19,1)	
+YShift(19,22)	
+YLink(19,26,87)	
+YShift(26,23)	
+	
+/* X direction */	
+XDist(38,14,&lt;)	
+XLink(14,29,83)	
+XDist(29,2,>=)	
+XDist(39,6,&lt;)	
+XDist(6,22,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ccedilla">
+/* Y direction */	
+YAnchor(22,7)	
+YShift(22,21)	
+YShift(21,15)	
+YAnchor(15)	
+YDist(15,8,>=)	
+YAnchor(32,1)	
+YShift(32,35)	
+YLink(32,39,87)	
+YShift(39,36)	
+YAnchor(54,7)	
+YShift(54,51)	
+YLink(54,47,87)	
+YShift(47,50)	
+	
+/* X direction */	
+XDist(55,27,&lt;)	
+XLink(27,42,83)	
+XDist(56,51,&lt;)	
+XDist(51,35,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cdotaccent">
+/* Y direction */	
+YAnchor(10,311)	
+YDist(10,0,>=)	
+YAnchor(23,7)	
+YShift(23,20)	
+YLink(23,48,87)	
+YShift(48,51)	
+YAnchor(33,1)	
+YShift(33,36)	
+YLink(33,40,87)	
+YShift(40,37)	
+	
+/* X direction */	
+XDist(52,28,&lt;)	
+XLink(28,43,83)	
+XDist(43,10,>=)	
+XDist(53,20,&lt;)	
+XDist(20,36,&lt;)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cedilla">
+/* Y direction */	
+YAnchor(1,309)	
+YShift(1,19)	
+YShift(19,13)	
+YAnchor(13)	
+YDist(13,8,>=)	
+	
+/* X direction */	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="cent">
+/* VTTTalk glyph 99, char 0xa2 */
+/* GUI generated Fri Oct 12 03:35:02 2012 */
+
+/* Y direction */
+YAnchor(3,7)
+YShift(3,1)
+YLink(3,28,87)
+YShift(28,0)
+YAnchor(7)
+YAnchor(16,1)
+YShift(16,22)
+YAnchor(17,1)
+YShift(17,20)
+YLink(17,31,87)
+YShift(31,23)
+YShift(31,25)
+YAnchor(19)
+
+/* X direction */
+XDist(39,12,&lt;)
+XLink(12,35,83)
+XShift(35,7)
+XDist(40,1,&lt;)
+XUpToGrid(22)
+XDist(1,22,&lt;)
+XShift(22,19)
+Diagonal>&lt;(19,18,6,7,161)
+DAlign(19,20,25,26,5,6)
+DAlign(7,8,30,31,16,17,18)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflex">
+/*circumflex*/
+YAnchor(3,311)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,311)
+    </glyphProgram>
+
+    <glyphProgram name="colon">
+/* VTTTalk glyph 29, char 0x3a (:) */
+/* GUI generated Thu Oct 11 22:48:58 2012 */
+
+/* Y direction */
+YAnchor(12,228)
+YLink(12,0,227)
+
+YAnchor(36,225)
+YLink(36,24,227)
+
+/* X direction */
+XDist(49,30,>=)
+XShift(30,6)
+XLink(30,42,226)
+XShift(42,18)
+XDist(42,48,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="comma">
+/* Y direction */
+YAnchor(15,16)
+YLink(15,3,227)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="copyright">
+/* VTTTalk glyph 105, char 0xa9 */
+/* GUI generated Fri Oct 12 03:54:17 2012 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,28,233)
+YAnchor(14)
+YLink(14,40,233)
+YIPAnchor(14,74,86,0)
+YShift(74,71)
+YLink(74,67,233)
+YShift(67,70)
+YShift(86,89)
+YLink(86,55,233)
+YShift(55,52)
+
+/* X direction */
+XDist(90,21,>=)
+XLink(21,33,232)
+XDist(91,7,>=)
+XLink(7,47,232)
+XInterpolate(7,52,80,21)
+XShift(52,89)
+XShift(52,70)
+XShift(70,71)
+XLink(80,61,232)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="d">
+/* VTTTalk glyph 71, char 0x64 (d) */
+/* GUI generated Sat Sep 22 19:02:10 2012 */
+
+/* Y direction */
+YAnchor(0,10)
+YAnchor(16,7)
+YLink(16,44,88)
+YAnchor(26,1)
+YLink(26,32,87)
+
+/* X direction */
+XDist(48,21,&lt;)
+XLink(21,37,83)
+XDist(49,6,&lt;)
+XShift(6,7)
+XShift(6,2)
+XLink(2,28,82)
+XLink(2,29,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dcaron">
+/* VTTTalk glyph 194, char 0x10f */
+/* GUI generated Tue Nov 13 00:38:59 2012 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,3,313)
+YAnchor(11,10)
+YAnchor(27,7)
+YLink(27,55,88)
+YAnchor(37,1)
+YLink(37,43,87)
+
+/* X direction */
+XDist(59,32,&lt;)
+XLink(32,48,83)
+XDist(60,17,&lt;)
+XShift(17,18)
+XShift(17,13)
+XDist(13,0,>=)
+XLink(13,39,82)
+XLink(13,40,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dcroat">
+/* VTTTalk glyph 196, char 0x111 */
+/* GUI generated Tue Nov 13 02:23:08 2012 */
+
+/* Y direction */
+YAnchor(16,7)
+YShift(16,7)
+YLink(16,52,88)
+YAnchor(26,1)
+YLink(26,40,87)
+YAnchor(33,10)
+YIPAnchor(26,29,33)
+YShift(29,1)
+YDist(29,32,>=)
+YShift(32,35)
+
+/* X direction */
+XDist(56,21,&lt;)
+XLink(21,45,83)
+XDist(57,6,&lt;)
+XShift(6,7)
+XShift(6,2)
+XLink(2,28,82)
+XLink(2,37,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="degree">
+/* VTTTalk glyph 111, char 0xb0 */
+/* GUI generated Fri Oct 12 04:08:57 2012 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,30,191,>=)
+YAnchor(20,187)
+YLink(20,0,191,>=)
+
+/* X direction */
+XIPAnchor(41,15,40)
+XInterpolate(41,35,15)
+XLink(35,5,189,>=)
+XLink(15,25,189,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresis">
+/* VTTTalk glyph 104, char 0xa8 */
+/* GUI generated Fri Oct 12 03:50:56 2012 */
+
+/* Y direction */
+YAnchor(0,243)
+YLink(0,12,242)
+YAnchor(23,243)
+YLink(23,34,242)
+
+/* X direction */
+XDist(46,17,&lt;)
+XLink(17,6,241)
+XDist(6,40,&lt;)
+XLink(40,29,241)
+XDist(29,47,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="divide">
+/* VTTTalk glyph 172, char 0xf7 */
+/* GUI generated Fri Oct 12 05:11:06 2012 */
+
+/* Y direction */
+YAnchor(20)
+YDelta(20,1@19)
+YLink(20,22,202)
+YShift(22,0)
+YAnchor(0)
+YLink(0,10,242)
+YShift(20,24)
+YAnchor(24)
+YDelta(24,-1@19)
+YLink(24,34,242)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dollar">
+/* VTTTalk glyph 7, char 0x24 ($) */
+/* GUI generated Mon Nov 12 00:40:04 2012 */
+
+/* Y direction */
+YAnchor(12)
+YShift(12,13)
+YShift(13,15)
+YShift(13,10)
+YLink(10,44,103)
+YLink(13,18,103)
+YShift(18,16)
+YAnchor(29)
+YShift(29,28)
+YLink(28,37,103)
+YShift(28,31)
+YShift(31,33)
+YLink(31,0,103)
+YShift(0,34)
+YIPAnchor(13,43,28)
+YLink(43,1,103)
+YShift(43,19)
+YLink(19,36,103)
+
+/* X direction */
+XDist(50,15,>=)
+XShift(15,16)
+XDist(15,25,&lt;)
+XLink(25,40,99)
+XDist(51,7,&lt;)
+XLink(7,47,99)
+XUpToGrid(33)
+XDist(7,33,&lt;)
+XShift(33,34)
+XInterpolate(15,13,33)
+XLink(13,11,217)
+XShift(13,18)
+XLink(18,43,217)
+XShift(18,36)
+XLink(36,0,217)
+XShift(36,28)
+XLink(28,30,217)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccent">
+/* VTTTalk glyph 287, char 0x2d9 */
+/* GUI generated Thu Nov 22 09:42:48 2012 */
+
+/* Y direction */
+YAnchor(6,310)
+YDist(6,0,>=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessi">
+/* Y direction */
+
+YAnchor(1,0)
+YAnchor(2,6)
+
+/* X direction */
+XDist(4,3,&lt;)
+XLink(3,1,82)
+XDist(1,5,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* Y direction */	
+YAnchor(3,7)	
+YShift(3,0)	
+YLink(3,25,87)	
+YShift(25,30)	
+YAnchor(15,1)	
+YLink(15,34,87)	
+YIPAnchor(3,20,15)	
+YLink(20,31,86)	
+	
+/* X direction */	
+XDist(38,8,&lt;)	
+XLink(8,20,83)	
+XLink(8,37,83)	
+XDist(39,19,&lt;)	
+XDist(19,0,&lt;)	
+XLink(19,31,83)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="eacute">
+/* Y direction */	
+YAnchor(14,311)	
+YLink(14,3,313)	
+YAnchor(19,7)	
+YShift(19,16)	
+YLink(19,41,87)	
+YShift(41,46)	
+YAnchor(31,1)	
+YLink(31,50,87)	
+YIPAnchor(19,36,31)	
+YLink(36,47,86)	
+	
+/* X direction */	
+XDist(54,24,&lt;)	
+XLink(24,36,83)	
+XLink(24,53,83)	
+XDist(53,15,>=)	
+XDist(55,35,&lt;)	
+XDist(35,16,&lt;)	
+XLink(35,47,83)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="ecaron">
+	
+/* Y direction */	
+YAnchor(2,311)	
+YShift(2,1)	
+YAnchor(1)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(2,5,314)	
+YAnchor(9,7)	
+YShift(9,6)	
+YLink(9,31,87)	
+YShift(31,36)	
+YAnchor(21,1)	
+YLink(21,40,87)	
+YIPAnchor(9,26,21)	
+YLink(26,37,86)	
+	
+/* X direction */	
+XDist(44,14,&lt;)	
+XLink(14,26,83)	
+XLink(14,43,83)	
+XDist(43,2,>=)	
+XDist(45,25,&lt;)	
+XDist(25,6,&lt;)	
+XLink(25,37,83)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ecircumflex">
+/* Y direction */	
+YAnchor(2,311)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(3,0,314)	
+YAnchor(4,311)	
+YAnchor(9,7)	
+YShift(9,6)	
+YLink(9,31,87)	
+YShift(31,36)	
+YAnchor(21,1)	
+YLink(21,40,87)	
+YIPAnchor(9,26,21)	
+YLink(26,37,86)	
+	
+/* X direction */	
+XDist(44,14,&lt;)	
+XLink(14,26,83)	
+XLink(14,43,83)	
+XDist(45,25,&lt;)	
+XDist(25,6,&lt;)	
+XLink(25,37,83)	
+XDist(37,3,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="edieresis">
+/* VTTTalk glyph 160, char 0xeb */
+/* GUI generated Tue Nov 13 00:31:54 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,0,>=)
+YAnchor(30,311)
+YDist(30,20,>=)
+YAnchor(43,7)
+YShift(43,40)
+YLink(43,65,87)
+YShift(65,70)
+YAnchor(55,1)
+YLink(55,74,87)
+YIPAnchor(43,60,55)
+YLink(60,71,86)
+
+/* X direction */
+XDist(78,48,&lt;)
+XLink(48,60,83)
+XLink(48,77,83)
+XDist(77,15,>=)
+XDist(79,59,&lt;)
+XDist(59,40,&lt;)
+XLink(59,71,83)
+XDist(71,25,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="edotaccent">
+/* VTTTalk glyph 200, char 0x117 */
+/* GUI generated Mon Nov 12 22:29:09 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,0,>=)
+YAnchor(23,7)
+YShift(23,20)
+YLink(23,45,87)
+YShift(45,50)
+YAnchor(35,1)
+YLink(35,54,87)
+YIPAnchor(23,40,35)
+YLink(40,51,86)
+
+/* X direction */
+XDist(58,28,&lt;)
+XLink(28,40,83)
+XLink(28,57,83)
+XDist(57,10,>=)
+XDist(59,39,&lt;)
+XDist(39,20,&lt;)
+XLink(39,51,83)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="egrave">
+/* VTTTalk glyph 157, char 0xe8 */
+/* GUI generated Mon Nov 12 22:26:58 2012 */
+
+/* Y direction */
+YAnchor(15,311)
+YLink(15,10,313)
+YAnchor(19,7)
+YShift(19,16)
+YLink(19,41,87)
+YShift(41,46)
+YAnchor(31,1)
+YLink(31,50,87)
+YIPAnchor(19,36,31)
+YLink(36,47,86)
+
+/* X direction */
+XDist(54,24,&lt;)
+XLink(24,36,83)
+XLink(24,53,83)
+XDist(55,35,&lt;)
+XDist(35,16,&lt;)
+XLink(35,47,83)
+XDist(47,14,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eight">
+/* VTTTalk glyph 27, char 0x38 (8) */
+/* GUI generated Sat Sep 22 13:12:53 2012 */
+
+/* Y direction */
+YAnchor(10,13)
+YLink(10,58,104)
+YAnchor(30,165)
+YLink(30,38,104)
+YInterpolate(10,68,30)
+YLink(68,47,103)
+YShift(68,70)
+YDelta(70,1/2@17)
+
+/* X direction */
+XDist(78,15,>=)
+XShift(15,25)
+XLink(25,43,100)
+XLink(15,73,170)
+XDist(79,5,>=)
+XShift(5,35)
+XLink(35,53,100)
+XInterpolate(53,38,43)
+XLink(5,63,170)
+XInterpolate(63,58,73)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ellipsis">
+
+/* Y direction */
+YAnchor(10,225)
+YLink(10,0,222)
+YAnchor(30,225)
+YLink(30,20,222)
+YAnchor(50,225)
+YLink(50,40,222)
+
+/* X direction */
+XDist(60,15,&lt;)
+XLink(15,5,223)
+XDist(5,35,&lt;)
+XLink(35,25,223)
+XDist(25,55,&lt;)
+XLink(55,45,223)
+XDist(45,61,&lt;)
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="emacron">
+/* VTTTalk glyph 198, char 0x113 */
+/* GUI generated Mon Nov 12 22:28:59 2012 */
+YAnchor(2,318)
+YLink(2,0,317)
+/* Y direction */
+YAnchor(7,7)
+YShift(7,4)
+YLink(7,29,87)
+YShift(29,34)
+YAnchor(19,1)
+YLink(19,38,87)
+YIPAnchor(7,24,19)
+YLink(24,35,86)
+
+/* X direction */
+XDist(42,12,&lt;)
+XLink(12,24,83)
+XLink(12,41,83)
+XDist(41,2,>=)
+XDist(43,23,&lt;)
+XDist(23,4,&lt;)
+XLink(23,35,83)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="emdash">
+/* Y direction */
+YAnchor(0)
+YLink(0,3,221)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="endash">
+/* Y direction */
+YAnchor(0)
+YLink(0,3,221)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="eng">
+/* VTTTalk glyph 236, char 0x14b */
+/* GUI generated Tue Nov 13 00:14:30 2012 */
+
+/* Y direction */
+YAnchor(5,1)
+YLink(5,29,88)
+YAnchor(17)
+YAnchor(34,6)
+
+/* X direction */
+XDist(45,35,&lt;)
+XLink(35,33,82)
+XShift(33,0)
+XDist(46,11,&lt;)
+XLink(11,25,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eogonek">
+/* Y direction */	
+YAnchor(41,7)	
+YShift(41,12)	
+YLink(41,6,87)	
+YShift(6,11)	
+YShift(41,20)	
+YShift(20,23)	
+YAnchor(23)	
+YDist(23,30,>=)	
+YAnchor(53,1)	
+YLink(53,60,87)	
+YInterpolate(41,1,53)	
+YLink(1,57,86)	
+	
+/* X direction */	
+XDist(64,46,&lt;)	
+XLink(46,1,83)	
+XLink(46,63,83)	
+XDist(65,0,&lt;)	
+XDist(0,12,&lt;)	
+XLink(0,57,83)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="equal">
+/* VTTTalk glyph 32, char 0x3d (=) */
+/* GUI generated Thu Oct 11 07:39:34 2012 */
+
+/* Y direction */
+YAnchor(3)
+YLink(3,1,202)
+YDist(3,5,>=)
+YLink(5,7,202)
+
+/* X direction */
+XIPAnchor(8,2,9)
+XShift(2,7)
+XShift(2,0)
+XAnchor(0)
+XShift(0,4)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="eth">
+/* VTTTalk glyph 165, char 0xf0 */
+/* GUI generated Fri Oct 12 05:07:32 2012 */
+
+/* Y direction */
+YAnchor(10,7)
+YLink(10,33,88)
+YAnchor(29)
+YLink(29,28,87)
+YDelta(28,1/4@25)
+YIPAnchor(10,44,29)
+YLink(44,19,88)
+
+/* X direction */
+XDist(51,15,>=)
+XLink(15,48,83)
+XDist(52,5,>=)
+XLink(5,39,83)
+XInterpolate(39,33,44,48)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclam">
+/* VTTTalk glyph 4, char 0x21 (!) */
+/* GUI generated Thu Oct 11 22:51:10 2012 */
+
+/* Y direction */
+YAnchor(3,3)
+YLink(3,11,227)
+YAnchor(22,13)
+YDist(22,12,>=)
+YDist(12,9,>=)
+
+/* X direction */
+XInterpolate(33,3,32)
+XDist(3,17,&lt;)
+XDist(3,27,&lt;)
+XShift(3,8)
+XShift(8,9)
+XDist(8,11,>=)
+XShift(11,10)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown">
+/* VTTTalk glyph 415, char 0xffff */
+/* GUI generated Mon Dec 24 18:12:51 2012 */
+
+/* Y direction */
+YAnchor(0,122)
+YDist(0,10,>=)
+YDist(10,29,>=)
+YAnchor(23)
+YLink(23,31,227)
+
+/* X direction */
+XInterpolate(33,23,32)
+XDist(23,5,&lt;)
+XDist(23,15,&lt;)
+XShift(23,28)
+XShift(28,29)
+XDist(28,31,>=)
+XShift(31,30)
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* VTTTalk glyph 73, char 0x66 (f) */
+/* GUI generated Sat Nov 24 12:49:47 2012 */
+
+/* Y direction */
+YAnchor(0,0)
+YShift(0,19)
+YLink(0,22,85)
+YLink(0,29,85)
+YAnchor(6,15)
+YShift(6,8)
+YLink(6,11,87)
+YShift(11,9)
+YAnchor(26,6)
+YLink(26,23,85)
+YLink(26,28,85)
+
+/* X direction */
+XDist(32,27,&lt;)
+XShift(27,28)
+XLink(28,19,82)
+XLink(28,22,82)
+XDist(33,8,>=)
+XDist(8,20,&lt;)
+XDist(20,24,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="figuredash">
+/* Y direction */
+YAnchor(0)
+YLink(0,3,221)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="five">
+/* VTTTalk glyph 24, char 0x35 (5) */
+/* GUI generated Sun Sep 23 21:35:01 2012 */
+
+/* Y direction */
+YAnchor(0,168)
+YLink(0,1,103)
+YAnchor(14,4)
+YAnchor(15,4)
+YLink(15,25,101)
+YIPAnchor(0,10,15)
+YDelta(10,-5/8@21..22,-3/4@23,-1/2@24)
+YShift(10,12)
+YLink(10,28,104)
+YShift(28,26)
+
+/* X direction */
+XDist(37,1,>=)
+XDist(38,33,>=)
+XLink(33,6,99)
+XIPAnchor(33,26,14,1)
+Diagonal>&lt;(26,13,25,14,105)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="four">
+/* VTTTalk glyph 23, char 0x34 (4) */
+/* GUI generated Sat Dec 01 17:32:52 2012 */
+
+/* Y direction */
+YAnchor(0,5)
+YShift(0,3)
+YAnchor(11,12)
+YAnchor(13,167)
+YAnchor(14,12)
+YLink(14,8,102)
+YLink(14,5,102)
+YDist(5,6,&lt;)
+YDelta(6,3/4@11)
+YShift(5,16)
+
+/* X direction */
+XDist(20,16,>=)
+XDist(21,10,>=)
+XDist(10,11,&lt;)
+XLink(11,14,98)
+XLink(11,5,98)
+XInterpolate(16,3,5)
+Diagonal>&lt;(16,4,17,3,106)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="fraction">
+/* VTTTalk glyph 372, char 0x2044 */
+/* GUI generated Fri Oct 12 05:35:32 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(1,2)
+YAnchor(2,8)
+YAnchor(3,8)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* Y direction */	
+YAnchor(48,175)	
+YDelta(48,-3/4@10,-1@15..16)	
+YShift(48,54)	
+YLink(48,60,87)	
+YShift(60,57)	
+YAnchor(71,7)	
+YDelta(71,-5/8@10,-1@15..16)	
+YLink(71,35,87)	
+YAnchor(88,1)	
+YShift(88,5)	
+YShift(88,90)	
+YIPAnchor(71,22,88)	
+YInterpolate(22,106,96,88)	
+YLink(22,101,87)	
+YLink(88,91,87)	
+YShift(91,8)	
+	
+/* X direction */	
+XDist(111,82,>=)	
+XShift(82,76)	
+XShift(76,54)	
+XShift(76,57)	
+XLink(82,96,83)	
+XDist(112,16,>=)	
+XShift(16,5)	
+XShift(16,8)	
+XShift(16,41)	
+XLink(41,65,83)	
+XLink(16,106,83)	
+XInterpolate(106,101,91,96)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="gbreve">
+	
+	
+/* Y direction */	
+YAnchor(5,321)	
+YLink(5,14,320)	
+YShift(14,11)	
+YShift(14,17)	
+YAnchor(66,175)	
+YDelta(66,-3/4@10,-1@15..16)	
+YShift(66,72)	
+YLink(66,78,87)	
+YShift(78,75)	
+YAnchor(89,7)	
+YDelta(89,-5/8@10,-1@15..16)	
+YLink(89,53,87)	
+YAnchor(106,1)	
+YShift(106,23)	
+YShift(106,108)	
+YIPAnchor(89,40,106)	
+YInterpolate(40,114,124,106)	
+YLink(40,119,87)	
+YLink(106,109,87)	
+YShift(109,26)	
+	
+/* X direction */	
+XDist(129,100,>=)	
+XShift(100,94)	
+XShift(94,72)	
+XShift(94,75)	
+XLink(100,114,83)	
+XDist(114,5,>=)	
+XDist(130,34,>=)	
+XShift(34,23)	
+XShift(34,26)	
+XShift(34,59)	
+XLink(59,83,83)	
+XLink(34,124,83)	
+XInterpolate(124,109,119,114)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="gcommaaccent">
+/* Y direction */	
+YAnchor(5,311)	
+YLink(5,15,313)	
+YAnchor(64,175)	
+YDelta(64,-3/4@10,-1@15..16)	
+YShift(64,70)	
+YLink(64,76,87)	
+YShift(76,73)	
+YAnchor(87,7)	
+YDelta(87,-5/8@10,-1@15..16)	
+YLink(87,51,87)	
+YAnchor(104,1)	
+YShift(104,21)	
+YShift(104,106)	
+YIPAnchor(87,38,104)	
+YInterpolate(38,112,122,104)	
+YLink(38,117,87)	
+YLink(104,107,87)	
+YShift(107,24)	
+	
+/* X direction */	
+XDist(127,98,>=)	
+XShift(98,92)	
+XShift(92,70)	
+XShift(92,73)	
+XLink(98,112,83)	
+XDist(128,32,>=)	
+XShift(32,21)	
+XShift(32,24)	
+XShift(32,57)	
+XLink(57,81,83)	
+XLink(32,122,83)	
+XDist(122,1,>=)	
+XInterpolate(122,107,117,112)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="gdotaccent">
+/* Y direction */	
+YAnchor(10,311)	
+YDist(10,0,>=)	
+YAnchor(68,175)	
+YDelta(68,-3/4@10,-1@15..16)	
+YShift(68,74)	
+YLink(68,80,87)	
+YShift(80,77)	
+YAnchor(91,7)	
+YDelta(91,-5/8@10,-1@15..16)	
+YLink(91,55,87)	
+YAnchor(108,1)	
+YShift(108,25)	
+YShift(108,110)	
+YIPAnchor(91,42,108)	
+YInterpolate(42,116,126,108)	
+YLink(42,121,87)	
+YLink(108,111,87)	
+YShift(111,28)	
+	
+/* X direction */	
+XDist(131,102,>=)	
+XShift(102,96)	
+XShift(96,74)	
+XShift(96,77)	
+XLink(102,116,83)	
+XDist(116,10,>=)	
+XDist(132,36,>=)	
+XShift(36,25)	
+XShift(36,28)	
+XShift(36,61)	
+XLink(61,85,83)	
+XLink(36,126,83)	
+XInterpolate(126,111,121,116)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="germandbls">
+/* VTTTalk glyph 148, char 0xdf */
+/* GUI generated Sat Nov 24 12:32:14 2012 */
+
+/* Y direction */
+YAnchor(0,6)
+YAnchor(5,172)
+YLink(5,43,87)
+YAnchor(19,7)
+YShift(19,21)
+YLink(19,24,87)
+YShift(24,22)
+YIPAnchor(19,33,5)
+YLink(33,34,87)
+
+/* X direction */
+XDist(48,0,>=)
+XLink(0,46,82)
+XDist(49,16,>=)
+XLink(16,27,83)
+XDist(16,10,&lt;)
+XLink(10,39,83)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="grave">
+/* VTTTalk glyph 67, char 0x60 (`) */
+/* GUI generated Thu Oct 11 23:56:37 2012 */
+
+/* Y direction */
+YAnchor(10,10)
+YLink(10,7,227)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="greater">
+/* Y direction */
+YAnchor(1,230)
+YDelta(1,1@15)
+YAnchor(5,229)
+YDelta(5,1@11..12;16;20)
+YHalfGrid(3)
+YIPAnchor(1,3,5)
+
+/* X direction */
+XDist(8,3,>=)
+XDist(7,1,>=)
+XShift(1,5)
+XAnchor(5)
+Diagonal>&lt;(1,2,0,3,119)
+Diagonal&lt;>(4,5,3,6,119)
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotleft">
+/* VTTTalk glyph 106, char 0xab */
+/* GUI generated Fri Oct 12 04:37:53 2012 */
+
+/* Y direction */
+YAnchor(1,248)
+YAnchor(5,247)
+YAnchor(7,248)
+YAnchor(11,247)
+YIPAnchor(11,9,7)
+YShift(9,6)
+YAnchor(6)
+YShift(6,3)
+YAnchor(3)
+YShift(3,0)
+YAnchor(0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotright">
+/* VTTTalk glyph 116, char 0xbb */
+/* GUI generated Fri Oct 12 04:38:56 2012 */
+
+/* Y direction */
+YAnchor(1,248)
+YAnchor(3,247)
+YIPAnchor(3,5,1)
+YShift(5,2)
+YAnchor(2)
+YShift(2,11)
+YAnchor(11)
+YShift(11,8)
+YAnchor(8)
+YAnchor(7,248)
+YAnchor(9,247)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglleft">
+/* VTTTalk glyph 370, char 0x2039 */
+/* GUI generated Fri Oct 12 05:33:58 2012 */
+
+/* Y direction */
+YAnchor(1,248)
+YAnchor(5,247)
+YIPAnchor(5,3,1)
+YShift(3,0)
+YAnchor(0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglright">
+
+/* Y direction */
+YAnchor(1,248)
+YAnchor(3,247)
+YIPAnchor(3,5,1)
+YShift(5,2)
+YAnchor(2)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="h">
+/* VTTTalk glyph 75, char 0x68 (h) */
+/* GUI generated Sat Sep 22 19:02:25 2012 */
+
+/* Y direction */
+YAnchor(1,10)
+YAnchor(6,1)
+YLink(6,21,88)
+YAnchor(14,6)
+YAnchor(26,6)
+
+/* X direction */
+XDist(28,27,&lt;)
+XLink(27,25,82)
+XShift(25,1)
+XDist(29,13,&lt;)
+XLink(13,14,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hbar">
+/* VTTTalk glyph 212, char 0x127 */
+/* GUI generated Tue Nov 13 01:16:10 2012 */
+
+/* Y direction */
+YAnchor(5,1)
+YLink(5,18,88)
+YAnchor(13,6)
+YAnchor(23,6)
+YAnchor(30,10)
+YDist(30,31,>=)
+YDelta(31,1@23)
+YLink(31,0,202)
+YLink(31,25,202)
+YShift(31,28)
+
+/* X direction */
+XDist(34,24,&lt;)
+XLink(24,22,82)
+XShift(22,30)
+XDist(35,12,&lt;)
+XLink(12,13,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlaut">
+/* VTTTalk glyph 298, char 0x2dd */
+/* GUI generated Wed Dec 26 16:43:15 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(21,313)
+YLink(21,14,311)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="hyphen">
+/* VTTTalk glyph 16, char 0x2d (-) */
+/* GUI generated Thu Oct 11 20:55:33 2012 */
+
+/* Y direction */
+YAnchor(3)
+YLink(3,0,221)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* VTTTalk glyph 76, char 0x69 (i) */
+/* GUI generated Sat Sep 22 20:10:51 2012 */
+
+/* Y direction */
+YAnchor(0,172)
+YDist(0,8,>=)
+YInterpolate(0,12,8)
+YAnchor(17,0)
+YAnchor(18,6)
+
+/* X direction */
+XDist(20,19,&lt;)
+XShift(19,12)
+XLink(19,17,82)
+XShift(17,4)
+XDist(17,21,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="iacute">
+/* VTTTalk glyph 162, char 0xed */
+/* GUI generated Tue Nov 13 00:32:34 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(12,0)
+YAnchor(13,6)
+
+/* X direction */
+XDist(15,14,&lt;)
+XLink(14,12,82)
+XDist(12,9,>=)
+XDist(12,16,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="icircumflex">
+/* VTTTalk glyph 163, char 0xee */
+/* GUI generated Tue Nov 13 00:32:36 2012 */
+
+/* Y direction */
+YAnchor(3,311)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,311)
+YAnchor(7,0)
+YAnchor(8,6)
+
+/* X direction */
+XDist(10,9,&lt;)
+XLink(9,7,82)
+XDist(7,4,>=)
+XDist(7,11,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="idieresis">
+/* VTTTalk glyph 164, char 0xef */
+/* GUI generated Tue Nov 13 00:32:42 2012 */
+
+/* Y direction */
+YAnchor(12,311)
+YDist(12,0,>=)
+YAnchor(34,311)
+YDist(34,23,>=)
+YAnchor(46,0)
+YAnchor(47,6)
+
+/* X direction */
+XDist(50,48,&lt;)
+XDist(48,17,>=)
+XLink(48,46,82)
+XDist(46,29,>=)
+XDist(46,51,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="igrave">
+/* VTTTalk glyph 161, char 0xec */
+/* GUI generated Tue Nov 13 00:32:32 2012 */
+
+/* Y direction */
+YAnchor(0,311)
+YLink(0,7,313)
+YAnchor(12,0)
+YAnchor(13,6)
+
+/* X direction */
+XDist(15,14,&lt;)
+XLink(14,12,82)
+XDist(12,0,>=)
+XDist(12,16,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ij">
+/* VTTTalk glyph 223, char 0x133 */
+/* GUI generated Wed Dec 26 15:41:28 2012 */
+
+/* Y direction */
+YAnchor(0,172)
+YDist(0,10,>=)
+YInterpolate(10,15,0)
+YAnchor(20,172)
+YDist(20,30,>=)
+YInterpolate(30,35,20)
+YAnchor(40,0)
+YAnchor(42,6)
+YAnchor(49,176)
+YDownToGrid(52)
+YShift(49,52)
+YAnchor(52)
+YAnchor(58,0)
+
+/* X direction */
+XDist(60,43,&lt;)
+XShift(43,15)
+XLink(43,41,82)
+XShift(41,5)
+XDist(41,57,&lt;)
+XShift(57,35)
+XDist(57,52,&lt;)
+XLink(57,59,82)
+XShift(59,25)
+XDist(59,61,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="imacron">
+/* VTTTalk glyph 214, char 0x12b */
+/* GUI generated Tue Nov 13 00:39:50 2012 */
+
+/* Y direction */
+YAnchor(2,318)
+YLink(2,1,317)
+YAnchor(5,0)
+YAnchor(6,6)
+
+/* X direction */
+XDist(8,7,&lt;)
+XLink(7,5,82)
+XDist(5,2,>=)
+XDist(5,3,>=)
+XDist(5,9,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="iogonek">
+/* VTTTalk glyph 216, char 0x12f */
+/* GUI generated Tue Nov 13 00:13:23 2012 */
+
+/* Y direction */
+YAnchor(13,311)
+YDist(13,5,>=)
+YAnchor(14,6)
+YShift(14,15)
+YShift(15,34)
+YShift(15,18)
+YShift(18,20)
+YAnchor(20)
+YDist(20,25,>=)
+YAnchor(36,0)
+
+/* X direction */
+XDist(37,34,&lt;)
+XShift(34,2)
+XLink(34,36,82)
+XShift(36,9)
+XDist(36,38,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* VTTTalk glyph 77, char 0x6a (j) */
+/* GUI generated Sat Sep 22 20:11:47 2012 */
+
+/* Y direction */
+YAnchor(0,172)
+YDist(0,8,>=)
+YInterpolate(8,12,0)
+YAnchor(17,0)
+YAnchor(23,176)
+YDownToGrid(24)
+YShift(23,24)
+YAnchor(24)
+
+/* X direction */
+XDist(31,30,&lt;)
+XShift(30,12)
+XDist(30,24,&lt;)
+XLink(30,17,82)
+XShift(17,4)
+XDist(17,32,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* VTTTalk glyph 78, char 0x6b (k) */
+/* GUI generated Sat Nov 24 12:31:59 2012 */
+
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,1)
+YAnchor(6,6)
+YInterpolate(6,8,2,3)
+YAnchor(7,6)
+YAnchor(9,6)
+
+/* X direction */
+XDist(11,10,>=)
+XLink(10,8,82)
+XShift(8,1)
+XDist(1,2,&lt;)
+XDist(12,6,&lt;)
+XShift(6,3)
+Diagonal>>(3,4,2,5,90)
+Diagonal>&lt;(6,7,5,8,90)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="kcommaaccent">
+/* VTTTalk glyph 220, char 0x137 */
+/* GUI generated Sat Nov 24 12:32:26 2012 */
+
+/* Y direction */
+YAnchor(1,10)
+YAnchor(3,1)
+YAnchor(6,6)
+YInterpolate(6,8,2,3)
+YAnchor(7,6)
+YAnchor(9,6)
+YAnchor(14,184)
+YLink(14,21,313)
+
+/* X direction */
+XAnchor(11)
+XDist(11,10,>=)
+XLink(10,8,82)
+XShift(8,1)
+XDist(1,2,&lt;)
+XAnchor(12)
+XDist(12,6,&lt;)
+XShift(6,3)
+Diagonal>>(3,4,2,5,90)
+Diagonal>&lt;(6,7,5,8,90)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* VTTTalk glyph 79, char 0x6c (l) */
+/* GUI generated Wed Dec 26 15:22:18 2012 */
+
+/* Y direction */
+YAnchor(9,7)
+YAnchor(14,10)
+
+/* X direction */
+XDist(15,12,&lt;)
+XShift(12,9)
+XLink(12,14,82)
+XShift(14,3)
+XShift(14,6)
+XDist(14,16,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lacute">
+/* VTTTalk glyph 227, char 0x13a */
+/* GUI generated Wed Dec 26 15:33:00 2012 */
+
+/* Y direction */
+YAnchor(14,310)
+YLink(14,3,313)
+YAnchor(25,7)
+YAnchor(30,10)
+
+/* X direction */
+XDist(31,28,&lt;)
+XShift(28,25)
+XLink(28,30,82)
+XShift(30,19)
+XShift(30,22)
+XDist(30,32,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lcaron">
+/* VTTTalk glyph 231, char 0x13e */
+/* GUI generated Wed Dec 26 15:32:08 2012 */
+
+/* Y direction */
+YAnchor(25,7)
+YAnchor(30,10)
+YInterpolate(25,14,30)
+YLink(14,3,313)
+
+/* X direction */
+XDist(31,28,&lt;)
+XShift(28,25)
+XLink(28,30,82)
+XShift(30,19)
+XShift(30,22)
+XDist(30,32,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="lcommaaccent">
+/* VTTTalk glyph 229, char 0x13c */
+/* GUI generated Wed Dec 26 15:32:49 2012 */
+
+/* Y direction */
+YAnchor(9,7)
+YAnchor(14,10)
+YAnchor(18,184)
+YLink(18,29,313)
+
+/* X direction */
+XDist(31,12,&lt;)
+XShift(12,9)
+XLink(12,14,82)
+XShift(14,3)
+XShift(14,6)
+XDist(14,32,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ldot">
+/* VTTTalk glyph 233, char 0x140 */
+/* GUI generated Wed Dec 26 15:31:35 2012 */
+
+/* Y direction */
+YAnchor(9,7)
+YAnchor(14,10)
+YIPAnchor(9,25,14)
+YDist(25,15,>=)
+
+/* X direction */
+XDist(35,12,&lt;)
+XShift(12,9)
+XLink(12,14,82)
+XShift(14,3)
+XShift(14,6)
+XDist(14,36,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="less">
+/* VTTTalk glyph 31, char 0x3c (&lt;) */
+/* GUI generated Thu Oct 11 22:58:08 2012 */
+
+/* Y direction */
+YAnchor(1,230)
+YDelta(1,1@15)
+YAnchor(4,229)
+YDelta(4,1@11..12;16;20)
+YHalfGrid(6)
+YIPAnchor(1,6,4)
+
+/* X direction */
+XDist(7,6,>=)
+XDist(8,1,>=)
+XShift(1,4)
+XAnchor(4)
+Diagonal>&lt;(1,0,2,6,119)
+Diagonal&lt;>(5,4,6,3,119)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="logicalnot">
+/* VTTTalk glyph 107, char 0xac */
+/* GUI generated Fri Oct 12 04:24:41 2012 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,5,202)
+
+/* X direction */
+XDist(6,5,&lt;)
+XDist(7,2,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="lslash">
+	
+/* Y direction */	
+YAnchor(12,7)	
+YAnchor(21,10)	
+	
+/* X direction */	
+XDist(23,15,&lt;)	
+XShift(15,12)	
+XLink(15,21,82)	
+XShift(21,6)	
+XShift(21,9)	
+XDist(21,24,>=)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="m">
+/* VTTTalk glyph 80, char 0x6d (m) */
+/* GUI generated Sat Sep 22 17:49:20 2012 */
+
+/* Y direction */
+YAnchor(0,6)
+YAnchor(15,1)
+YLink(15,53,88)
+YAnchor(25,1)
+YLink(25,40,88)
+YAnchor(33,6)
+YAnchor(48,6)
+
+/* X direction */
+XDist(59,0,&lt;)
+XDist(0,46,>=)
+XLink(46,48,82)
+XInterpolate(48,20,21,46)
+XDist(48,31,>=)
+XLink(31,33,82)
+XDist(31,60,>=)
+XLink(0,57,82)
+XShift(57,11)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="macron">
+/* VTTTalk glyph 110, char 0xaf */
+/* GUI generated Fri Oct 12 04:01:18 2012 */
+
+/* Y direction */
+YAnchor(0,244)
+YLink(0,2,245)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="multiply">
+/* VTTTalk glyph 140, char 0xd7 */
+/* GUI generated Fri Oct 12 04:48:46 2012 */
+
+/* Y direction */
+YAnchor(1)
+YAnchor(3)
+YAnchor(7)
+YAnchor(9)
+
+/* X direction */
+XAnchor(1)
+XAnchor(3)
+XAnchor(7)
+Diagonal>&lt;(7,6,0,1,119)
+XAnchor(9)
+Diagonal>&lt;(9,10,4,3,119)
+Intersect(2,6,1,10,3)
+Intersect(5,6,1,4,9)
+Intersect(8,0,7,4,9)
+Intersect(11,0,7,10,3)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="n">
+/* VTTTalk glyph 81, char 0x6e (n) */
+/* GUI generated Sat Sep 22 17:49:24 2012 */
+
+/* Y direction */
+YAnchor(10,1)
+YLink(10,23,88)
+YAnchor(17,6)
+YAnchor(28,6)
+
+/* X direction */
+XDist(34,29,&lt;)
+XLink(29,27,82)
+XShift(27,6)
+XDist(35,16,&lt;)
+XLink(16,18,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="nacute">
+/* VTTTalk glyph 230, char 0x144 */
+/* GUI generated Tue Nov 13 00:41:50 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(21,1)
+YLink(21,34,88)
+YAnchor(28,6)
+YAnchor(39,6)
+
+/* X direction */
+XDist(45,40,&lt;)
+XLink(40,38,82)
+XDist(38,0,>=)
+XShift(38,17)
+XDist(46,27,&lt;)
+XLink(27,29,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ncaron">
+/* VTTTalk glyph 234, char 0x148 */
+/* GUI generated Tue Nov 13 00:43:10 2012 */
+
+/* Y direction */
+YAnchor(3,311)
+YLink(3,0,314)
+YShift(3,2)
+YAnchor(2)
+YShift(3,4)
+YAnchor(4)
+YAnchor(16,1)
+YLink(16,29,88)
+YAnchor(23,6)
+YAnchor(34,6)
+
+/* X direction */
+XAnchor(11)
+XDist(11,3,>=)
+XDist(40,35,&lt;)
+XLink(35,33,82)
+XShift(33,12)
+XDist(41,22,&lt;)
+XLink(22,24,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ncommaaccent">
+/* VTTTalk glyph 232, char 0x146 */
+/* GUI generated Tue Nov 13 00:43:01 2012 */
+
+/* Y direction */
+YAnchor(10,1)
+YLink(10,23,88)
+YAnchor(17,6)
+YAnchor(28,6)
+YAnchor(37,184)
+YLink(37,44,313)
+
+/* X direction */
+XDist(45,29,&lt;)
+XLink(29,27,82)
+XShift(27,6)
+XDist(27,34,>=)
+XDist(46,16,&lt;)
+XLink(16,18,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="nine">
+/* VTTTalk glyph 28, char 0x39 (9) */
+/* GUI generated Sun Sep 23 21:35:24 2012 */
+
+/* Y direction */
+YAnchor(0,169)
+YLink(0,1,104)
+YAnchor(16,5)
+YLink(16,34,103)
+YIPAnchor(0,7,16)
+YLink(7,41,103)
+
+/* X direction */
+XDist(44,11,>=)
+XLink(11,37,99)
+XDist(45,20,>=)
+XLink(20,29,99)
+XInterpolate(29,34,41,37)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ntilde">
+/* VTTTalk glyph 166, char 0xf1 */
+/* GUI generated Tue Nov 13 00:32:50 2012 */
+
+/* Y direction */
+YAnchor(5,311)
+YLink(5,19,315)
+YShift(19,0)
+YAnchor(0)
+YDelta(0,1@10..12)
+YAnchor(11,311)
+YShift(11,8)
+YAnchor(8)
+YDelta(8,1@10..13)
+YLink(8,16,315)
+YAnchor(31,1)
+YLink(31,44,88)
+YAnchor(38,6)
+YAnchor(49,6)
+
+/* X direction */
+XDist(55,50,&lt;)
+XLink(50,48,82)
+XDist(48,12,>=)
+XShift(48,27)
+XDist(56,37,&lt;)
+XLink(37,39,82)
+XDist(39,1,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="numbersign">
+/* VTTTalk glyph 6, char 0x23 (#) */
+/* GUI generated Thu Oct 11 08:33:58 2012 */
+
+/* Y direction */
+YAnchor(1)
+YAnchor(10)
+YDelta(10,-1@10..11;14..16)
+YAnchor(15)
+YDelta(15,-1@10..11;14..16)
+YDist(15,17,>=)
+YDist(17,8,&lt;)
+YLink(17,18,215)
+YDist(18,7,&lt;)
+YAnchor(24)
+YDist(24,22,>=)
+YDist(22,3,&lt;)
+YLink(22,21,215)
+YDist(21,4,&lt;)
+
+/* X direction */
+XDist(32,17,&lt;)
+XDist(17,18,&lt;)
+XDist(17,21,&lt;)
+XDist(17,22,&lt;)
+XDist(17,15,&lt;)
+XDist(15,24,&lt;)
+Diagonal>>(15,14,24,25,216)
+XDist(33,3,&lt;)
+XDist(3,4,&lt;)
+Intersect(20,24,15,4,21)
+Intersect(23,24,15,3,22)
+Intersect(26,25,14,3,22)
+Intersect(30,25,14,4,21)
+XDist(3,7,&lt;)
+Intersect(19,24,15,7,18)
+Intersect(31,25,14,7,18)
+XDist(3,8,&lt;)
+Intersect(13,25,14,8,17)
+Intersect(16,24,15,8,17)
+XDist(3,1,&lt;)
+XDist(1,10,&lt;)
+Diagonal>>(1,0,10,11,216)
+Intersect(2,1,10,3,22)
+Intersect(5,1,10,4,21)
+Intersect(6,1,10,7,18)
+Intersect(9,1,10,8,17)
+Intersect(12,0,11,8,17)
+Intersect(27,0,11,3,22)
+Intersect(28,0,11,7,18)
+Intersect(29,0,11,4,21)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* VTTTalk glyph 82, char 0x6f (o) */
+/* GUI generated Sat Sep 22 17:49:48 2012 */
+
+/* Y direction */
+YAnchor(0,1)
+YLink(0,36,87)
+YAnchor(18,7)
+YLink(18,48,87)
+YInterpolate(18,9,0)
+
+/* X direction */
+XDist(60,27,&lt;)
+XLink(27,42,83)
+XDist(61,9,&lt;)
+XLink(9,54,83)
+XInterpolate(9,48,27)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="oacute">
+/* VTTTalk glyph 168, char 0xf3 */
+/* GUI generated Tue Nov 13 00:33:40 2012 */
+
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(16,1)
+YLink(16,52,87)
+YAnchor(34,7)
+YLink(34,64,87)
+YInterpolate(34,25,16)
+
+/* X direction */
+XDist(76,43,&lt;)
+XLink(43,58,83)
+XDist(77,25,&lt;)
+XLink(25,70,83)
+XInterpolate(25,64,43)
+XDist(64,14,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ocircumflex">
+/* VTTTalk glyph 169, char 0xf4 */
+/* GUI generated Tue Nov 13 00:33:50 2012 */
+
+/* Y direction */
+YAnchor(2,311)
+YShift(2,3)
+YAnchor(3)
+YLink(3,0,314)
+YAnchor(4,311)
+YAnchor(6,1)
+YLink(6,42,87)
+YAnchor(24,7)
+YLink(24,54,87)
+YInterpolate(24,15,6)
+
+/* X direction */
+XDist(66,33,&lt;)
+XLink(33,48,83)
+XDist(67,15,&lt;)
+XLink(15,60,83)
+XInterpolate(15,54,33)
+XDist(54,1,>=)
+XDist(54,5,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="odieresis">
+/* VTTTalk glyph 171, char 0xf6 */
+/* GUI generated Tue Nov 13 00:34:00 2012 */
+
+/* Y direction */
+YAnchor(12,311)
+YDist(12,0,>=)
+YAnchor(34,311)
+YDist(34,23,>=)
+YAnchor(46,1)
+YLink(46,82,87)
+YAnchor(64,7)
+YLink(64,94,87)
+YInterpolate(64,55,46)
+
+/* X direction */
+XDist(106,73,&lt;)
+XLink(73,88,83)
+XDist(107,55,&lt;)
+XLink(55,100,83)
+XInterpolate(55,94,73)
+XDist(94,17,>=)
+XDist(94,29,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="oe">
+/* VTTTalk glyph 242, char 0x153 */
+/* GUI generated Fri Oct 12 05:24:11 2012 */
+
+/* Y direction */
+YAnchor(17,7)
+YShift(17,11)
+YDelta(11,1/4@11..12,1/8@13,1/4@14..15,1/2@16)
+YLink(17,4,87)
+YShift(4,10)
+YDelta(10,1/4@11..12,1/8@13,1/4@14..15,1/2@16)
+YAnchor(29,7)
+YLink(29,86,87)
+YAnchor(47,1)
+YLink(47,74,87)
+YInterpolate(29,38,47)
+YShift(38,68)
+YAnchor(58,1)
+YLink(58,92,87)
+YInterpolate(17,1,58)
+YLink(1,89,86)
+
+/* X direction */
+XDist(96,38,&lt;)
+XLink(38,80,83)
+XDist(97,64,&lt;)
+XLink(64,89,83)
+XIPAnchor(64,68,38)
+XLink(68,1,83)
+XShift(1,95)
+XInterpolate(1,53,23,68)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonek">
+/* VTTTalk glyph 289, char 0x2db */
+/* GUI generated Thu Nov 22 09:45:24 2012 */
+
+/* Y direction */
+YAnchor(1,18)
+YShift(1,0)
+YShift(1,4)
+YShift(4,6)
+YDist(6,11,>=)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ograve">
+/* VTTTalk glyph 167, char 0xf2 */
+/* GUI generated Tue Nov 13 00:32:55 2012 */
+
+/* Y direction */
+YAnchor(15,311)
+YLink(15,10,313)
+YAnchor(16,1)
+YLink(16,52,87)
+YAnchor(34,7)
+YLink(34,64,87)
+YInterpolate(34,25,16)
+
+/* X direction */
+XDist(76,43,&lt;)
+XLink(43,58,83)
+XDist(77,25,&lt;)
+XLink(25,70,83)
+XInterpolate(25,64,43)
+XDist(64,15,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ohungarumlaut">
+/* VTTTalk glyph 240, char 0x151 */
+/* GUI generated Tue Nov 13 00:43:44 2012 */
+
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(30,311)
+YLink(30,19,313)
+YAnchor(32,1)
+YLink(32,68,87)
+YAnchor(50,7)
+YLink(50,80,87)
+YInterpolate(50,41,32)
+
+/* X direction */
+XDist(92,59,&lt;)
+XLink(59,74,83)
+XDist(93,41,&lt;)
+XLink(41,86,83)
+XInterpolate(41,80,59)
+XDist(80,15,>=)
+XDist(80,31,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="omacron">
+/* VTTTalk glyph 238, char 0x14d */
+/* GUI generated Tue Nov 13 00:43:28 2012 */
+
+/* Y direction */
+YAnchor(2,318)
+YLink(2,0,317)
+YAnchor(4,1)
+YLink(4,40,87)
+YAnchor(22,7)
+YLink(22,52,87)
+YInterpolate(22,13,4)
+
+/* X direction */
+XDist(64,31,&lt;)
+XLink(31,46,83)
+XDist(65,13,&lt;)
+XLink(13,58,83)
+XInterpolate(13,52,31)
+XDist(52,1,>=)
+XDist(52,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="one">
+/* VTTTalk glyph 20, char 0x31 (1) */
+/* GUI generated Sat Sep 22 16:54:53 2012 */
+
+/* Y direction */
+YAnchor(1,5)
+YShift(1,0)
+YAnchor(4,12)
+
+/* X direction */
+XDist(7,0,>=)
+XDist(8,3,>=)
+XLink(3,4,97)
+XShift(4,5)
+XShift(5,1)
+XAnchor(1)
+Diagonal>>(1,5,0,6,105)
+YDelta(5,3/8@17;19,5/8@20)
+YDelta(6,3/8@17;19,5/8@20)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="oslash">
+/* VTTTalk glyph 173, char 0xf8 */
+/* GUI generated Fri Oct 12 05:13:47 2012 */
+
+/* Y direction */
+YAnchor(14,7)
+YLink(14,57,87)
+YAnchor(18)
+YAnchor(19)
+YAnchor(35,1)
+YLink(35,44,87)
+YInterpolate(14,5,35)
+YShift(5,26)
+YAnchor(39)
+YAnchor(40)
+
+/* X direction */
+XDist(67,26,&lt;)
+XLink(26,50,83)
+XShift(26,19)
+XShift(19,18)
+XAnchor(18)
+XDist(68,5,&lt;)
+XLink(5,63,83)
+XShift(5,40)
+DAlign(18,17,54,66,0,40)
+XShift(40,39)
+XAnchor(39)
+DAlign(19,20,53,41,38,39)
+XInterpolate(26,57,5)
+XShift(57,44)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="otilde">
+/* VTTTalk glyph 170, char 0xf5 */
+/* GUI generated Tue Nov 13 00:33:56 2012 */
+
+/* Y direction */
+YAnchor(6,311)
+YLink(6,31,315)
+YShift(31,34)
+YAnchor(34)
+YDelta(34,1@10..12)
+YAnchor(18,311)
+YShift(18,12)
+YAnchor(12)
+YDelta(12,1@10..13)
+YLink(12,25,315)
+YAnchor(35,1)
+YLink(35,71,87)
+YAnchor(53,7)
+YLink(53,83,87)
+YInterpolate(53,44,35)
+
+/* X direction */
+XDist(95,62,&lt;)
+XLink(62,77,83)
+XDist(96,44,&lt;)
+XLink(44,89,83)
+XInterpolate(44,83,62)
+XDist(83,0,>=)
+XDist(83,19,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* VTTTalk glyph 83, char 0x70 (p) */
+/* GUI generated Sat Sep 22 19:06:07 2012 */
+
+/* Y direction */
+YAnchor(0,174)
+YAnchor(16,1)
+YLink(16,44,88)
+YAnchor(26,7)
+YUpToGrid(28)
+YShift(26,28)
+YAnchor(28)
+YLink(26,32,87)
+YUpToGrid(30)
+YShift(32,30)
+YAnchor(30)
+
+/* X direction */
+XDist(48,1,&lt;)
+XLink(1,28,82)
+XShift(28,11)
+XShift(28,29)
+XDist(49,21,>=)
+XLink(21,37,83)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="parenleft">
+/* VTTTalk glyph 11, char 0x28 (() */
+/* GUI generated Thu Oct 11 20:48:47 2012 */
+
+/* Y direction */
+YAnchor(11,220)
+YAnchor(21,219)
+YInterpolate(11,16,21)
+
+/* X direction */
+XDist(22,16,&lt;)
+XLink(16,5,218)
+XShift(5,0)
+XShift(0,10)
+XDist(10,23,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="parenright">
+/* VTTTalk glyph 12, char 0x29 ()) */
+/* GUI generated Thu Oct 11 20:49:09 2012 */
+
+/* Y direction */
+YAnchor(11,219)
+YAnchor(21,220)
+YInterpolate(21,16,11)
+
+/* X direction */
+XDist(23,16,&lt;)
+XLink(16,5,218)
+XShift(5,10)
+XShift(10,0)
+XDist(0,22,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="percent">
+/* VTTTalk glyph 8, char 0x25 (%) */
+/* GUI generated Thu Oct 11 07:55:38 2012 */
+
+/* Y direction */
+YAnchor(0,153)
+YLink(0,27,210)
+YLink(27,39,211)
+YDelta(39,-1@37)
+YLink(39,15,210)
+YShift(0,53)
+YDelta(53,-1@11..12,-3/2@13,-1@14..16;18..19,-1/2@20;23..24,-7/8@38,-1@39)
+YAnchor(70,212)
+YLink(70,94,210)
+YLink(94,82,211)
+YDelta(82,1@37)
+YLink(82,55,210)
+YShift(55,51)
+
+/* X direction */
+XDist(106,21,&lt;)
+XLink(21,33,208)
+XLink(33,45,209)
+XLink(45,6,208)
+XDist(107,61,&lt;)
+XInterpolate(21,53,51,61)
+Diagonal>&lt;(51,52,54,53,214)
+XLink(61,100,208)
+XLink(100,88,209)
+XLink(88,76,208)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="period">
+/* VTTTalk glyph 17, char 0x2e (.) */
+/* GUI generated Thu Oct 11 22:42:01 2012 */
+
+/* Y direction */
+YAnchor(10,225)
+YLink(10,0,222)
+YDelta(0,1@34..37;54;62;71)
+
+/* X direction */
+XDist(22,5,>=)
+XLink(5,16,223)
+XDist(16,21,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="periodcentered">
+/* VTTTalk glyph 416, char 0xffff */
+/* GUI generated Mon Dec 24 18:13:44 2012 */
+
+/* Y direction */
+YAnchor(10)
+YDist(10,0,>=)
+
+/* X direction */
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="perthousand">
+/* VTTTalk glyph 369, char 0x2030 */
+/* GUI generated Thu Oct 11 08:01:30 2012 */
+
+/* Y direction */
+YAnchor(0,153)
+YLink(0,27,210)
+YLink(27,39,211)
+YDelta(39,-1@37)
+YLink(39,15,210)
+YShift(0,53)
+YDelta(53,-1@11..12,-3/2@13,-1@14..16;18..19,-1/2@20;23..24,-7/8@38,-1@39)
+YAnchor(70,212)
+YShift(70,97)
+YLink(70,121,210)
+YShift(121,145)
+YLink(121,109,211)
+YDelta(109,1@37)
+YShift(109,133)
+YLink(109,55,210)
+YShift(55,82)
+YShift(55,51)
+
+/* X direction */
+XDist(157,21,&lt;)
+XLink(21,33,208)
+XLink(33,45,209)
+XLink(45,6,208)
+XDist(158,88,&lt;)
+XLink(88,151,208)
+XLink(151,139,209)
+XLink(139,103,208)
+XDist(103,61,>=)
+XInterpolate(21,53,51,61)
+Diagonal>&lt;(51,52,54,53,214)
+XLink(61,127,208)
+XLink(127,115,209)
+XLink(115,76,208)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="plus">
+/* VTTTalk glyph 14, char 0x2b (+) */
+/* GUI generated Thu Oct 11 20:55:04 2012 */
+
+/* Y direction */
+YAnchor(5)
+YDelta(5,1@15)
+YShift(5,2)
+YLink(5,3,204)
+YLink(5,7,202,>=)
+YLink(5,11,202,>=)
+YLink(11,9,204,>=)
+
+/* X direction */
+XIPAnchor(12,4,13)
+XLink(4,7,198,>=)
+XDist(4,8,&lt;)
+XLink(4,2,196,>=)
+XLink(2,0,198,>=)
+XShift(2,10)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="plusminus">
+/* VTTTalk glyph 112, char 0xb1 */
+/* GUI generated Fri Oct 12 04:16:25 2012 */
+
+/* Y direction */
+YAnchor(5)
+YDelta(5,1@24..25)
+YShift(5,2)
+YLink(5,3,204)
+YDelta(3,1@15;21;27)
+YLink(5,7,202)
+YLink(5,11,202)
+YLink(11,9,204)
+YDelta(9,-1@15;21;27)
+YAnchor(12,12)
+YLink(12,13,202)
+
+/* X direction */
+XInterpolate(17,4,16)
+XDist(4,8,&lt;)
+XLink(4,2,217)
+XShift(2,10)
+XLink(2,0,97)
+XShift(0,14)
+XAnchor(14)
+XLink(4,7,125)
+XShift(7,13)
+XAnchor(13)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* VTTTalk glyph 84, char 0x71 (q) */
+/* GUI generated Sat Sep 22 19:06:15 2012 */
+
+/* Y direction */
+YAnchor(1,174)
+YAnchor(7,7)
+YShift(7,3)
+YLink(7,29,88)
+YAnchor(15,1)
+YShift(15,17)
+YMove(-3/8,17)
+YLink(15,21,87)
+YShift(21,19)
+YMove(-3/8,19)
+
+/* X direction */
+XDist(33,11,>=)
+XLink(11,25,83)
+XDist(34,17,&lt;)
+XLink(17,2,82)
+XLink(17,19,162)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="question">
+/* VTTTalk glyph 34, char 0x3f (?) */
+/* GUI generated Thu Oct 11 23:05:42 2012 */
+
+/* Y direction */
+YAnchor(6,3)
+YShift(6,0)
+YLink(6,31,74)
+YShift(31,34)
+YAnchor(45,13)
+YDist(45,35,>=)
+YDist(35,18,>=)
+YInterpolate(18,17,31)
+YLink(17,21,74)
+
+/* X direction */
+XInterpolate(56,6,55)
+XDist(6,40,&lt;)
+XDist(6,50,&lt;)
+XShift(6,20)
+XShift(20,19)
+XDist(20,17,>=)
+XShift(17,18)
+XShift(6,25)
+XDist(25,12,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown">
+/* VTTTalk glyph 414, char 0xffff */
+/* GUI generated Mon Dec 24 18:09:03 2012 */
+
+/* Y direction */
+YAnchor(0,122)
+YDist(0,10,>=)
+YDist(10,52,>=)
+YAnchor(41)
+YShift(41,38)
+YLink(41,30,74)
+YShift(30,35)
+YInterpolate(30,51,52)
+YLink(51,21,74)
+
+/* X direction */
+XInterpolate(55,41,54)
+XDist(41,5,&lt;)
+XDist(41,15,&lt;)
+XShift(41,20)
+XShift(20,53)
+XDist(20,51,>=)
+XShift(51,52)
+XShift(41,25)
+XDist(25,46,>=)
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedbl">
+/* Y direction */
+YAnchor(19,17)
+YLink(19,31,227)
+YAnchor(3,17)
+YLink(3,15,227)
+
+/* X direction */
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblbase">
+
+/* Y direction */
+YAnchor(13,18)
+YShift(13,15)
+YAnchor(15)
+YLink(15,3,227)
+YAnchor(29,18)
+YShift(29,31)
+YAnchor(31)
+YLink(31,19,227)
+
+/* X direction */
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblleft">
+
+/* Y direction */
+YAnchor(31,17)
+YShift(31,17)
+YLink(17,21,227)
+YAnchor(15,17)
+YShift(15,1)
+YLink(1,5,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblright">
+
+/* Y direction */
+YAnchor(3,17)
+YLink(3,15,227)
+YAnchor(19,17)
+YLink(19,31,227)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteleft">
+
+/* Y direction */
+YAnchor(15,17)
+YShift(15,1)
+YLink(1,5,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteright">
+/* Y direction */
+YAnchor(3,17)
+YLink(3,15,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesinglbase">
+/* Y direction */
+YAnchor(14,18)
+YShift(14,15)
+YAnchor(15)
+YLink(15,3,227)
+
+/* X direction */
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesingle">
+/* Y direction */
+YAnchor(3,17)
+YLink(3,15,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="r">
+/* Y direction */	
+YAnchor(6,1)	
+YShift(6,9)	
+YLink(6,15,87)	
+YShift(15,12)	
+YAnchor(21,6)	
+	
+/* X direction */	
+XDist(37,22,>=)	
+XShift(22,29)	
+XLink(22,20,82)	
+XShift(20,31)	
+XShift(20,36)	
+XDist(38,9,>=)	
+XShift(9,12)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="racute">
+/* VTTTalk glyph 244, char 0x155 */
+/* GUI generated Mon Nov 12 22:30:14 2012 */
+
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(22,1)
+YShift(22,25)
+YLink(22,31,87)
+YShift(31,28)
+YAnchor(37,6)
+
+/* X direction */
+XDist(53,38,>=)
+XShift(38,44)
+XLink(38,36,82)
+XShift(36,52)
+XShift(36,47)
+XDist(47,15,>=)
+XDist(54,25,>=)
+XShift(25,28)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="rcaron">
+/* VTTTalk glyph 248, char 0x159 */
+/* GUI generated Tue Nov 13 00:44:27 2012 */
+
+/* Y direction */
+YAnchor(2,311)
+YShift(2,1)
+YAnchor(1)
+YShift(2,3)
+YAnchor(3)
+YLink(2,5,314)
+YAnchor(12,1)
+YShift(12,15)
+YLink(12,21,87)
+YShift(21,18)
+YAnchor(27,6)
+
+/* X direction */
+XDist(43,28,>=)
+XShift(28,34)
+XLink(28,26,82)
+XDist(26,2,>=)
+XShift(26,37)
+XShift(26,42)
+XDist(44,15,>=)
+XShift(15,18)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="rcommaaccent">
+/* Y direction */	
+YAnchor(6,1)	
+YShift(6,9)	
+YLink(6,15,87)	
+YShift(15,12)	
+YAnchor(21,6)	
+YAnchor(40,184)	
+YLink(40,51,313)	
+	
+/* X direction */	
+XDist(53,22,>=)	
+XShift(22,28)	
+XDist(22,52,>=)	
+XLink(22,20,82)	
+XShift(20,31)	
+XShift(20,36)	
+XDist(54,9,>=)	
+XShift(9,12)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="registered">
+/* VTTTalk glyph 109, char 0xae */
+/* GUI generated Fri Oct 12 03:58:29 2012 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,28,233)
+YAnchor(14)
+YLink(14,40,233)
+YIPAnchor(14,59,63,0)
+YInterpolate(14,60,59)
+YShift(60,81)
+YLink(59,94,233)
+YLink(63,92,233)
+
+/* X direction */
+XDist(95,21,>=)
+XLink(21,33,232)
+XDist(96,7,>=)
+XLink(7,47,113)
+XInterpolate(7,80,62,21)
+XShift(80,68)
+XLink(68,87,232)
+XLink(62,59,232)
+XLink(62,93,232)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ring">
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,26,>=)
+YDist(26,20,>=)
+YDist(20,0,>=)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* VTTTalk glyph 86, char 0x73 (s) */
+/* GUI generated Tue Nov 13 02:29:15 2012 */
+
+/* Y direction */
+YAnchor(0,1)
+YShift(0,3)
+YLink(0,11,87)
+YShift(11,6)
+YAnchor(31,7)
+YShift(31,36)
+YLink(31,44,87)
+YShift(44,39)
+YInterpolate(0,54,31)
+YLink(54,21,88)
+
+/* X direction */
+XDist(64,36,&lt;)
+XDist(36,59,&lt;)
+XLink(59,16,160)
+XDist(65,26,&lt;)
+XDist(26,3,&lt;)
+XLink(26,49,160)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="sacute">
+/* VTTTalk glyph 250, char 0x15b */
+/* GUI generated Tue Nov 13 02:29:56 2012 */
+
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(16,1)
+YShift(16,19)
+YLink(16,27,87)
+YShift(27,22)
+YAnchor(47,7)
+YShift(47,52)
+YLink(47,60,87)
+YShift(60,55)
+YInterpolate(16,70,47)
+YLink(70,37,88)
+
+/* X direction */
+XDist(80,52,&lt;)
+XDist(52,75,&lt;)
+XLink(75,32,160)
+XDist(32,15,>=)
+XDist(81,42,&lt;)
+XDist(42,19,&lt;)
+XLink(42,65,160)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="scaron">
+/* VTTTalk glyph 254, char 0x161 */
+/* GUI generated Tue Nov 13 02:30:17 2012 */
+
+/* Y direction */
+YAnchor(2,311)
+YShift(2,1)
+YAnchor(1)
+YShift(2,3)
+YAnchor(3)
+YLink(2,5,314)
+YAnchor(6,1)
+YShift(6,9)
+YLink(6,17,87)
+YShift(17,12)
+YAnchor(37,7)
+YShift(37,42)
+YLink(37,50,87)
+YShift(50,45)
+YInterpolate(37,60,6)
+YLink(60,27,88)
+
+/* X direction */
+XDist(70,42,&lt;)
+XDist(42,65,&lt;)
+XLink(65,22,160)
+XDist(22,2,>=)
+XDist(71,32,&lt;)
+XDist(32,9,&lt;)
+XLink(32,55,160)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="scedilla">
+/* VTTTalk glyph 252, char 0x15f */
+/* GUI generated Tue Nov 13 02:30:23 2012 */
+
+/* Y direction */
+YAnchor(0,7)
+YShift(0,3)
+YShift(0,62)
+YLink(0,11,87)
+YShift(11,6)
+YShift(0,84)
+YShift(84,78)
+YAnchor(78)
+YDist(78,71,>=)
+YAnchor(31,1)
+YShift(31,34)
+YIPAnchor(0,21,31)
+YLink(21,52,88)
+YLink(31,42,87)
+YShift(42,37)
+
+/* X direction */
+XDist(85,3,&lt;)
+XDist(3,26,&lt;)
+XLink(26,47,160)
+XDist(86,57,&lt;)
+XLink(57,16,160)
+XDist(57,34,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="scommaaccent">
+/* Y direction */	
+YAnchor(0,1)	
+YShift(0,3)	
+YLink(0,11,87)	
+YShift(11,6)	
+YAnchor(31,7)	
+YShift(31,36)	
+YIPAnchor(0,21,31)	
+YLink(21,54,88)	
+YLink(31,44,87)	
+YShift(44,39)	
+YAnchor(67,184)	
+YLink(67,78,313)	
+	
+/* X direction */	
+XDist(80,36,&lt;)	
+XDist(36,79,>=)	
+XDist(36,59,&lt;)	
+XLink(59,16,160)	
+XDist(81,26,&lt;)	
+XDist(26,3,&lt;)	
+XLink(26,49,160)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="section">
+/* VTTTalk glyph 103, char 0xa7 */
+/* GUI generated Fri Oct 12 03:48:20 2012 */
+
+/* Y direction */
+YAnchor(26)
+YShift(26,28)
+YLink(26,31,87)
+YShift(31,29)
+YDelta(29,1@29..30)
+YAnchor(52,10)
+YShift(52,0)
+YLink(52,3,87)
+YShift(3,1)
+YIPAnchor(26,40,70,52)
+YDelta(40,-1@14)
+YLink(40,60,87)
+YLink(70,12,87)
+
+/* X direction */
+XDist(72,28,&lt;)
+XDist(28,45,&lt;)
+XLink(45,54,160)
+XDist(45,49,&lt;)
+XLink(49,6,160)
+XDist(73,22,&lt;)
+XLink(22,34,160)
+XDist(22,18,&lt;)
+XDist(18,0,&lt;)
+XLink(18,64,160)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="semicolon">
+/* VTTTalk glyph 30, char 0x3b (;) */
+/* GUI generated Thu Oct 11 22:48:44 2012 */
+
+/* Y direction */
+YAnchor(12,228)
+YLink(12,0,227)
+YAnchor(39,16)
+YLink(39,27,227)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="seven">
+/* VTTTalk glyph 26, char 0x37 (7) */
+/* GUI generated Sun Sep 23 21:38:58 2012 */
+
+/* Y direction */
+YAnchor(1,4)
+YShift(1,5)
+YLink(1,20,102)
+YAnchor(14,169)
+
+/* X direction */
+XDist(21,20,&lt;)
+XDist(22,6,&lt;)
+XShift(6,8)
+XLink(8,17,99)
+XShift(6,13)
+XLink(13,14,99)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="six">
+/* VTTTalk glyph 25, char 0x36 (6) */
+/* GUI generated Sat Sep 22 23:05:37 2012 */
+
+/* Y direction */
+YAnchor(0,166)
+YLink(0,1,104)
+YAnchor(16,13)
+YLink(16,34,103)
+YIPAnchor(16,41,0)
+YLink(41,7,103)
+
+/* X direction */
+XDist(44,20,>=)
+XLink(20,29,99)
+XDist(45,11,>=)
+XLink(11,37,99)
+XInterpolate(37,41,34,29)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="slash">
+/* VTTTalk glyph 18, char 0x2f (/) */
+/* GUI generated Thu Oct 11 22:29:56 2012 */
+
+/* Y direction */
+YAnchor(1,2)
+YAnchor(3,18)
+
+/* X direction */
+XDist(4,3,>=)
+XDist(5,1,&lt;)
+Diagonal>&lt;(1,0,2,3,224)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="sterling">
+/* VTTTalk glyph 100, char 0xa3 */
+/* GUI generated Mon Nov 12 00:39:45 2012 */
+
+/* Y direction */
+YAnchor(0)
+YShift(0,16)
+YLink(0,19,85)
+YLink(0,24,85)
+YAnchor(5,3)
+YShift(5,7)
+YLink(5,10,87)
+YShift(10,8)
+YAnchor(23,6)
+YLink(23,20,85)
+
+/* X direction */
+XDist(27,25,&lt;)
+XDist(25,24,>=)
+XLink(24,19,82)
+XShift(24,0)
+XLink(0,16,82)
+XDist(28,21,&lt;)
+XDist(21,7,&lt;)
+XDist(7,17,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* VTTTalk glyph 87, char 0x74 (t) */
+/* GUI generated Wed Oct 10 08:32:07 2012 */
+
+/* Y direction */
+YAnchor(0,173)
+YDelta(0,1/2@12..13,5/8@15;23)
+YAnchor(2,0)
+YAnchor(19,7)
+YShift(19,17)
+YDelta(17,1@42..50)
+YLink(19,11,87)
+YShift(11,15)
+YAnchor(29,0)
+YLink(29,5,85)
+YLink(29,26,85)
+
+/* X direction */
+XDist(30,27,>=)
+XDist(27,26,>=)
+XLink(26,2,82)
+XLink(26,5,82)
+XDist(31,17,&lt;)
+XDist(17,4,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tbar">
+/* VTTTalk glyph 260, char 0x167 */
+/* GUI generated Tue Nov 13 01:45:32 2012 */
+
+/* Y direction */
+YAnchor(19,7)
+YShift(19,17)
+YLink(19,11,87)
+YShift(11,15)
+YShift(11,5)
+YAnchor(5)
+YDelta(5,-1@10)
+YLink(5,2,86)
+YShift(5,26)
+YAnchor(26)
+YLink(5,29,86)
+YAnchor(33,0)
+YLink(33,1,85)
+YLink(33,30,85)
+YAnchor(34,173)
+YDelta(34,1/2@12..13,5/8@15;23)
+YAnchor(36,0)
+
+/* X direction */
+XDist(38,31,>=)
+XDist(31,30,>=)
+XLink(30,1,82)
+XLink(30,36,82)
+XDist(39,17,&lt;)
+XDist(17,0,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tcaron">
+/* VTTTalk glyph 258, char 0x165 */
+/* GUI generated Tue Nov 13 00:44:49 2012 */
+
+/* Y direction */
+YAnchor(10)
+YLink(10,3,313)
+YAnchor(11,173)
+YDelta(11,1/2@12..13,5/8@15;23)
+YAnchor(13,0)
+YAnchor(30,7)
+YShift(30,28)
+YLink(30,22,87)
+YShift(22,26)
+YAnchor(40,0)
+YLink(40,16,85)
+YLink(40,37,85)
+
+/* X direction */
+XDist(41,38,>=)
+XDist(38,37,>=)
+XLink(37,13,82)
+XLink(37,16,82)
+XDist(42,28,&lt;)
+XDist(28,15,&lt;)
+XDist(15,10,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="tcommaaccent">
+/* VTTTalk glyph 256, char 0x163 */
+/* GUI generated Tue Nov 13 00:15:19 2012 */
+
+/* Y direction */
+YAnchor(15,7)
+YShift(15,13)
+YDelta(13,1@42..50)
+YLink(15,7,87)
+YShift(7,11)
+YShift(15,34)
+YShift(34,33)
+YShift(33,27)
+YAnchor(27)
+YDist(27,22,>=)
+YAnchor(43,0)
+YLink(43,1,85)
+YLink(43,40,85)
+YAnchor(44,173)
+YDelta(44,1/2@12..13,5/8@15;23)
+YAnchor(46,0)
+
+/* X direction */
+XDist(48,41,>=)
+XDist(41,40,>=)
+XLink(40,1,82)
+XLink(40,46,82)
+XDist(49,13,&lt;)
+XDist(13,0,&lt;)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="thorn">
+/* VTTTalk glyph 179, char 0xfe */
+/* GUI generated Fri Oct 12 04:56:14 2012 */
+
+/* Y direction */
+YAnchor(5,1)
+YLink(5,40,88)
+YAnchor(17,7)
+YLink(17,28,87)
+YAnchor(21,174)
+YAnchor(22,10)
+
+/* X direction */
+XDist(44,21,&lt;)
+XLink(21,19,82)
+XLink(21,23,82)
+XLink(21,25,82)
+XDist(45,11,&lt;)
+XLink(11,33,83)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="three">
+/* VTTTalk glyph 22, char 0x33 (3) */
+/* GUI generated Sat Sep 22 16:46:26 2012 */
+
+/* Y direction */
+YAnchor(10,4)
+YShift(10,6)
+YLink(10,0,101)
+YShift(0,5)
+YAnchor(23,168)
+YLink(23,24,103)
+YIPAnchor(23,32,10)
+YDelta(32,-3/8@12,-5/8@21..22,-3/4@23,-1/2@24)
+YLink(32,13,104)
+
+/* X direction */
+XDist(36,5,>=)
+XDist(37,19,>=)
+XLink(19,29,99)
+XIPAnchor(19,0,13,5)
+Diagonal>&lt;(0,12,35,13,105)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="tilde">
+/* VTTTalk glyph 286, char 0x2dc */
+/* GUI generated Fri Oct 12 07:51:19 2012 */
+
+/* Y direction Tilda */
+YAnchor(5)
+YShift(5,11)
+YLink(5,19,245)
+YShift(5,8)
+YAnchor(8)
+YDelta(8,1@10..14)
+YLink(8,16,245)
+YShift(16,0)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="trademark">
+/* Y direction */	
+YAnchor(4,322)	
+YAnchor(0,2)	
+YDist(0,3,>=)	
+YDist(0,6,>=)	
+YAnchor(10,322)	
+YAnchor(15,322)	
+YAnchor(18,322)	
+YAnchor(20,2)	
+YUpToGrid(17)	
+YShift(20,17)	
+YAnchor(17)	
+YAnchor(23,2)	
+YUpToGrid(11)	
+YShift(23,11)	
+YAnchor(11)	
+YShift(11,22)	
+YDelta(22,-1@15)	
+	
+/* X direction */	
+XAnchor(1)	
+XDist(1,20,>=)	
+XShift(20,19)	
+XAnchor(8)	
+XShift(8,9)	
+XDist(9,25,>=)	
+XInterpolate(8,12,22,15,20)	
+XDist(24,0,>=)	
+XInterpolate(1,3,6,0)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="two">
+/* VTTTalk glyph 21, char 0x32 (2) */
+/* GUI generated Sat Sep 22 13:08:42 2012 */
+
+/* Y direction */
+YAnchor(1,5)
+YDownToGrid(43)
+YShift(1,43)
+YAnchor(43)
+YLink(1,40,103)
+YDownToGrid(42)
+YShift(40,42)
+YAnchor(42)
+YAnchor(24,12)
+YLink(24,22,102)
+YIPAnchor(1,12,24)
+YLink(12,32,103)
+
+/* X direction */
+XDist(44,26,>=)
+XLink(26,22,99)
+XDist(26,42,&lt;)
+XDist(45,23,>=)
+XDist(23,6,&lt;)
+XLink(6,37,99)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="u">
+/* VTTTalk glyph 88, char 0x75 (u) */
+/* GUI generated Sat Sep 22 17:50:10 2012 */
+
+/* Y direction */
+YAnchor(10,7)
+YLink(10,23,88)
+YAnchor(18,0)
+YAnchor(28,0)
+
+/* X direction */
+XDist(34,16,>=)
+XLink(16,19,82)
+XDist(35,30,>=)
+XShift(30,0)
+XShift(30,5)
+XLink(30,27,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uacute">
+/* VTTTalk glyph 175, char 0xfa */
+/* GUI generated Tue Nov 13 00:36:58 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(12,7)
+YAnchor(21,7)
+YLink(21,34,88)
+YAnchor(29,0)
+YAnchor(39,0)
+
+/* X direction */
+XDist(45,27,>=)
+XLink(27,30,82)
+XDist(30,10,>=)
+XDist(46,41,>=)
+XShift(41,11)
+XShift(41,16)
+XLink(41,38,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="ucircumflex">
+/* VTTTalk glyph 176, char 0xfb */
+/* GUI generated Tue Nov 13 00:37:04 2012 */
+
+/* Y direction */
+YAnchor(3,311)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,311)
+YAnchor(7,7)
+YAnchor(16,7)
+YLink(16,29,88)
+YAnchor(24,0)
+YAnchor(34,0)
+
+/* X direction */
+XDist(40,22,>=)
+XLink(22,25,82)
+XDist(25,0,>=)
+XDist(41,36,>=)
+XShift(36,6)
+XShift(36,11)
+XLink(36,33,82)
+XDist(33,2,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="udieresis">
+/* VTTTalk glyph 177, char 0xfc */
+/* GUI generated Tue Nov 13 00:37:11 2012 */
+
+/* Y direction */
+YAnchor(12,311)
+YDist(12,0,>=)
+YAnchor(34,311)
+YDist(34,23,>=)
+YAnchor(46,7)
+YAnchor(59,7)
+YLink(59,77,88)
+YAnchor(70,0)
+YAnchor(84,0)
+
+/* X direction */
+XDist(93,68,>=)
+XLink(68,71,82)
+XDist(71,17,>=)
+XDist(94,86,>=)
+XShift(86,52)
+XShift(86,92)
+XLink(86,83,82)
+XDist(83,29,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ugrave">
+/* VTTTalk glyph 174, char 0xf9 */
+/* GUI generated Tue Nov 13 00:34:07 2012 */
+
+/* Y direction */
+YAnchor(0,311)
+YLink(0,7,313)
+YAnchor(12,7)
+YAnchor(21,7)
+YLink(21,34,88)
+YAnchor(29,0)
+YAnchor(39,0)
+
+/* X direction */
+XDist(45,27,>=)
+XLink(27,30,82)
+XDist(30,1,>=)
+XDist(46,41,>=)
+XShift(41,11)
+XShift(41,16)
+XLink(41,38,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uhungarumlaut">
+/* VTTTalk glyph 266, char 0x171 */
+/* GUI generated Tue Nov 13 00:46:15 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YLink(10,3,313)
+YAnchor(21,311)
+YLink(21,14,313)
+YAnchor(23,7)
+YAnchor(32,7)
+YLink(32,45,88)
+YAnchor(40,0)
+YAnchor(50,0)
+
+/* X direction */
+XDist(56,38,>=)
+XLink(38,41,82)
+XDist(41,0,>=)
+XDist(57,52,>=)
+XShift(52,22)
+XShift(52,27)
+XLink(52,49,82)
+XDist(49,11,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="umacron">
+/* VTTTalk glyph 262, char 0x16b */
+/* GUI generated Tue Nov 13 00:45:20 2012 */
+
+/* Y direction */
+YAnchor(2,318)
+YLink(2,1,317)
+YAnchor(5,7)
+YAnchor(14,7)
+YLink(14,27,88)
+YAnchor(22,0)
+YAnchor(32,0)
+
+/* X direction */
+XDist(38,20,>=)
+XLink(20,23,82)
+XDist(23,27,>=)
+XDist(27,3,>=)
+XDist(39,34,>=)
+XShift(34,4)
+XShift(34,9)
+XLink(34,31,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="underscore">
+/* VTTTalk glyph 66, char 0x5f (_) */
+/* GUI generated Thu Oct 11 23:54:29 2012 */
+
+/* Y direction */
+YAnchor(3,18)
+YLink(3,1,202)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00AD">
+/* VTTTalk glyph 108, char 0xad */
+/* GUI generated Fri Oct 12 04:24:00 2012 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,3,202)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uni021A">
+/* VTTTalk glyph 282, char 0x21a */
+/* GUI generated Tue Nov 13 00:47:31 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YLink(0,3,72)
+YLink(0,6,72)
+YAnchor(4,8)
+YAnchor(11,184)
+YLink(11,18,313)
+
+/* X direction */
+XAnchor(2)
+XDist(2,20,>=)
+XDist(19,7,>=)
+XInterpolate(2,6,7)
+XLink(6,4,68)
+XDist(4,8,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni021B">
+/* VTTTalk glyph 283, char 0x21b */
+/* GUI generated Tue Nov 13 00:47:42 2012 */
+
+/* Y direction */
+YAnchor(0,173)
+YDelta(0,1/2@12..13,5/8@15;23)
+YAnchor(2,0)
+YAnchor(19,7)
+YShift(19,17)
+YDelta(17,1@42..50)
+YLink(19,11,87)
+YShift(11,15)
+YAnchor(29,0)
+YLink(29,5,85)
+YLink(29,26,85)
+YAnchor(33,184)
+YLink(33,40,313)
+
+/* X direction */
+XDist(41,27,>=)
+XDist(27,26,>=)
+XLink(26,2,82)
+XLink(26,5,82)
+XDist(26,30,>=)
+XDist(42,17,&lt;)
+XDist(17,4,&lt;)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni05BA">
+/* VTTTalk glyph 309, char 0x5ba */
+/* GUI generated Wed Dec 26 16:39:37 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+
+/* X direction */
+XAnchor(9)
+XDist(9,3,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uni05C7">
+/* VTTTalk glyph 295, char 0x5b8 */
+/* GUI generated Sat Oct 06 12:31:55 2012 */
+
+/* Y direction */
+YAnchor(0,182)
+YLink(0,1,190)
+
+/* X direction */
+XAnchor(1)
+XAnchor(6)
+XInterpolate(1,3,4,6)
+
+Smooth()
+
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni2010">
+/* VTTTalk glyph 354, char 0x2010 */
+/* GUI generated Fri Oct 12 05:30:45 2012 */
+
+/* Y direction */
+YAnchor(0)
+YLink(0,3,221)
+
+/* X direction */
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uni2011">
+/* Y direction */
+YAnchor(0)
+YLink(0,3,221)
+
+/* X direction */
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB01">
+/* VTTTalk glyph 382, char 0xfb01 */
+/* GUI generated Sat Nov 24 12:32:43 2012 */
+
+/* Y direction */
+YAnchor(0,0)
+YLink(0,5,85)
+YAnchor(3,6)
+YAnchor(9,6)
+YLink(9,6,85)
+YLink(9,11,85)
+YAnchor(15,0)
+YLink(15,12,85)
+YAnchor(21,15)
+YShift(21,23)
+YLink(21,26,87)
+YShift(26,24)
+YAnchor(40,172)
+YDist(40,48,>=)
+YInterpolate(48,36,40)
+
+/* X direction */
+XDist(50,10,&lt;)
+XShift(10,11)
+XLink(11,0,82)
+XLink(11,5,82)
+XDist(51,1,&lt;)
+XLink(1,4,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB02">
+/* VTTTalk glyph 383, char 0xfb02 */
+/* GUI generated Sat Nov 24 12:32:51 2012 */
+
+/* Y direction */
+YAnchor(0,10)
+YAnchor(3,6)
+YLink(3,5,85)
+YLink(3,32,85)
+YAnchor(9,0)
+YLink(9,6,85)
+YAnchor(15,15)
+YShift(15,17)
+YLink(15,20,87)
+YShift(20,18)
+YAnchor(28,0)
+YLink(28,31,85)
+
+/* X direction */
+XDist(34,4,&lt;)
+XShift(4,5)
+XAnchor(5)
+XLink(5,28,82)
+XLink(5,31,82)
+XDist(35,1,&lt;)
+XNoRound(33)
+XLink(1,33,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2A">
+/* VTTTalk glyph 379, char 0xfb2a */
+/* GUI generated Mon Nov 12 03:09:55 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+YAnchor(20,122)
+YShift(20,17)
+YAnchor(39,122)
+YShift(39,36)
+YAnchor(47,124)
+YLink(47,26,142)
+YShift(47,50)
+YAnchor(50)
+YIPAnchor(20,12,50)
+YAnchor(51,122)
+YShift(51,69)
+YInterpolate(51,60,47)
+
+/* X direction */
+XDist(70,50,&lt;)
+XShift(50,17)
+XBDelta(17,3/8@14)
+XShift(50,12)
+XAnchor(12)
+XBDelta(12,5/8@14)
+Diagonal>>(12,25,50,26,147)
+XShift(25,20)
+XDist(71,42,>=)
+XLink(42,33,139)
+XInterpolate(50,53,42)
+XShift(53,60)
+XBDelta(60,-3/8@14)
+XLink(53,65,139)
+XShift(65,61)
+XBDelta(61,-5/8@14)
+
+Smooth()
+YGDelta(12,-5/2@14)
+XGDelta(12,5/8@14)
+XBDelta(26,1/2@14)
+XBDelta(50,1/2@14)
+XGDelta(50,3/8@14)
+XDelta(70,-1/2@10)
+XDelta(71,1/8@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2B">
+/* VTTTalk glyph 380, char 0xfb2b */
+/* GUI generated Mon Nov 12 03:10:01 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+YAnchor(20,122)
+YShift(20,17)
+YAnchor(39,122)
+YShift(39,36)
+YAnchor(47,124)
+YLink(47,26,142)
+YShift(47,50)
+YAnchor(50)
+YIPAnchor(20,12,50)
+YAnchor(51,122)
+YShift(51,69)
+YInterpolate(51,60,47)
+
+/* X direction */
+XDist(70,50,&lt;)
+XShift(50,17)
+XBDelta(17,3/8@14)
+XShift(50,12)
+XAnchor(12)
+XBDelta(12,5/8@14)
+Diagonal>>(12,25,50,26,147)
+XShift(25,20)
+XDist(71,42,>=)
+XLink(42,33,139)
+XInterpolate(50,53,42)
+XShift(53,60)
+XBDelta(60,-3/8@14)
+XLink(53,65,139)
+XShift(65,61)
+XBDelta(61,-5/8@14)
+
+Smooth()
+YGDelta(12,-5/2@14)
+XGDelta(12,5/8@14)
+XBDelta(26,1/2@14)
+XBDelta(50,1/2@14)
+XGDelta(50,3/8@14)
+XDelta(70,-1/2@10)
+XDelta(71,1/8@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2C">
+/* VTTTalk glyph 381, char 0xfb2c */
+/* GUI generated Mon Nov 12 03:17:15 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+YAnchor(20,122)
+YShift(20,17)
+YAnchor(39,122)
+YShift(39,36)
+YAnchor(47,124)
+YLink(47,26,142)
+YShift(47,50)
+YAnchor(50)
+YIPAnchor(20,12,50)
+YAnchor(51,122)
+YShift(51,69)
+YInterpolate(51,60,47)
+YAnchor(70,183)
+
+/* X direction */
+XDist(86,50,&lt;)
+XShift(50,17)
+XBDelta(17,3/8@14)
+XShift(50,12)
+XAnchor(12)
+XBDelta(12,5/8@14)
+Diagonal>>(12,25,50,26,147)
+XShift(25,20)
+XDist(87,42,>=)
+XLink(42,33,139)
+XInterpolate(50,53,42)
+XShift(53,60)
+XBDelta(60,-3/8@14)
+XLink(53,65,139)
+XShift(65,61)
+XBDelta(61,-5/8@14)
+
+Smooth()
+YGDelta(12,-5/2@14)
+XGDelta(12,5/8@14)
+XBDelta(26,1/2@14)
+XBDelta(50,1/2@14)
+XGDelta(50,3/8@14)
+XDelta(86,-1/2@10)
+XDelta(87,1/8@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2D">
+/* VTTTalk glyph 382, char 0xfb2d */
+/* GUI generated Mon Nov 12 03:17:09 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+YAnchor(20,122)
+YShift(20,17)
+YAnchor(39,122)
+YShift(39,36)
+YAnchor(47,124)
+YLink(47,26,142)
+YShift(47,50)
+YAnchor(50)
+YIPAnchor(20,12,50)
+YAnchor(51,122)
+YShift(51,69)
+YInterpolate(51,60,47)
+YAnchor(70,183)
+
+/* X direction */
+XDist(86,50,&lt;)
+XShift(50,17)
+XBDelta(17,3/8@14)
+XShift(50,12)
+XAnchor(12)
+XBDelta(12,5/8@14)
+Diagonal>>(12,25,50,26,147)
+XShift(25,20)
+XDist(87,42,>=)
+XLink(42,33,139)
+XInterpolate(50,53,42)
+XShift(53,60)
+XBDelta(60,-3/8@14)
+XLink(53,65,139)
+XShift(65,61)
+XBDelta(61,-5/8@14)
+
+Smooth()
+YGDelta(12,-5/2@14)
+XGDelta(12,5/8@14)
+XBDelta(26,1/2@14)
+XBDelta(50,1/2@14)
+XGDelta(50,3/8@14)
+XDelta(86,-1/2@10)
+XDelta(87,1/8@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2E">
+/* VTTTalk glyph 383, char 0xfb2e */
+/* GUI generated Mon Nov 12 03:10:43 2012 */
+
+/* Y direction */
+YAnchor(19,146)
+YAnchor(43,122)
+YLink(43,42,140)
+YAnchor(55,128)
+YMove(-1/2,55)
+YInterpolate(19,10,55)
+YAnchor(64,129)
+YAnchor(65,182)
+YLink(65,66,190)
+
+/* X direction */
+XDist(69,0,&lt;)
+XLink(0,64,137)
+XDist(70,48,&lt;)
+XDist(48,38,>=)
+XBDelta(38,1@13)
+XGDelta(38,1@13)
+XIPAnchor(0,10,55,48)
+Diagonal>>(55,54,10,27,148)
+XGDelta(54,5/8@13)
+DAlign(54,53,33,27)
+DAlign(55,56,10)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB2F">
+/* VTTTalk glyph 384, char 0xfb2f */
+/* GUI generated Mon Nov 12 03:11:20 2012 */
+
+/* Y direction */
+YAnchor(19,146)
+YAnchor(43,122)
+YLink(43,42,140)
+YAnchor(55,128)
+YMove(-1/2,55)
+YInterpolate(19,10,55)
+YAnchor(64,129)
+YAnchor(65,182)
+YLink(65,66,190)
+
+/* X direction */
+XDist(73,0,&lt;)
+XLink(0,64,137)
+XDist(74,48,&lt;)
+XDist(48,38,>=)
+XBDelta(38,1@13)
+XGDelta(38,1@13)
+XIPAnchor(0,10,55,48)
+Diagonal>>(55,54,10,27,148)
+XGDelta(54,5/8@13)
+DAlign(54,53,33,27)
+DAlign(55,56,10)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB30">
+/* Y direction */	
+YAnchor(55,128)	
+YMove(-0.5,55)	
+YAnchor(64,129)	
+YAnchor(19,146)	
+YInterpolate(19,10,55)	
+YAnchor(43,122)	
+YLink(43,42,140)	
+	
+/* X direction */	
+XDist(81,0,&lt;)	
+XLink(0,64,137)	
+XDist(82,48,&lt;)	
+XDist(48,38,>=)	
+XBDelta(38,1@13)	
+XGDelta(38,1@13)	
+XIPAnchor(0,10,55,48)	
+Diagonal>>(55,54,10,27,148)	
+XGDelta(54,5/8@13)	
+DAlign(54,53,33,27)	
+DAlign(55,56,10)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB31">
+/* VTTTalk glyph 386, char 0xfb31 */
+/* GUI generated Mon Nov 12 03:11:39 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(23,123)
+YLink(23,21,140)
+YLink(23,26,140)
+YAnchor(33,308)
+
+/* X direction */
+XDist(49,25,&lt;)
+XShift(25,5)
+XShift(5,8)
+XDist(50,23,&lt;)
+XDist(23,21,>=)
+XLink(21,26,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB32">
+/* VTTTalk glyph 387, char 0xfb32 */
+/* GUI generated Mon Nov 12 03:12:14 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,30,140)
+YAnchor(7,123)
+YIPAnchor(7,12,0)
+YDelta(12,1/2@10..11,3/4@12)
+YInterpolate(12,29,0)
+YAnchor(20,127)
+YLink(20,23,143)
+YAnchor(33)
+
+/* X direction */
+XDist(49,20,>=)
+XDelta(50,1/4@11)
+XDist(50,7,>=)
+XIPAnchor(20,12,1,7)
+XInterpolate(20,31,12)
+Diagonal>&lt;(12,4,8,7,148)
+XGDelta(4,-9/8@36)
+XLink(1,30,147)
+
+Smooth()
+XDelta(34,3/8@10,1/4@14)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB33">
+/* VTTTalk glyph 388, char 0xfb33 */
+/* GUI generated Mon Nov 12 03:12:17 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,16,140)
+YLink(13,19,140)
+YShift(19,5)
+YAnchor(18,123)
+YAnchor(20,308)
+
+/* X direction */
+XAnchor(20)
+XIPAnchor(37,16,20)
+XInterpolate(37,15,16)
+XLink(16,19,136)
+XInterpolate(16,5,36)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB34">
+/* VTTTalk glyph 389, char 0xfb34 */
+/* GUI generated Mon Nov 12 03:12:28 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(22,123)
+YAnchor(29)
+YAnchor(59,123)
+YInterpolate(0,53,59)
+YShift(53,50)
+
+/* X direction */
+XDist(61,44,&lt;)
+XShift(44,34)
+XShift(34,5)
+XShift(5,8)
+XLink(44,43,136)
+XShift(43,37)
+XDist(62,21,>=)
+XLink(21,22,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB35">
+/* VTTTalk glyph 390, char 0xfb35 */
+/* GUI generated Mon Nov 12 03:12:31 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,3,140)
+YAnchor(1,123)
+YAnchor(6,308)
+
+/* X direction */
+XDist(23,1,&lt;)
+XLink(1,2,136)
+XInterpolate(2,4,22)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB36">
+/* VTTTalk glyph 391, char 0xfb36 */
+/* GUI generated Tue Nov 13 02:12:19 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,16,140)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(17,123)
+YAnchor(19,308)
+
+/* X direction */
+XDist(35,5,&lt;)
+XDelta(36,-3/8@17)
+XDist(36,15,&lt;)
+XIPAnchor(15,17,16,5)
+Diagonal>>(17,18,16,0,144)
+
+XDelta(35,-1/2@11)
+Smooth()
+XDelta(35,1/4@14)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB38">
+/* VTTTalk glyph 392, char 0xfb38 */
+/* GUI generated Mon Nov 12 03:12:49 2012 */
+
+/* Y direction */
+YAnchor(8,122)
+YShift(8,5)
+YAnchor(37,122)
+YLink(37,28,142)
+YAnchor(51,124)
+YLink(51,14,142)
+YInterpolate(51,33,37)
+YShift(33,55)
+YShift(51,54)
+YAnchor(54)
+YInterpolate(8,0,54)
+
+/* X direction */
+XDist(71,54,&lt;)
+XShift(54,5)
+XShift(54,0)
+XAnchor(0)
+Diagonal>>(54,14,0,13,147)	
+XDist(72,43,>=)
+XLink(43,22,138)
+XShift(22,25)
+XAnchor(25)
+XIPAnchor(54,37,33,43)
+Diagonal>&lt;(37,28,34,33,147)
+
+Smooth()
+XDelta(71,-1/2@10)
+XDelta(72,1/8@10)
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB39">
+/* VTTTalk glyph 393, char 0xfb39 */
+/* GUI generated Mon Nov 12 03:12:59 2012 */
+
+/* Y direction */
+YAnchor(0,121)
+YLink(0,15,140)
+YAnchor(7)
+YDelta(7,1@13)
+YAnchor(18)
+
+/* X direction */
+XDist(35,1,>=)
+XShift(1,7)
+XLink(1,15,136)
+XShift(15,8)
+XDist(15,16,>=)
+XDist(16,34,>=)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB3A">
+/* VTTTalk glyph 394, char 0xfb3a */
+/* GUI generated Mon Nov 12 03:13:02 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YShift(13,20)
+YLink(13,23,140)
+YShift(23,5)
+YAnchor(22,126)
+YAnchor(24,308)
+
+/* X direction */
+XDist(40,5,>=)
+XShift(5,8)
+XDist(41,20,>=)
+XLink(20,23,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB3B">
+/* VTTTalk glyph 395, char 0xfb3b */
+/* GUI generated Mon Nov 12 03:13:10 2012 */
+
+/* Y direction */
+YAnchor(14,121)
+YShift(14,8)
+YLink(14,0,140)
+YShift(0,5)
+YAnchor(31,123)
+YLink(31,33,140)
+YAnchor(43,308)
+
+/* X direction */
+XDist(59,33,>=)
+XShift(33,5)
+XShift(5,8)
+XDist(60,20,>=)
+XShift(20,25)
+XAnchor(25)
+XLink(20,37,136)
+XShift(37,34)
+XAnchor(34)
+
+Smooth()
+XDelta(59,-3/8@10)
+XDelta(60,1/4@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB3C">
+/* VTTTalk glyph 396, char 0xfb3c */
+/* GUI generated Mon Nov 12 03:13:19 2012 */
+
+/* Y direction */
+YAnchor(0,125)
+YAnchor(1,121)
+YLink(1,22,140)
+YShift(1,8)
+YAnchor(13,128)
+YMove(-1/4,13)
+YShift(13,14)
+YInterpolate(13,17,8)
+YAnchor(24)
+
+/* X direction */
+XAnchor(1)
+XLink(1,23,136)
+XDist(23,40,>=)
+XAnchor(25)
+XDist(25,8,>=)
+XLink(8,21,136)
+XInterpolate(21,17,13,1)
+Diagonal>&lt;(17,11,14,13,148)
+XBDelta(14,-5/8@14)
+XGDelta(41,5/4@14)
+
+XBDelta(13,1/8@14)
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB3E">
+/* VTTTalk glyph 397, char 0xfb3e */
+/* GUI generated Mon Nov 12 03:13:22 2012 */
+
+/* Y direction */
+YAnchor(0,129)
+YAnchor(17,149)
+YMove(1/2,17)
+YAnchor(27,122)
+YLink(27,59,142)
+YShift(59,64)
+YAnchor(42,123)
+YLink(42,44,140)
+YAnchor(72,308)
+
+/* X direction */
+XDist(88,0,>=)
+XShift(0,64)
+XAnchor(64)
+Diagonal>&lt;(0,71,7,64,145)
+XDist(89,35,>=)
+XLink(35,49,136)
+XInterpolate(64,43,49)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB40">
+/* VTTTalk glyph 398, char 0xfb40 */
+/* GUI generated Mon Nov 12 03:13:29 2012 */
+
+/* Y direction */
+YAnchor(13,123)
+YLink(13,15,140)
+YAnchor(18,121)
+YLink(18,16,140)
+YAnchor(19,308)
+
+/* X direction */
+XDist(35,14,>=)
+XDist(36,7,>=)
+XLink(7,15,137)
+XInterpolate(14,17,7)
+
+Smooth()
+XDelta(19,-1/2@10)
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB41">
+/* VTTTalk glyph 399, char 0xfb41 */
+/* GUI generated Mon Nov 12 03:13:35 2012 */
+
+/* Y direction */
+YAnchor(15,130)
+YLink(15,50,143)
+YAnchor(37,121)
+YShift(37,32)
+YLink(37,38,140)
+YShift(38,26)
+YShift(38,29)
+YAnchor(67,308)
+
+/* X direction */
+XDist(83,20,>=)
+XShift(20,26)
+XLink(20,44,137)
+XShift(44,38)
+XDist(84,8,>=)
+XLink(8,58,137)
+XInterpolate(58,50,44)
+
+Smooth()
+YBDelta(12,5/8@13)
+YBDelta(13,3/8@13)
+YBDelta(47,-3/8@13)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB43">
+/* VTTTalk glyph 400, char 0xfb43 */
+/* GUI generated Mon Nov 12 03:14:02 2012 */
+
+/* Y direction */
+YAnchor(0,149)
+YMove(1/2,0)
+YShift(0,2)
+YLink(2,18,143)
+YBDelta(18,1/2@13)
+YShift(18,26)
+YAnchor(11,126)
+YIPAnchor(11,24,25,0)
+
+/* X direction */
+XDist(42,25,>=)
+XDist(43,9,&lt;)
+XLink(9,12,137)
+XIPAnchor(9,24,0,25)
+Diagonal>>(25,22,0,21,147)
+Diagonal>>(25,22,24,23,147)
+YShift(23,34)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB44">
+/* VTTTalk glyph 401, char 0xfb44 */
+/* GUI generated Mon Nov 12 03:14:27 2012 */
+
+/* Y direction */
+YAnchor(0,149)
+YMove(1/2,0)
+YShift(0,3)
+YLink(3,28,142)
+YShift(28,36)
+YAnchor(20,123)
+YLink(20,22,140)
+YIPAnchor(20,34,35,0)
+YDelta(34,1/2@11..12,-3/4@14)
+
+/* X direction */
+XDist(52,35,>=)
+XShift(35,21)
+XDist(53,12,&lt;)
+XLink(12,23,137)
+XIPAnchor(12,34,0,35)
+Diagonal>>(35,32,0,31,147)
+Diagonal>>(34,33,35,32,147)
+
+YDelta(34,-1/2@13)
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB46">
+/* VTTTalk glyph 402, char 0xfb46 */
+/* GUI generated Mon Nov 12 03:14:39 2012 */
+
+/* Y direction */
+YAnchor(9,146)
+YDelta(9,1/2@14)
+YShift(9,6)
+YDelta(6,-5/8@12)
+YAnchor(32,122)
+YDelta(32,1/2@14)
+YLink(32,31,140)
+YAnchor(47,123)
+YInterpolate(9,17,47)
+YShift(17,58)
+YLink(47,49,140)
+YDelta(49,1/4@14)
+YShift(49,43)
+
+/* X direction */
+XDist(66,48,&lt;)
+XDist(67,37,&lt;)
+XGDelta(37,-1/2@13)
+XDist(37,27,>=)
+XBDelta(27,3/4@13,1/2@14)
+XGDelta(27,1@13,-1/2@19)
+XInterpolate(37,17,48)
+XShift(17,9)
+XShift(37,43)
+Diagonal>>(17,0,43,49,144)
+XGDelta(0,-5/8@19)
+DAlign(43,42,22,17)
+XShift(0,6)
+
+XDelta(67,1/4@11)
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB47">
+/* VTTTalk glyph 403, char 0xfb47 */
+/* GUI generated Tue Nov 13 02:03:19 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YShift(13,17)
+YLink(13,0,140)
+YShift(0,5)
+YShift(0,64)
+YShift(64,67)
+YAnchor(29,128)
+YInterpolate(29,26,13)
+YAnchor(43)
+YDelta(43,-1@10)
+YAnchor(74,126)
+
+/* X direction */
+XBDelta(75,7/8@14)
+XGDelta(75,7/8@14)
+XDist(75,58,>=)
+XBDelta(58,3/4@14)
+XGDelta(58,3/4@14)
+XShift(58,48)
+XLink(58,57,136)
+XShift(57,51)
+XDist(76,20,>=)
+XLink(20,39,136)
+XInterpolate(58,29,26,20)
+Diagonal>>(29,30,26,34,148)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB48">
+/* VTTTalk glyph 404, char 0xfb48 */
+/* GUI generated Mon Nov 12 03:16:26 2012 */
+
+/* Y direction */
+YAnchor(13,121)
+YShift(13,8)
+YLink(13,0,140)
+YShift(0,5)
+YAnchor(22,123)
+YAnchor(29,308)
+
+/* X direction */
+XDist(45,5,>=)
+XDist(46,21,>=)
+XLink(21,22,136)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB49">
+/* VTTTalk glyph 405, char 0xfb49 */
+/* GUI generated Mon Nov 12 03:16:33 2012 */
+
+/* Y direction */
+YAnchor(8,122)
+YShift(8,5)
+YAnchor(27,122)
+YShift(27,24)
+YAnchor(35,124)
+YLink(35,14,142)
+YShift(35,38)
+YAnchor(38)
+YIPAnchor(8,0,38)
+YAnchor(39,122)
+YShift(39,57)
+YInterpolate(39,48,35)
+YAnchor(58,183)
+
+/* X direction */
+XDist(74,38,&lt;)
+XShift(38,5)
+XBDelta(5,3/8@14)
+XShift(38,0)
+XAnchor(0)
+XBDelta(0,5/8@14)
+Diagonal>>(0,13,38,14,147)
+XShift(13,8)
+XDist(75,30,>=)
+XLink(30,21,139)
+XInterpolate(38,41,30)
+XShift(41,48)
+XBDelta(48,-3/8@14)
+XLink(41,53,139)
+XShift(53,49)
+XBDelta(49,-5/8@14)
+
+Smooth()
+YGDelta(0,-5/2@14)
+XGDelta(0,5/8@14)
+XBDelta(14,1/2@14)
+XBDelta(38,1/2@14)
+XGDelta(38,3/8@14)
+XDelta(74,-1/2@10)
+XDelta(75,1/8@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB4A">
+/* VTTTalk glyph 406, char 0xfb4a */
+/* GUI generated Mon Nov 12 03:16:40 2012 */
+
+/* Y direction */
+YAnchor(20,121)
+YShift(20,14)
+YLink(20,35,140)
+YShift(35,6)
+YShift(35,11)
+YAnchor(28,123)
+YAnchor(45,123)
+YLink(45,0,140)
+YAnchor(48,308)
+
+/* X direction */
+XDist(64,46,>=)
+XShift(46,3)
+XLink(3,38,139)
+XDist(65,27,>=)
+XLink(27,28,136)
+XInterpolate(27,35,3)
+XBDelta(35,-1/4@13)
+
+Smooth()
+XDelta(48,-3/8@10)
+XDelta(49,3/8@10)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB4B">
+/* VTTTalk glyph 407, char 0xfb4b */
+/* GUI generated Mon Nov 12 03:16:52 2012 */
+
+/* Y direction */
+YAnchor(0,187)
+YAnchor(12,121)
+YLink(12,15,140)
+YAnchor(13,123)
+
+/* X direction */
+XDist(19,13,&lt;)
+XLink(13,14,136)
+XInterpolate(14,16,18)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uogonek">
+/* VTTTalk glyph 268, char 0x173 */
+/* GUI generated Sat Nov 24 12:32:34 2012 */
+
+/* Y direction */
+YAnchor(19,6)
+YShift(19,1)
+YShift(1,4)
+YShift(4,6)
+YDist(6,11,>=)
+YAnchor(28,7)
+YLink(28,41,88)
+YAnchor(36,0)
+YAnchor(46,0)
+
+/* X direction */
+XDist(52,34,>=)
+XLink(34,37,82)
+XDist(53,48,>=)
+XShift(48,0)
+XShift(48,23)
+XLink(48,45,82)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="uring">
+/* VTTTalk glyph 264, char 0x16f */
+/* GUI generated Tue Nov 13 00:46:03 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,26,>=)
+YDist(26,20,>=)
+YDist(20,0,>=)
+YAnchor(32,7)
+YAnchor(45,7)
+YLink(45,63,88)
+YAnchor(56,0)
+YAnchor(70,0)
+
+/* X direction */
+XDist(79,54,>=)
+XLink(54,57,82)
+XDist(57,15,>=)
+XDist(80,72,>=)
+XShift(72,38)
+XShift(72,78)
+XLink(72,69,82)
+XDist(69,5,>=)
+XInterpolate(15,23,29,5)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* VTTTalk glyph 89, char 0x76 (v) */
+/* GUI generated Sat Sep 22 17:50:13 2012 */
+
+/* Y direction */
+YAnchor(0,0)
+YAnchor(1,6)
+YAnchor(2,6)
+YAnchor(3,0)
+YAnchor(4,0)
+YAnchor(6,0)
+
+/* X direction */
+XDist(7,3,&lt;)
+XDist(8,0,&lt;)
+XInterpolate(0,1,2,3)
+Diagonal>>(3,4,2,5,90)
+Diagonal>>(0,6,1,5,90)
+
+Smooth()
+YBDelta(5,-3/2@18)
+YGDelta(5,-2@18)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* VTTTalk glyph 90, char 0x77 (w) */
+/* GUI generated Wed Dec 26 22:28:02 2012 */
+
+/* Y direction */
+YAnchor(0,6)
+YAnchor(1,6)
+YAnchor(3,6)
+YAnchor(4,6)
+YAnchor(5,0)
+YAnchor(6,0)
+YAnchor(9,0)
+YInterpolate(1,25,9)
+YAnchor(10,0)
+YAnchor(19,177)
+
+/* X direction */
+XDist(29,5,&lt;)
+XGDelta(30,1/2@18)
+XDist(30,23,&lt;)
+XLink(23,15,83)
+XIPAnchor(23,0,1,9,3,4,5)
+DAlign(1,2,8,9)
+Diagonal>>(5,6,4,7,89)
+Diagonal>>(2,8,3,7,161)
+YMove(-3/8,7)
+YDelta(7,5/4@15)
+YGDelta(7,-3/2@18)
+Diagonal>>(9,10,1,11,89)
+XShift(23,25)
+XAnchor(25)
+Diagonal>>(25,13,0,11,161)
+YMove(-3/8,11)
+YDelta(11,9/8@15)
+YGDelta(11,-15/8@18,21/8@90)
+
+Smooth()
+YGDelta(2,1/2@18)
+YGDelta(13,-1/2@18)
+XGDelta(12,3/8@18)
+
+    </glyphProgram>
+
+    <glyphProgram name="wacute">
+/* VTTTalk glyph 338, char 0x1e83 */
+/* GUI generated Mon Nov 12 22:31:37 2012 */
+YAnchor(10,311)
+YLink(10,3,313)
+
+/* Y direction */
+YAnchor(11,6)
+YAnchor(12,6)
+YAnchor(14,6)
+YAnchor(15,6)
+YAnchor(16,0)
+YAnchor(17,0)
+YAnchor(20,0)
+YInterpolate(12,36,20)
+YAnchor(21,0)
+YAnchor(30,177)
+
+/* X direction */
+XDist(40,16,&lt;)
+XGDelta(41,1/2@18)
+XDist(41,34,&lt;)
+XLink(34,26,83)
+XIPAnchor(34,11,12,20,14,15,16)
+DAlign(12,13,19,20)
+Diagonal>>(16,17,15,18,89)
+Diagonal>>(13,19,14,18,161)
+YMove(-3/8,18)
+YDelta(18,5/4@15)
+YGDelta(18,-3/2@18)
+Diagonal>>(20,21,12,22,89)
+XShift(34,36)
+XAnchor(36)
+Diagonal>>(36,24,11,22,161)
+YMove(-3/8,22)
+YDelta(22,9/8@15)
+YGDelta(22,-15/8@18)
+
+Smooth()
+YGDelta(13,1/2@18)
+YGDelta(24,-1/2@18)
+XGDelta(23,3/8@18)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="wcircumflex">
+/* VTTTalk glyph 270, char 0x175 */
+/* GUI generated Tue Nov 13 00:46:30 2012 */
+
+/* Y direction */
+YAnchor(3,311)
+YShift(3,4)
+YAnchor(4)
+YLink(4,1,314)
+YAnchor(5,311)
+YAnchor(6,6)
+YAnchor(7,6)
+YAnchor(9,6)
+YAnchor(10,6)
+YAnchor(11,0)
+YAnchor(12,0)
+YAnchor(15,0)
+YInterpolate(7,31,15)
+YAnchor(16,0)
+YAnchor(25,177)
+
+/* X direction */
+XDist(35,11,&lt;)
+XGDelta(36,1/2@18)
+XDist(36,29,&lt;)
+XLink(29,21,83)
+XIPAnchor(29,6,7,15,9,10,11)
+DAlign(7,8,14,15)
+Diagonal>>(11,12,10,13,89)
+Diagonal>>(8,14,9,13,161)
+YMove(-3/8,13)
+YDelta(13,5/4@15)
+YGDelta(13,-3/2@18)
+Diagonal>>(15,16,7,17,89)
+XDist(15,0,>=)
+XDist(15,2,>=)
+XShift(29,31)
+XAnchor(31)
+Diagonal>>(31,19,6,17,161)
+YMove(-3/8,17)
+YDelta(17,9/8@15)
+YGDelta(17,-15/8@18)
+
+Smooth()
+YGDelta(8,1/2@18)
+YGDelta(19,-1/2@18)
+XGDelta(18,3/8@18)
+
+    </glyphProgram>
+
+    <glyphProgram name="wdieresis">
+/* VTTTalk glyph 340, char 0x1e85 */
+/* GUI generated Mon Nov 12 22:31:47 2012 */
+
+YAnchor(12,311)
+YDist(12,0,>=)
+YAnchor(34,311)
+YDist(34,23,>=)
+
+/* Y direction */
+YAnchor(46,6)
+YAnchor(48,6)
+YAnchor(49,6)
+YAnchor(50,0)
+YAnchor(51,0)
+YAnchor(54,0)
+YInterpolate(46,78,54)
+YAnchor(55,0)
+YAnchor(70,177)
+YAnchor(83,6)
+
+/* X direction */
+XDist(84,50,&lt;)
+XGDelta(85,1/2@18)
+XDist(85,75,&lt;)
+XLink(75,64,83)
+XIPAnchor(75,83,46,54,48,49,50)
+DAlign(46,47,53,54)
+Diagonal>>(50,51,49,52,89)
+Diagonal>>(47,53,48,52,161)
+YMove(-3/8,52)
+YDelta(52,5/4@15)
+YGDelta(52,-3/2@18)
+Diagonal>>(54,55,46,56,89)
+XShift(75,78)
+XAnchor(78)
+Diagonal>>(78,61,83,56,161)
+YMove(-3/8,56)
+YDelta(56,9/8@15)
+YGDelta(56,-15/8@18)
+
+Smooth()
+YGDelta(47,1/2@18)
+YGDelta(61,-1/2@18)
+XGDelta(58,3/8@18)
+
+
+    </glyphProgram>
+
+    <glyphProgram name="wgrave">
+/* VTTTalk glyph 90, char 0x77 (w) */
+/* GUI generated Sat Sep 22 22:44:10 2012 */
+
+YAnchor(0,311)
+YLink(0,7,313)
+/* Y direction */
+YAnchor(11,6)
+YAnchor(12,6)
+YAnchor(14,6)
+YAnchor(15,6)
+YAnchor(16,0)
+YAnchor(17,0)
+YAnchor(20,0)
+YInterpolate(12,36,20)
+YAnchor(21,0)
+YAnchor(30,177)
+
+/* X direction */
+XDist(40,16,&lt;)
+XGDelta(41,1/2@18)
+XDist(41,34,&lt;)
+XLink(34,26,83)
+XIPAnchor(34,11,12,20,14,15,16)
+DAlign(12,13,19,20)
+Diagonal>>(16,17,15,18,89)
+Diagonal>>(13,19,14,18,161)
+YMove(-3/8,18)
+YDelta(18,5/4@15)
+YGDelta(18,-3/2@18)
+Diagonal>>(20,21,12,22,89)
+XShift(34,36)
+XAnchor(36)
+Diagonal>>(36,24,11,22,161)
+YMove(-3/8,22)
+YDelta(22,9/8@15)
+YGDelta(22,-15/8@18)
+
+Smooth()
+YGDelta(13,1/2@18)
+YGDelta(24,-1/2@18)
+XGDelta(23,3/8@18)
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* VTTTalk glyph 91, char 0x78 (x) */
+/* GUI generated Sat Nov 24 12:32:07 2012 */
+
+/* Y direction */
+YAnchor(0)
+YAnchor(1,1)
+YAnchor(3,0)
+YAnchor(4,0)
+YAnchor(6)
+YAnchor(7,7)
+YAnchor(9,6)
+YAnchor(10,6)
+
+/* X direction */
+XDist(12,10,>=)
+XDist(13,4,>=)
+XIPAnchor(4,7,1,10)
+Diagonal>&lt;(1,0,6,7,90)
+Diagonal>&lt;(10,9,3,4,90)
+Intersect(2,10,3,6,1)
+Intersect(5,4,9,6,1)
+Intersect(8,4,9,0,7)
+Intersect(11,10,3,0,7)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+	
+/* Y direction */	
+YAnchor(6,175)	
+YShift(6,9)	
+YLink(6,17,87)	
+YDelta(17,-1/4@20)	
+YShift(17,12)	
+YAnchor(29,7)	
+YLink(29,45,88)	
+YAnchor(39,0)	
+YAnchor(51,0)	
+	
+/* X direction */	
+XDelta(52,1@12)	
+XDist(52,37,&lt;)	
+XLink(37,40,82)	
+XDist(53,1,&lt;)	
+XLink(1,23,82)	
+XLink(1,50,82)	
+	
+Smooth()	
+
+
+    </glyphProgram>
+
+    <glyphProgram name="yacute">
+/* VTTTalk glyph 178, char 0xfd */
+/* GUI generated Mon Nov 12 22:28:02 2012 */
+YAnchor(14,311)
+YLink(14,3,313)
+
+/* Y direction */
+YAnchor(22,175)
+YShift(22,25)
+YLink(22,33,87)
+YDelta(33,-1/4@20)
+YShift(33,28)
+YAnchor(45,7)
+YLink(45,61,88)
+YAnchor(55,0)
+YAnchor(67,0)
+
+/* X direction */
+XDelta(68,1@12)
+XDist(68,53,&lt;)
+XLink(53,56,82)
+XDist(56,15,>=)
+XDist(69,17,&lt;)
+XLink(17,39,82)
+XLink(17,66,82)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ycircumflex">
+/* Y direction */	
+YAnchor(2,311)	
+YShift(2,3)	
+YAnchor(3)	
+YLink(3,0,314)	
+YAnchor(4,311)	
+YAnchor(12,175)	
+YShift(12,15)	
+YLink(12,23,87)	
+YDelta(23,-1/4@20)	
+YShift(23,18)	
+YAnchor(35,7)	
+YLink(35,51,88)	
+YAnchor(45,0)	
+YAnchor(57,0)	
+	
+/* X direction */	
+XDelta(58,1@12)	
+XDist(58,43,&lt;)	
+XLink(43,46,82)	
+XDist(46,3,>=)	
+XDist(59,7,&lt;)	
+XLink(7,29,82)	
+XLink(7,56,82)	
+	
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="ydieresis">
+/* VTTTalk glyph 180, char 0xff */
+/* GUI generated Tue Nov 13 00:37:18 2012 */
+
+/* Y direction */
+YAnchor(10,311)
+YDist(10,0,>=)
+YAnchor(30,311)
+YDist(30,20,>=)
+YAnchor(46,175)
+YShift(46,49)
+YLink(46,57,87)
+YDelta(57,-1/4@20)
+YShift(57,52)
+YAnchor(69,7)
+YLink(69,85,88)
+YAnchor(79,0)
+YAnchor(91,0)
+
+/* X direction */
+XDelta(92,1@12)
+XDist(92,77,&lt;)
+XLink(77,80,82)
+XDist(80,15,>=)
+XDist(93,41,&lt;)
+XLink(41,63,82)
+XLink(41,90,82)
+XDist(90,25,>=)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="yen">
+/* VTTTalk glyph 101, char 0xa5 */
+/* GUI generated Fri Oct 12 03:42:03 2012 */
+
+/* Y direction */
+YAnchor(0,2)
+YAnchor(9,8)
+YInterpolate(9,21,0)
+YShift(21,1)
+YLink(1,3,73)
+YDist(3,6,>=)
+YLink(6,7,73)
+YShift(21,18)
+YLink(18,16,73)
+YDist(16,13,>=)
+YLink(13,12,73)
+YAnchor(10,8)
+YAnchor(19,2)
+YAnchor(20,2)
+YAnchor(22,2)
+
+/* X direction */
+XDist(23,19,&lt;)
+XDist(19,10,&lt;)
+XLink(10,9,68)
+XDist(9,0,&lt;)
+XDist(0,24,&lt;)
+XIPAnchor(19,21,0)
+Diagonal>&lt;(0,22,1,21,180)
+Diagonal>&lt;(19,20,18,21,180)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ygrave">
+/*grave*/	
+YAnchor(15,311)	
+YLink(15,10,313)	
+	
+/* Y direction */		
+YAnchor(22,175)	
+YShift(22,25)	
+YLink(22,33,87)	
+YDelta(33,-1/4@20)	
+YShift(33,28)	
+YAnchor(45,7)	
+YLink(45,61,88)	
+YAnchor(55,0)	
+YAnchor(67,0)	
+		
+/* X direction */		
+XDelta(68,1@12)	
+XDist(68,53,&lt;)	
+XLink(53,56,82)	
+XDist(69,17,&lt;)	
+XLink(17,39,82)	
+XLink(17,66,82)	
+		
+Smooth()	
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+
+/* Y direction */
+YAnchor(13,0)
+YShift(13,8)
+YShift(13,15)
+YLink(13,21,85)
+YShift(21,5)
+YAnchor(19,6)
+YShift(19,20)
+YLink(19,16,85)
+
+/* X direction */
+XAnchor(17)
+XDist(17,23,&lt;)
+XDist(22,20,&lt;)
+XInterpolate(17,21,20)
+Diagonal>>(21,15,20,16,90)
+
+Smooth()
+
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zacute">
+/* Y direction */
+YAnchor(14,311)
+YLink(14,3,313)
+YAnchor(29,0)
+YShift(29,24)
+YShift(29,31)
+YLink(29,37,85)
+YShift(37,21)
+YAnchor(35,6)
+YLink(35,32,85)
+YShift(35,36)
+
+/* X direction */
+XAnchor(33)
+XDist(33,39,&lt;)
+XDist(38,36,&lt;)
+XInterpolate(33,37,36)
+XDist(37,15,>=)
+Diagonal>>(37,31,36,32,90)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zcaron">
+
+/* Y direction */
+YAnchor(2,311)
+YShift(2,1)
+YAnchor(1)
+YShift(2,3)
+YAnchor(3)
+YLink(2,5,314)
+YAnchor(19,0)
+YShift(19,14)
+YShift(19,21)
+YLink(19,27,85)
+YShift(27,11)
+YAnchor(25,6)
+YLink(25,22,85)
+YShift(25,26)
+
+/* X direction */
+XAnchor(23)
+XDist(23,29,&lt;)
+XDist(28,26,&lt;)
+XInterpolate(23,27,26)
+XDist(27,2,>=)
+Diagonal>>(27,21,26,22,90)
+
+Smooth()
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zdotaccent">
+/* Y direction */
+YAnchor(10,311)
+YDist(10,0,>=)
+YAnchor(33,0)
+YShift(33,28)
+YShift(33,35)
+YLink(33,41,85)
+YShift(41,25)
+YAnchor(39,6)
+YLink(39,36,85)
+YShift(39,40)
+
+/* X direction */
+XAnchor(37)
+XDist(37,43,&lt;)
+XDist(42,40,&lt;)
+XInterpolate(37,41,40)
+XDist(41,10,>=)
+Diagonal>>(41,35,40,36,90)
+
+Smooth()
+
+    </glyphProgram>
+
+    <glyphProgram name="zero">
+/* VTTTalk glyph 19, char 0x30 (0) */
+/* GUI generated Sat Mar 09 07:43:54 2013 */
+
+/* Y direction */
+YAnchor(0,5)
+YLink(0,20,103)
+YAnchor(10,13)
+YLink(10,30,103)
+YInterpolate(20,35,30)
+
+/* X direction */
+XDist(40,15,&lt;)
+XLink(15,25,99)
+XDist(41,5,&lt;)
+XLink(5,35,99)
+XInterpolate(5,10,15)
+
+Smooth()
+
+    </glyphProgram>
+
+    <extraProgram name="reserved0">
+/* VTTTalk glyph 19, char 0x30 (0) */
+/* GUI generated Sat Mar 09 07:43:54 2013 */
+
+/* Y direction */
+YAnchor(0,5)
+YLink(0,20,103)
+YAnchor(10,13)
+YLink(10,30,103)
+YInterpolate(20,35,30)
+
+/* X direction */
+XDist(40,15,&lt;)
+XLink(15,25,99)
+XDist(41,5,&lt;)
+XLink(5,35,99)
+XInterpolate(5,10,15)
+
+Smooth()
+
+    </extraProgram>
+
+  </TSI3>
+
+</ttFont>
