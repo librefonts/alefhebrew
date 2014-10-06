@@ -1,0 +1,74 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Alef
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012 by Hagilda. All rights reserved.
+    Version: Version 1.001;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325
+    Designer: Hagilda Tel Aviv
+    Glyph count: 424
+    Character count: 423
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 93
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alef
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012 by Hagilda. All rights reserved.
+    Version: Version 1.001;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325
+    Designer: Hagilda Tel Aviv
+    Glyph count: 424
+    Character count: 423
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 93
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

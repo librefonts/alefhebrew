@@ -1,0 +1,33 @@
+{
+  "name": "Alef",
+  "designer": "Hagilda Tel Aviv",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 38234,
+  "fonts": [
+    {
+      "name": "Alef",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Alef-Bold.ttf",
+      "postScriptName": "Alef-Bold",
+      "fullName": "Alef Bold",
+      "copyright": "Copyright (c) 2012 by Hagilda. All rights reserved."
+    },
+    {
+      "name": "Alef",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Alef-Regular.ttf",
+      "postScriptName": "Alef-Regular",
+      "fullName": "Alef Regular",
+      "copyright": "Copyright (c) 2012 by Hagilda. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Alef-Regular.ttf.ttx, Alef-Bold.ttf.ttx, src/VTT-Source/Alef-Regular.ttf.ttx,
+  src/VTT-Source/Alef-Bold.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
